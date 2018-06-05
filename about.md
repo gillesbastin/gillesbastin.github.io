@@ -4,15 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I am a sociology Professor at the University of Grenoble Alpes School of Political Studies. My main research interests are connected to media sociology, sociological theory and the history of the social sciences, methodological, political and ethical issues pertaining to the datafication of social media and the web.
+I am involved as co-head at the University of Grenoble Alpes Journalism School.
