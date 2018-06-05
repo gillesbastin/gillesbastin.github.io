@@ -8,7 +8,7 @@ layout: default
   {%- endif -%}
 
   {{ content }}
-
+<br><br>
   {%- if site.posts.size > 0 -%}
   <div style="text-align:center">  
   <h2 class="post-list-heading">{{ page.list_title | default: "All posts on this site" }}</h2>
@@ -16,7 +16,7 @@ layout: default
     <table style="width:100%;border:none;">
       {%- for post in site.posts -%}
       <tr>
-        <td style="width:25%;border:none;">
+        <td style="width:20%;border:none;">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span>{{ post.date | date: date_format }}</span>
         </td>
@@ -31,7 +31,7 @@ layout: default
       </tr>
       {%- endfor -%}
     </table>
-
+<br><br>
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
 
