@@ -1,14 +1,14 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Sociology, Media and other things
+author: Gilles Bastin
+email: gilles.bastin@iepg.fr
 description: > # this means to ignore newlines until "twitter_username:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Research projects, notes, readings,
+  course details for students, publications
+  and contact informations.
 
 # social links
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: gillesbastin
+github_username:  gillesbastin
 rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll
