@@ -232,23 +232,16 @@ table {
   margin-bottom: $spacing-unit;
   width: 100%;
   text-align: $table-text-align;
-  color: ;
   border-collapse: collapse;
-  border: 0px solid $grey-color-light;
   tr {
     &:nth-child(even) {
-      background-color: ;
     }
   }
   th, td {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
   }
   th {
-    background-color: ;
-    border: 0px solid ;
-    border-bottom-color: ;
   }
   td {
-    border: 0px solid ;
   }
 }
