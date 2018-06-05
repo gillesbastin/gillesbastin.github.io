@@ -10,7 +10,9 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "All posts on this site" }}</h2>
+  <div style="text-align:center">  
+  <h2 class="post-list-heading">{{ page.list_title | default: "All posts on this site" }}</h2>
+  </div>
     <table style="width:100%;border:none;">
       {%- for post in site.posts -%}
       <tr>
