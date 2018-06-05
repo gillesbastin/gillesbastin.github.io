@@ -13,10 +13,11 @@ layout: default
   <div style="text-align:center">  
   <h2 class="post-list-heading">{{ page.list_title | default: "All posts on this site" }}</h2>
   </div>
+  <br><br>
     <table style="width:100%;border:none;">
       {%- for post in site.posts -%}
       <tr>
-        <td style="width:20%;border:none;">
+        <td style="width:15%;border:none;">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span>{{ post.date | date: date_format }}</span>
         </td>
