@@ -2,7 +2,6 @@
 title: Videogazette 2.0
 categories: projets
 permalink: /videogazette/
-collection: projet
 layout: page
 header:
   teaser: /img/Videogazette_Teaser.png
