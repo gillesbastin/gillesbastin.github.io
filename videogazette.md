@@ -3,9 +3,9 @@ title: "Videogazette 2.0"
 categories: projets
 permalink: /videogazette/
 layout: page
-header:
-  teaser: /img/Videogazette_Teaser.png
 ---
+
+<img src="img/Videogazette_Teaser.png">
 
 Documentation, numérisation et réappropriation d’une expérience de télévision locale participative à Grenoble (1972-1976)
 
