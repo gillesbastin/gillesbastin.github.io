@@ -1,11 +1,8 @@
-title: >
-  Sociologie, Media et autres choses | Sociology, Media and other things
+title: Gilles Bastin | B-Side
 author: Gilles Bastin
 email: gilles.bastin@iepg.fr
 description: > # this means to ignore newlines until "twitter_username:"
-  Ce site est un dépôt numérique pour mes projets de recherche, des notes, des lectures, des informations à destination des étudiants, des publications
-  
-  Research projects, notes, readings, course details for students, publications and contact informations.
+  Ce site est un dépôt numérique pour mes projets de recherche, des notes, des lectures, des informations à destination des étudiants, des publications | Research projects, notes, readings, course details for students, publications and contact informations.
 
 # social links
 twitter_username: gillesbastin
@@ -37,8 +34,12 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.html
+header_pages:
+ - about.html
+ - projects.html
+ - blog.html
+ - courses.html
+ - publications.html
 
 # Build settings
 theme: minima
