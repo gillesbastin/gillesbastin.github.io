@@ -25,7 +25,7 @@ rss: rss
 #   instance: example.com
 
 
-show_excerpts: true # set to true to show excerpts on the homepage
+show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -35,11 +35,11 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
- - about.md
+ - About.md
  - Projects.md
- - blog.md
- - courses.md
- - publications.md
+ - Blog.md
+ - Courses.md
+ - Publications.md
 
 # Build settings
 theme: minima
