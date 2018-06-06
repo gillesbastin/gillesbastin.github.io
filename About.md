@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{{ "/img/gilles.png" | absolute_url }}
+<img src="/img/gilles.png">
 
 Je suis Professeur de sociologie à l'[Institut d'Études Politiques](http://www.sciencespo-grenoble.fr/) de l'Université Grenoble Alpes. Mes recherches portent principalement sur la sociologie des médias et de l’information, sur la théorie sociologique et l’histoire des sciences sociales, sur les aspects méthodologiques, politiques et éthiques de l'usage des données dans les sciences sociales, notamment des données tirées des réseaux sociaux et du web.
 
