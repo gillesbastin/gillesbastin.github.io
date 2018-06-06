@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Le physicien et la sociologie
-categories: Chronique
+categories: chronique
 ---
 
 À propos de <i>Pourquoi la société ne se laisse pas mettre en équations</i>, de Pablo Jensen, Seuil, « Science ouverte », 316 p., 22 €.
