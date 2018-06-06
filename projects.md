@@ -4,8 +4,8 @@ layout: page
 permalink: /projects/
 ---
 
-{% for post in site.posts %}
-  {% if post.categories contains 'projets' %}
-  <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+{% for page in site.pages %}
+  {% if page.categories contains 'projets' %}
+  <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
   {% endif %}
 {% endfor %}
