@@ -1,5 +1,5 @@
 ---
-title: Videogazette 2.0
+title: "Videogazette 2.0"
 categories: projets
 permalink: /videogazette/
 layout: page
