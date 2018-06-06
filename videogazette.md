@@ -5,7 +5,7 @@ permalink: /videogazette/
 layout: page
 ---
 
-<img src="img/Videogazette_Teaser.png">
+<img src="/img/Videogazette_Teaser.png">
 
 <i>Documentation, numérisation et réappropriation d’une expérience de télévision locale participative à Grenoble (1972-1976)</i>
 
