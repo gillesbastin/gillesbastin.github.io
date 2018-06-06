@@ -3,6 +3,7 @@ title: Blog
 permalink: /blog/
 layout: page
 ---
+<div class="home">
 {%- if site.posts.size > 0 -%}
   <div style="text-align:center">  
   <h2 class="post-list-heading">{{ page.list_title | default: "Tout | Everything" }}</h2>
@@ -29,3 +30,4 @@ layout: page
 <br><br>
     <div style="text-align:center"><p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p></div>
   {%- endif -%}
+</div>
