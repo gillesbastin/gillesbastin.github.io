@@ -4,6 +4,7 @@ categories: projets
 permalink: /flexmedialives/
 layout: page
 ---
+
 FlexMediaLives aims to provide new data and new analytical frameworks to understand the adjustments made by individuals throughout their careers in social worlds governed by flexible labor markets, such as those for journalists in the media. The journalists’ labor market is particularly interesting to this project because while they suffer from a high (and increasing) level of job uncertainty in most societies, journalists play an important role in democracies. Their social status is thus a very important public issue. This labor market will be analyzed from a comparative point of view contrasting the cases of France, the UK and Brazil.
 
 This project has a very strong methodological dimension. It notably draws on the collection, coding and analysis of very large volumes of data drawn from public profiles of journalists and former journalists on the social and professional network LinkedIn. These data will be analyzed using longitudinal methods to monitor the career of quasi-cohorts of journalists since the 1980's. The method is innovative and has a high potential for breakthrough in the social sciences.
