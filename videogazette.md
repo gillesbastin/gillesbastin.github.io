@@ -1,5 +1,5 @@
 ---
-title: "Videogazettenet"
+title: "Videogazette.net"
 categories: projets
 permalink: /videogazette/
 layout: page
