@@ -9,12 +9,11 @@ layout: default
 
   {{ content }}
 <br><br>
-  <img src="/img/desk4.png"><br><br>
+  <img src="/img/desk4.png">
   <br><br>
   {%- if site.posts.size > 0 -%}
   <div style="text-align:left">  
   <h2 class="post-list-heading">{{ page.list_title | default: "Derniers messages | Last posts" }}</h2>
-    Consulter la rubrique « Blog » pour voir tous les messages postés sur le site.
   </div>
   <br><br>
     <table style="width:100%;border:none;">
@@ -39,7 +38,7 @@ layout: default
       {%- endfor -%}
     </table>
 <br><br>
-    <div style="text-align:left"><p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p></div>
+    <div style="text-align:left"><p class="rss-subscribe">Consulter la rubrique « Blog » pour voir tous les messages postés sur le site. Abonnement <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p></div>
   {%- endif -%}
 
 </div>
