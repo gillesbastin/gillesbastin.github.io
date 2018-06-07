@@ -10,8 +10,9 @@ layout: default
   <div class="post-content">
     {{ content }}
   </div>
-
+  
   {% for post in site.tags[page.tags] %}
+  <h3>Les actualités du projet</h3>
     <a href="{{ post.url | absolute_url }}">
       {{ post.title }}
     </a>
