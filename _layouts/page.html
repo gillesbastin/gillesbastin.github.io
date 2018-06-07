@@ -11,4 +11,10 @@ layout: default
     {{ content }}
   </div>
 
+  {% for post in site.tags[page.tags] %}
+    <a href="{{ post.url | absolute_url }}">
+      {{ post.title }}
+    </a>
+{% endfor %}
+  
 </article>
