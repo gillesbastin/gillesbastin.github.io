@@ -27,6 +27,9 @@ layout: default
           <a href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
+          {%- if post.tags.size > 0 -%}
+           ({{ post.tags }})
+          {%- endif -%}
         </td>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
