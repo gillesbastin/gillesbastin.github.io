@@ -16,7 +16,7 @@ layout: home
     </td>
     <td width="4%">
     </td>
-    <td width="48%" valign="top"><i>This website is a depository for ongoing research projects descriptions, various notes, book reviews, course details for my students and links to my own publications.</i>
+    <td width="48%" valign="top"><i>This website is a depository that I use for ongoing research projects descriptions, various notes, book reviews, course details for my students and links to my own publications.</i>
     </td>
   </tr>
 </table>
