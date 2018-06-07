@@ -11,10 +11,12 @@ layout: home
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="45%" valign="top">
       Ce site est une archive numérique dans laquelle je dépose des descriptions de projets de recherche en cours, des notes, des compte-rendus de lectures, des informations à destination des étudiants qui suivent mes cours ainsi que des liens vers mes publications.
     </td>
-    <td width="50%"><i>This website is a depository for ongoing research projects descriptions, various notes, book reviews, course details for my students and links to my own publications.</i>
+    <td> width="10%">
+    </td>
+    <td width="45%" valign="top"><i>This website is a depository for ongoing research projects descriptions, various notes, book reviews, course details for my students and links to my own publications.</i>
     </td>
   </tr>
 </table>
