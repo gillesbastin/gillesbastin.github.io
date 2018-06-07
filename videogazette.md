@@ -1,6 +1,7 @@
 ---
 title: "Videogazette.net"
 categories: projets
+tags: videogazette
 permalink: /videogazette/
 layout: page
 ---
