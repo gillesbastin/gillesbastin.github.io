@@ -10,7 +10,7 @@ Je fais partie de l'équipe [Régulations](https://www.pacte-grenoble.fr/page/re
 
 J'ai créé ce site au printemps 2018 afin de donner accès à des informations sur mes projets en cours mais aussi à des lectures comme celles que je fais régulièrement dans le domaine des sciences sociales pour le Monde des Livres.
 
-<img src="/img/27092013-IMG_1487-N&B-light.jpeg">
+<img src="/img/27092013-IMG_1487-N&B-light.jpeg" align="middle" width="200px">
 
 <i>I am a sociology Professor at the University of Grenoble Alpes School of Political Studies. My main research interests are connected to media sociology, sociological theory and the history of the social sciences, methodological, political and ethical issues pertaining to the datafication of social media and the web.</i>
 
