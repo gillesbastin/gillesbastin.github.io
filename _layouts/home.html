@@ -27,7 +27,7 @@ layout: default
             {{ post.title | escape }}
           </a>
           {%- if post.tags.size > 0 -%}
-           ({{ post.tags }})
+           | [{{ post.tags }}]
           {%- endif -%}
         </td>
         {%- if site.show_excerpts -%}
