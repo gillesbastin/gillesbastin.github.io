@@ -5,8 +5,9 @@ layout: page
 ---
 
 Tous les messages postés sur ce site sont consultables ici.
+
 <i>All posts on this site are displayed here.</i>
-<br>
+<br><br>
 <div class="home">
 {%- if site.posts.size > 0 -%}
     <table style="width:100%;border:none;">
