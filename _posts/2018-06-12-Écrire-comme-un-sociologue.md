@@ -1,5 +1,5 @@
 ---
-title: Comment écrire comme un sociologue ?
+title: Comment écrire <strike>pour</strike> comme un sociologue ?
 layout: post
 categories: cours
 tags: "student's corner"
