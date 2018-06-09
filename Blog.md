@@ -3,12 +3,12 @@ title: Blog
 permalink: /blog/
 layout: page
 ---
+
+Tous les messages postés sur ce site sont consultables ici.
+<i>All posts on this site are displayed here.</i>
+<br>
 <div class="home">
 {%- if site.posts.size > 0 -%}
-  <div style="text-align:center">  
-  <h2 class="post-list-heading">{{ page.list_title | default: "Tout | Everything" }}</h2>
-  </div>
-  <br><br>
     <table style="width:100%;border:none;">
       {%- for post in site.posts -%}
       <tr>
@@ -20,6 +20,9 @@ layout: page
           <a href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
+          {%- if post.tags.size > 0 -%}
+           | [{{ post.tags }}]
+          {%- endif -%}
         </td>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
