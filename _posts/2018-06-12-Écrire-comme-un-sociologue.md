@@ -1,5 +1,5 @@
 ---
-title: Comment écrire pour (ou comme) un sociologue ?
+title: Comment écrire comme (ou à défaut pour) un sociologue ?
 layout: post
 categories: cours
 tags: tips
