@@ -2,6 +2,7 @@
 title: "Médias, réseaux sociaux: mais pourquoi sont-ils aussi méchants ?"
 layout: post
 categories: chronique
+tags: lecture
 ---
 
 À propos de <i>La Méchanceté en actes à l’ère numérique</i> de François Jost.
