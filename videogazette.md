@@ -6,9 +6,7 @@ permalink: /videogazette/
 layout: page
 ---
 
-<img src="/img/videogazette_banner.png">
-
-<i>Documentation, numérisation et réappropriation d’une expérience de télévision locale participative à Grenoble (1972-1976)</i>
+<b>Documentation, numérisation et réappropriation d’une expérience de télévision locale participative à Grenoble (1972-1976)</b>
 
 Entre 1972 et 1976, des habitants du nouveau quartier de la Villeneuve à Grenoble essayèrent de produire une image originale de leur vie avec les moyens des médias audiovisuels de leur temps. Soutenus par une municipalité innovante et encadrés par une équipe de professionnels de l'image ou de l'action culturelle et éducative ils profitèrent d'une mesure dérogatoire au monopole de l'ORTF sur la télévision pour produire et diffuser chaque semaine dans leur quartier des reportages, des magazines et des émissions de débat. Cette expérience, qui prit le nom de Vidéogazette, est unique et pionnière en France. Elle prit fin en 1976.
 
