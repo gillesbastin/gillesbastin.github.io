@@ -2,7 +2,7 @@
 title: Comment écrire <strike>pour</strike> comme un sociologue ?
 layout: post
 categories: cours
-tags: "student's corner"
+tags: tips
 ---
 
 Comme chaque année à la même saison je viens juste de mettre un terme à une plongée profonde et prolongée dans les écrits des étudiants qui suivent mon cours fondamentale de « Sociologie contemporaine ».
