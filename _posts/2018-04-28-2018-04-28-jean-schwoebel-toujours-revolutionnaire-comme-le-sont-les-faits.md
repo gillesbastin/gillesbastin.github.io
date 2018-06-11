@@ -2,7 +2,7 @@
 layout: post
 title: Jean Schwœbel, toujours révolutionnaire
 category: Chronique
-tags: lecture
+tags: bookreview
 ---
 
 À propos de <i>La Presse, le Pouvoir et l’Argent</i>, de Jean Schwœbel, préface de Paul Ricœur, 
