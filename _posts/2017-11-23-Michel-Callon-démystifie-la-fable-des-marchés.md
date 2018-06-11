@@ -2,7 +2,7 @@
 title: "Michel Callon démystifie la fable des marchés"
 layout: post
 categories: chronique
-tags: lecture
+tags: bookreview
 ---
 
 À propos de <i>L’emprise des marchés. Comprendre leur fonctionnement pour pouvoir les changer</i>, de Michel Callon, La Découverte, 504 p.
