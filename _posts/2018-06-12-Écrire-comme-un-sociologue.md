@@ -5,7 +5,12 @@ categories: cours
 tags: tips
 ---
 
-Comme chaque année à la même saison je viens juste de mettre un terme à une plongée profonde et prolongée dans les écrits des étudiants qui suivent mon cours fondamentale de « Sociologie contemporaine ». Je suis frappé de constater que les défauts les plus manifestes de certaines copies ne relèvent pas d'un manque de connaissances mais plutôt de formulations
+Comme chaque année à la même saison je viens juste de mettre un terme à un exercice de plongée profonde et prolongée dans les écrits des étudiants qui suivent mon cours fondamentale de « Sociologie contemporaine » (troisième année de Sciences Po Grenoble). Je suis de plus en plus frappé de constater que très souvent les copies que je lis ne pèchent pas par un défaut de connaissance mais du fait de formulations peu précises, maladroites ou fautives.
+
+Une part de ces problèmes de formulation relève simplement de la correction de la langue ou de remarques de bon sens (à ce titre il faut évidemment rappeler que l'objectif de l'écriture manuscrite sur une copie d'examen doit toujours être de véhiculer des arguments et qu'un argument de bon niveau exprimé dans une écriture illisible ne vaut donc rien). Mais une autre partie relève d'un problème de langue plus subtil : il ne s'agit pas en effet d'écrire en bon français pour être compris. Il faut aussi écrire dans la langue de celui qui vous lit. Ici il s'agit de la langue des sociologues !
+
+Les remarques et conseils suivants doivent vous aider à comprendre quelques uns des tours les plus simples de cette langue et à éviter des fautes élémentaires dans de futurs échanges avec un•e sociologue. En d'autres termes, si ce n'est d'écrire <i>comme</i> un sociologue, a minima de le faire <i>pour</i> un sociologue en maximisant vos chances qu'il vous comprenne.
+
 1. Les guillemets mentent : le seul usage acceptable des guillemets pour un sociologue (mais il en est de même pour un journaliste et de nombreuses autres professions) est celui qui permet de faire référence de manière exacte aux propos ou aux écrits d'une personne. Il faut donc éviter absolument de les utiliser pour un autre usage, comme par exemple lorsque vous n'êtes pas sûr•e d'une formulation (un paradoxe !) ou pour atténuer une autre.
 2. On n'existe pas : 
 3. La société à bon dos (variante de 2)
