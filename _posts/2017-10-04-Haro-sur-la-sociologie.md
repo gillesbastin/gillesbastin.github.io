@@ -2,7 +2,7 @@
 title: Haro sur la sociologie
 layout: post
 categories: chronique
-tags: 
+tags: "book review"
 ---
 
 À propos de <i>Le Danger sociologique</i>, de Gérald Bronner et Etienne Géhin, PUF, 244 p., 17 €.
