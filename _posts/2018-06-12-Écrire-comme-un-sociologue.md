@@ -5,7 +5,7 @@ categories: cours
 tags: tips
 ---
 
-***Comme chaque année à la même période je viens juste de mettre un terme à un exercice de plongée profonde et prolongée dans les écrits des étudiants qui suivent mon cours fondamental de « Sociologie contemporaine » (troisième année de Sciences Po Grenoble). Je suis de plus en plus frappé de constater très souvent que les copies que je lis ne pèchent pas par un défaut de connaissance mais du fait de formulations peu précises, maladroites ou fautives.
+Comme chaque année à la même période je viens juste de mettre un terme à un exercice de plongée profonde et prolongée dans les écrits des étudiants qui suivent mon cours fondamental de « Sociologie contemporaine » (troisième année de Sciences Po Grenoble). Je suis de plus en plus frappé de constater très souvent que les copies que je lis ne pèchent pas par un défaut de connaissance mais du fait de formulations peu précises, maladroites ou fautives.
 
 Une part de ces problèmes de formulation relève simplement de la correction de la langue. Des formulations comme « L'école comporte plusieurs fonctions » ne sont pas à proprement parler des fautes de raisonnement mais mettent votre lecteur dans un état d'inconfort cognitif qui ne peut pas vous être favorable. D'autres problèmes relèvent purement de remarques de bon sens dont la première est que l'objectif de l'écriture manuscrite sur une copie d'examen doit toujours être de véhiculer des arguments. De ce fait un argument de bon niveau exprimé dans une écriture illisible ne vaut… rien).
 
@@ -13,11 +13,13 @@ Mais une autre partie des défauts que l'on peut trouver dans des copies d'exame
 
 Les remarques et conseils suivants doivent vous aider à comprendre quelques uns des tours les plus simples de cette langue et à éviter des fautes élémentaires dans de futurs échanges avec un•e sociologue. En d'autres termes, si ce n'est d'écrire <i>comme</i> un sociologue, a minima de le faire <i>pour</i> un sociologue en maximisant vos chances qu'il vous comprenne.
 
-1. <b>Les guillementent.</b> Le seul usage acceptable des guillemets pour un sociologue (mais il en est de même pour de nombreuses autres professions) est celui qui consiste à faire référence de manière exacte aux propos ou aux écrits d'une personne. Tout autre usage doit donc être soigneusement évité, notamment celui qui consiste à les utiliser pour signaler la présence d'une intention ironique dans une formulation (<i>« Alice Goffman est la fille d'Erving Goffman (les sociologues pratiquent donc aussi la "reproduction") »</i>) ou pour cacher le fait que l'on a des doutes sur le choix d'un mot ou en atténuer la portée. Essayez de limiter l'usage des guillemets aux citations exactes pour lesquelles vous pouvez mentionner une source. Dans tous les autres cas vous risquez de vous éloigner de l'idéal d'efficacité et de transparence de la langue que vous devez viser.
+<h3>Les guillementent</h3>
 
-2. <b>On n'existe pas.</b> 
+Le seul usage acceptable des guillemets pour un sociologue (mais il en est de même pour de nombreuses autres professions) est celui qui consiste à faire référence de manière exacte aux propos ou aux écrits d'une personne. Tout autre usage doit donc être soigneusement évité, notamment celui qui consiste à les utiliser pour signaler la présence d'une intention ironique dans une formulation (<i>« Alice Goffman est la fille d'Erving Goffman (les sociologues pratiquent donc aussi la "reproduction") »</i>) ou pour cacher le fait que l'on a des doutes sur le choix d'un mot ou en atténuer la portée. Essayez de limiter l'usage des guillemets aux citations exactes pour lesquelles vous pouvez mentionner une source. Dans tous les autres cas vous risquez de vous éloigner de l'idéal d'efficacité et de transparence de la langue que vous devez viser.
 
-3. La société à bon dos (variante de la remarque 2)
+<h3>On n'existe pas.</h3> 
+
+<h3>La société à bon dos (variante de la remarque 2)</h3>
 
 4. Trois anecdotes ne font pas une preuve
 
