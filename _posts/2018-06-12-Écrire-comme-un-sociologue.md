@@ -5,7 +5,7 @@ categories: cours
 tags: tips
 ---
 
-Comme chaque année à la même période je viens juste de mettre un terme à un exercice de plongée profonde et prolongée dans les écrits des étudiants qui suivent mon cours fondamental de « Sociologie contemporaine » (troisième année de Sciences Po Grenoble). Je suis de plus en plus frappé de constater très souvent que les copies que je lis ne pèchent pas par un défaut de connaissance mais du fait de formulations peu précises, maladroites ou fautives.
+***Comme chaque année à la même période je viens juste de mettre un terme à un exercice de plongée profonde et prolongée dans les écrits des étudiants qui suivent mon cours fondamental de « Sociologie contemporaine » (troisième année de Sciences Po Grenoble). Je suis de plus en plus frappé de constater très souvent que les copies que je lis ne pèchent pas par un défaut de connaissance mais du fait de formulations peu précises, maladroites ou fautives.
 
 Une part de ces problèmes de formulation relève simplement de la correction de la langue. Des formulations comme « L'école comporte plusieurs fonctions » ne sont pas à proprement parler des fautes de raisonnement mais mettent votre lecteur dans un état d'inconfort cognitif qui ne peut pas vous être favorable. D'autres problèmes relèvent purement de remarques de bon sens dont la première est que l'objectif de l'écriture manuscrite sur une copie d'examen doit toujours être de véhiculer des arguments. De ce fait un argument de bon niveau exprimé dans une écriture illisible ne vaut… rien).
 
