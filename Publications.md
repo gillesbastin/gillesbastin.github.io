@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+Merci de consulter HAL pour télécharger les PDF des publications disponibles en open access : [https://cv.archives-ouvertes.fr/gilles-bastin]
+
 #### Thèses | Academic Thesis
 
 Gilles Bastin, _Le paradoxe du paria Morphologie des mondes de l’information et _persona_ des journalistes_, Habilitation à Diriger des Recherches, garant : Pierre-Michel Menger, Ecole des Hautes Etudes en Sciences Sociales, novembre 2015.
