@@ -43,7 +43,7 @@ Il est toujours tentant d'essayer d'imaginer les effets que pourraient avoir tel
 
 Contrairement à ce que vous pensez peut-être les meilleures explications que l'on peut trouver de problèmes sociaux complexes sont souvent… les plus simples à énoncer. Arriver à cette simplicité est évidemment long et coûteux mais vous pouvez vous engager sur ce chemin en prenant soin d'éviter toutes les formes de jargon.
 
-<h3>Choisissez vos mots… pour éviter ceux des autres<h3>
+<h3>Choisissez vos mots… pour éviter ceux des autres</h3>
 
  La plupart des questions que se posent les sociologues sont des questions largement débattues dans différents cercles. Prenez garde à utiliser un vocabulaire qui ne soit pas celui des acteurs de ces débats. Un exemple ? Écrire des choses intelligentes sur la situation des femmes sur le marché du travail et conclure en évoquant la question de « l'émancipation de la femme » c'est dommage parce que cette expression charrie avec elle l'image d'une nature féminine invariable contre laquelle se sont justement construites beaucoup de recherches visant à montrer la construction sociale des rapports de genre !
 
