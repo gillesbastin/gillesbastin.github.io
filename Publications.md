@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-Merci de consulter HAL pour télécharger les PDF des publications disponibles en open access : [https://cv.archives-ouvertes.fr/gilles-bastin]
+Merci de consulter [le serveur HAL](https://cv.archives-ouvertes.fr/gilles-bastin) pour télécharger les PDF des publications disponibles en open access.
 
 #### Thèses | Academic Thesis
 
@@ -16,7 +16,7 @@ Gilles Bastin, _Les professionnels de l’information européenne à Bruxelles. 
 
 Gilles Bastin, _Dictionnaire critique du journalisme et des médias_ (Presses Universitaires de Grenoble, parution prévue pour septembre 2018).
 
-Gilles Bastin, _Grands débats des sciences économiques et sociales_, Presses Universitaires de France, 1998. 
+Gilles Bastin, _Grands débats des sciences économiques et sociales_, Presses Universitaires de France, 1998.
 
 #### Articles dans des revues scientifiques | Articles
 
@@ -52,9 +52,9 @@ Gilles Bastin, _Grands débats des sciences économiques et sociales_, Presses U
 
 [8] Gilles Bastin, « Weber dépasse Weber. À propos d’une nouvelle traduction de l’Ethique protestante et l’esprit du capitalisme », _Sociologie du travail_, 47(1), 2005, pp.115-124. ([hal-00008618](https://hal.archives-ouvertes.fr/halshs-00008618v1) ; [http://www.sciencedirect.com/science/article/pii/S003802960400161X](http://www.sciencedirect.com/science/article/pii/S003802960400161X)).
 
-[7] Gilles Bastin, « Les professionnels de l’information en travailleurs de la gouvernance. Éléments d’économie politique de l’information européenne à Bruxelles depuis les années 1960 », _Regards Sociologiques_, 27-28, 2004, pp. 138-148 ([http://www.regards-sociologiques.com/index.php/2004-27-28](http://www.regards-sociologiques.com/index.php/2004-27-28)). 
+[7] Gilles Bastin, « Les professionnels de l’information en travailleurs de la gouvernance. Éléments d’économie politique de l’information européenne à Bruxelles depuis les années 1960 », _Regards Sociologiques_, 27-28, 2004, pp. 138-148 ([http://www.regards-sociologiques.com/index.php/2004-27-28](http://www.regards-sociologiques.com/index.php/2004-27-28)).
 
-[6] Gilles Bastin & Pierre-Paul Zalio, « Sociologie économique début de siècle : l’impossible troisième voie entre histoire et théorie économique », _terrains & travaux_, 4, 2003([hal-01384438](https://halshs.archives-ouvertes.fr/halshs-01384438v1) ; [http://www.cairn.info/revue-terrains-et-travaux-2003-1-page-6.htm](http://www.cairn.info/revue-terrains-et-travaux-2003-1-page-6.htm)). 
+[6] Gilles Bastin & Pierre-Paul Zalio, « Sociologie économique début de siècle : l’impossible troisième voie entre histoire et théorie économique », _terrains & travaux_, 4, 2003([hal-01384438](https://halshs.archives-ouvertes.fr/halshs-01384438v1) ; [http://www.cairn.info/revue-terrains-et-travaux-2003-1-page-6.htm](http://www.cairn.info/revue-terrains-et-travaux-2003-1-page-6.htm)).
 
 [5] Gilles Bastin, « Der Journalismus in der Bourdieuschen Soziologie : Ein Gegenstand, der Widerstand leistet. Einige Bemerkungen über das Feld des Journalismus » (« Le journalisme dans la sociologie bourdieusienne : un objet qui résiste. Quelques remarques sur le champ du journalisme »), _Publizistik_, 48(3), 2003 ([hal-00101367](https://halshs.archives-ouvertes.fr/halshs-00101367v1) ; [http://link.springer.com/article/10.1007/s11616-003-0075-8](http://link.springer.com/article/10.1007/s11616-003-0075-8)).
 
@@ -78,7 +78,7 @@ Gilles Bastin, _Grands débats des sciences économiques et sociales_, Presses U
 
 [8] Gilles Bastin & Roselyne Ringoot, « Les livres de journalistes. Un tournant auctorial en journalisme ? », in Florence Le Cam et Denis Ruellan (dir.), _Changements et permanences du journalisme_, L'Harmattan, 2014, pp. 139-156 ([hal-01386352](https://hal.archives-ouvertes.fr/hal-01386352)).
 
-[7] Gilles Bastin, « Note sur l’usage des réseaux dans les sciences sociales », in C. Bonnet, V. Krings et C. Valenti, _Connaître l’Antiquité. Individus, réseaux et stratégies du XVIIIème au XXIème siècle_, Presses Universitaires de Rennes, 2010, p. 13-27. 
+[7] Gilles Bastin, « Note sur l’usage des réseaux dans les sciences sociales », in C. Bonnet, V. Krings et C. Valenti, _Connaître l’Antiquité. Individus, réseaux et stratégies du XVIIIème au XXIème siècle_, Presses Universitaires de Rennes, 2010, p. 13-27.
 
 [6] Gilles Bastin, « Médiatisation et anonymisation du monde chez Max Weber », in H. Bruhns et P. Duran (dir.), _Max Weber et le politique_, LGDJ, 2009, p. 129-142.
 
@@ -94,12 +94,12 @@ Gilles Bastin, _Grands débats des sciences économiques et sociales_, Presses U
 
 #### Articles dans des revues sans comité de lecture | Other articles
 
-[2] Gilles Bastin, « Les deux visages du journalisme européen. Quelques remarques depuis le monde de l'information européenne à Bruxelles », _Médiamorphoses_, 12, 2004. 
+[2] Gilles Bastin, « Les deux visages du journalisme européen. Quelques remarques depuis le monde de l'information européenne à Bruxelles », _Médiamorphoses_, 12, 2004.
 
 [1] Gilles Bastin, « Die Abrechnung », _Message_, 1, 2004.
 
 #### Traductions | Translations
 
-[2] Max Weber, « Rapport préliminaire pour une proposition d’enquête sur la sociologie de la presse », trad. de « Vorbericht über eine vorgeschlagene Erhebung über die Soziologie des Zeitungswesens »), _Réseaux_, 109, 2002. 
+[2] Max Weber, « Rapport préliminaire pour une proposition d’enquête sur la sociologie de la presse », trad. de « Vorbericht über eine vorgeschlagene Erhebung über die Soziologie des Zeitungswesens »), _Réseaux_, 109, 2002.
 
 [1] Hanno Hardt et Bonnie Brennen, « Travail de l’information, histoire et matériau photographique : analyse visuelle d’une salle de rédaction dans les années 1930 », trad. de « Newswork, History and Photographic Evidence : A Visual Analysis of a 1930s Newsroom », in Brennen, B. & H. Hardt (eds.), Picturing the Past : Media, History and Photography, Champaign, University of Illinois Press, 1999, 263p.], _terrains & travaux_, 3, 2002.

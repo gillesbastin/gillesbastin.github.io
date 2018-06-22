@@ -53,4 +53,4 @@ En règle générale il est toujours préférable de fonder vos raisonnements su
 
 <h3>Ne soyez pas naïf•ve</h3>
 
-Nous pouvons tous souhaiter nous transporter dans des sociétés différentes de celle dans laquelle nous vivons. Pour autant nous vivons ici et maintenant. Essayer de l'occulter en écrivant par exemple qu'il est « incompréhensible », « surprenant » ou « injuste » que la société fonctionne comme elle fonctionne en vous aide pas à expliquer ce fonctionnement.
+Nous pouvons tous souhaiter nous transporter dans des sociétés différentes de celle dans laquelle nous vivons. Pour autant nous vivons ici et maintenant. Essayer de l'occulter en écrivant par exemple qu'il est « incompréhensible », « surprenant » ou « injuste » que la société fonctionne comme elle fonctionne ne vous aide pas à expliquer ce fonctionnement.
