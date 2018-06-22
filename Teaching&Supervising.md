@@ -5,9 +5,10 @@ layout: page
 categories: teaching&supervising
 ---
 
+Supervision d'étudiants en thèse :
 
 
-{% for post in site.categories[page.categories] %}
+{% for post in site.categories[page.category] %}
 <h2>Actualités | Updates</h2>
   <table style="width:100%;border:none;">
     <tr>

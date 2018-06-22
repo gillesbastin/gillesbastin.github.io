@@ -18,5 +18,3 @@ J'ai créé ce site au printemps 2018 afin de donner accès à des informations 
 <i>I am part of the [Regulations research team](https://www.pacte-grenoble.fr/page/regulations) at Pacte research center (see my [personal page](https://www.pacte-grenoble.fr/membres/gilles-bastin) on the center's website). I did head this research team for two years when it was created. I am also involved in the [Data Institute](https://data-institute.univ-grenoble-alpes.fr/) project at the University of Grenoble Alpes where I coordinate with Eric Gaussier the research conducted on social media. Finally I co-head the [Journalism joint Master program](http://wwww.ejdg.fr) (Sciences Po Grenoble / University of Grenoble Alpes) with my colleague Roselyne Ringoot.</i>
 
 <i>I created this site during spring 2018 to make access to my research projects and teaching easier for colleagues, students and others. I also post on conferences I took part to and book reviews that I do for [Le Monde](https://lemonde.fr/livres/).</i>
-
-<i>I am involved as co-head at the University of Grenoble Alpes Journalism School.</i>
