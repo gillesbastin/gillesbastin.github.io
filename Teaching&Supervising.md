@@ -16,7 +16,7 @@ Si vous souhaitez que je sois le tuteur académique d'un stage, merci de prendre
 Supervision d'étudiants en thèse : Antoine Machut (Structure des mondes de l'information financière en France) ; Monia Haddad (Impact des humanités numériques sur le focntionnement des mondes académiques).
 
 
-{% for post in site.categories[page.categories] %}
+{% for post in site.categories[category] %}
 <h2>Actualités | Updates</h2>
   <table style="width:100%;border:none;">
     <tr>
