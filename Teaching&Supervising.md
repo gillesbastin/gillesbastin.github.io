@@ -5,10 +5,18 @@ layout: page
 categories: teaching&supervising
 ---
 
-Supervision d'étudiants en thèse :
+<h3>Enseignements | Teaching</h3>
+
+Vous trouverez à la rentrée académique des informations sur les cours que je donne et leur validation.
+
+<h3>Supervision | Supervising</h3>
+
+Si vous souhaitez que je sois le tuteur académique d'un stage, merci de prendre contact par e-mail. Je vous fournirai le cas échéant les informations nécessaires pour l'écriture d'un rapport de stage.
+
+Supervision d'étudiants en thèse : Antoine Machut (Structure des mondes de l'information financière en France) ; Monia Haddad (Impact des humanités numériques sur le focntionnement des mondes académiques).
 
 
-{% for post in site.categories[page.category] %}
+{% for post in site.categories[page.categories] %}
 <h2>Actualités | Updates</h2>
   <table style="width:100%;border:none;">
     <tr>
