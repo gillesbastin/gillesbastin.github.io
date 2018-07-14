@@ -11,9 +11,9 @@ layout: default
     {{ content }}
   </div>
   
-  {% for post in site.tags[page.tags] %}
   <h2>Actualités du projet | Project's updates</h2>
     <table style="width:100%;border:none;">
+      {% for post in site.tags[page.tags] %}
       <tr>
         <td style="width:15%;border:none;">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -28,7 +28,7 @@ layout: default
           {{ post.excerpt }}
         {%- endif -%}
       </tr>
+      {% endfor %}
     </table>
-  {% endfor %}
-  
+
 </article>
