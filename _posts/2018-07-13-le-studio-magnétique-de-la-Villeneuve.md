@@ -10,6 +10,6 @@ Cet article est accompagné du <i>verbatim</i> d'une table-ronde organisée dans
 
 Vous pouvez retrouver ces deux articles ici :
 
-- [Vidéogazette ou le studio magnétique de la Villeneuve](http://www.lafuriaumana.it/index.php/67-lfu-34/784-gilles-bastin-videogazette-ou-le-studio-magnetique-de-la-villeneuve)(article)
+- [Vidéogazette ou le studio magnétique de la Villeneuve](http://www.lafuriaumana.it/index.php/67-lfu-34/784-gilles-bastin-videogazette-ou-le-studio-magnetique-de-la-villeneuve) (article)
 
-- [Les deux vies de Videogazette](http://www.lafuriaumana.it/index.php/67-lfu-34/786-logan-le-deux-vies-de-videogazette)(table-ronde)
+- [Les deux vies de Videogazette](http://www.lafuriaumana.it/index.php/67-lfu-34/786-logan-le-deux-vies-de-videogazette) (table-ronde)
