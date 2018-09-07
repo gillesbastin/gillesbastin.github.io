@@ -7,13 +7,24 @@ categories: teaching&supervising
 
 <h3>Enseignements | Teaching</h3>
 
-Vous trouverez à la rentrée académique des informations sur les cours que je donne et leur validation.
+Je serai en congé sabbatique pour recherches au second semestre de l'année 2018-2019.
+
+Pendant le premier semestre je donne les cours suivants :
+
+- Sociologie contemporaine (Syllabus, Accès aux documents du cours)
+- Histoire des pratiques journalistiques (Syllabus, Accès au cours en ligne sur Chamilo)
 
 <h3>Supervision | Supervising</h3>
 
 Si vous souhaitez que je sois le tuteur académique d'un stage, merci de prendre contact par e-mail. Je vous fournirai le cas échéant les informations nécessaires pour l'écriture d'un rapport de stage.
 
-Supervision d'étudiants en thèse : Antoine Machut (Structure des mondes de l'information financière en France) ; Monia Haddad (Impact des humanités numériques sur le focntionnement des mondes académiques).
+Supervision d'étudiants en thèse :
+
+Antoine Machut (Structure des mondes de l'information financière en France)
+
+Monia Haddad (Impact des humanités numériques sur le focntionnement des mondes académiques)
+
+Flavie Genatio (Réseaux et carrières dans le monde social des <i>makers</i>)
 
 
 {% for post in site.categories[category] %}
