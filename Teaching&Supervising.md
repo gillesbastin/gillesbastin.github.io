@@ -11,7 +11,7 @@ Je serai en congé sabbatique pour recherches au second semestre de l'année 201
 
 Pendant le premier semestre je donne les cours suivants :
 
-- Sociologie contemporaine (Cours fondamental de 3ème année) : Syllabus, [Accès (réservé) aux documents du cours](https://drive.google.com/drive/folders/0B5jxP8422LB8WkRJWGNiX1VQYTg?usp=sharing)
+- Sociologie contemporaine (Cours fondamental de 3ème année) : [Syllabus](/Sociologie contemporaine — CF 3A — Bastin — 2018-19.pdf), [Accès (réservé) aux documents du cours](https://drive.google.com/drive/folders/0B5jxP8422LB8WkRJWGNiX1VQYTg?usp=sharing)
 - Histoire des pratiques journalistiques (Syllabus, Accès au cours en ligne sur Chamilo)
 
 <h3>Supervision | Supervising</h3>
