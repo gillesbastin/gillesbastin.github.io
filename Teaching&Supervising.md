@@ -11,7 +11,7 @@ Je serai en congé sabbatique pour recherches au second semestre de l'année 201
 
 Pendant le premier semestre je donne les cours suivants :
 
-- Sociologie contemporaine (Syllabus, Accès aux documents du cours)
+- Sociologie contemporaine (Syllabus, [Accès (réservé) aux documents du cours](https://drive.google.com/drive/folders/0B5jxP8422LB8WkRJWGNiX1VQYTg?usp=sharing))
 - Histoire des pratiques journalistiques (Syllabus, Accès au cours en ligne sur Chamilo)
 
 <h3>Supervision | Supervising</h3>
@@ -20,9 +20,9 @@ Si vous souhaitez que je sois le tuteur académique d'un stage, merci de prendre
 
 Supervision d'étudiants en thèse :
 
-Antoine Machut (Structure des mondes de l'information financière en France)
+[Antoine Machut](https://www.pacte-grenoble.fr/membres/antoine-machut) (Structure des mondes de l'information financière en France)
 
-Monia Haddad (Impact des humanités numériques sur le focntionnement des mondes académiques)
+[Monia Haddad](https://www.pacte-grenoble.fr/membres/monia-haddad) (Impact des humanités numériques sur le focntionnement des mondes académiques)
 
 Flavie Genatio (Réseaux et carrières dans le monde social des <i>makers</i>)
 
