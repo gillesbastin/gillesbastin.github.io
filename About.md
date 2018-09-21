@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-<div align="center"><img src="/img/27092013-IMG_1487-N&B-light.jpeg" width="200px"></div>
+<div align="center"><img src="/img/27092013-IMG_1487-N&B-light.jpeg" width="150px"></div>
+<br>
 <table>
   <tr>
     <td width="48%" valign="top" markdown="span">
