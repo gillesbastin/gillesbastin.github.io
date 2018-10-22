@@ -31,7 +31,7 @@ Supervision d'étudiants en thèse :
 Si vous souhaitez que je sois le tuteur académique d'un stage, merci de prendre contact par e-mail. Je vous fournirai le cas échéant les informations nécessaires pour l'écriture d'un rapport de stage.
 
 
-{% for post in site.categories[category] %}
+{% for post in site.categories[page.categories] %}
 <h2>Actualités | Updates</h2>
   <table style="width:100%;border:none;">
     <tr>

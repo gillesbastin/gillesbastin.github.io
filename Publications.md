@@ -14,13 +14,13 @@ Gilles Bastin, _Les professionnels de l’information européenne à Bruxelles. 
 
 #### Livres | Books
 
-Gilles Bastin, _Dictionnaire critique du journalisme et des médias_ (Presses Universitaires de Grenoble, parution prévue pour septembre 2018).
+Gilles Bastin, _Petit lexique du journalisme_, Presses Universitaires de Grenoble, 2018.
 
 Gilles Bastin, _Grands débats des sciences économiques et sociales_, Presses Universitaires de France, 1998.
 
 #### Articles dans des revues scientifiques | Articles
 
-[23] (À paraître) Gilles Bastin, « A imprensa à luz do capitalismo moderno : um programa de pesquisa de Max Weber sobre os jornais et o jornalismo » (traduction brésilienne de « La presse au miroir du capitalisme moderne », _Réseaux_, 2001).
+[23] Gilles Bastin et Paola Tubaro, « Le moment big data des sciences sociales ». _Revue française de sociologie_, Centre National de la Recherche Scientifique, 2018, Big data, sociétés et sciences sociales, 59 (3), pp.375-394 ([hal-01885416](https://hal.archives-ouvertes.fr/hal-01885416/)).
 
 [22] Gilles Bastin, « Le journalisme et les sciences sociales : trouble ou problème ? », _Sur le Journalisme / On Journalism / Sobre Jornalismo_, 5(2), 2016, p. 44-63 ([http://surlejournalisme.com/rev/index.php/slj/article/view/256](http://surlejournalisme.com/rev/index.php/slj/article/view/256)).
 
