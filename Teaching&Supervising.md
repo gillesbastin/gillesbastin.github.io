@@ -5,10 +5,10 @@ layout: page
 categories: teaching&supervising
 ---
 
-<h3>Enseignements | Teaching</h3>
-
 À NOTER : JE SERAI EN CONGÉ SABBATIQUE POUR RECHERCHES AU SECOND SEMESTRE DE L'ANNÉE 2018-2019.
 NOTE : I WILL BE ON LEAVE FOR A SABBATICAL DURING SPRING SEMESTER 2018-2019
+
+<h3>Enseignements | Teaching</h3>
 
 Pendant le premier semestre je donne les cours suivants :
 
@@ -18,15 +18,16 @@ Histoire des pratiques journalistiques (Syllabus, Accès au cours en ligne sur C
 
 <h3>Supervision | Supervising</h3>
 
-Si vous souhaitez que je sois le tuteur académique d'un stage, merci de prendre contact par e-mail. Je vous fournirai le cas échéant les informations nécessaires pour l'écriture d'un rapport de stage.
-
 Supervision d'étudiants en thèse :
 
 [Antoine Machut](https://www.pacte-grenoble.fr/membres/antoine-machut) (Structure des mondes de l'information financière en France)
 
-[Monia Haddad](https://www.pacte-grenoble.fr/membres/monia-haddad) (Impact des humanités numériques sur le focntionnement des mondes académiques)
+[Monia Haddad](https://www.pacte-grenoble.fr/membres/monia-haddad) (Impact des humanités numériques sur le fonctionnement des mondes académiques)
 
-Flavie Genatio (Réseaux et carrières dans le monde social des <i>makers</i>)
+[Flavie Genatio](https://www.pacte-grenoble.fr/actualites/flavie-genatio-debute-une-these-a-pacte) (Réseaux et carrières dans le monde social des <i>makers</i>)
+
+
+Si vous souhaitez que je sois le tuteur académique d'un stage, merci de prendre contact par e-mail. Je vous fournirai le cas échéant les informations nécessaires pour l'écriture d'un rapport de stage.
 
 
 {% for post in site.categories[category] %}
