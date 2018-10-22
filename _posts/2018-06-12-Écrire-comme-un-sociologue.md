@@ -1,7 +1,7 @@
 ---
 title: Comment écrire comme (ou à défaut pour) un sociologue ?
 layout: post
-categories: cours
+categories: teaching&supervising
 tags: tips
 ---
 
