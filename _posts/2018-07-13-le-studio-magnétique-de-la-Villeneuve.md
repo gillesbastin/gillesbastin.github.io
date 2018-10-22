@@ -13,3 +13,8 @@ Vous pouvez retrouver ces deux articles ici :
 - [Vidéogazette ou le studio magnétique de la Villeneuve](http://www.lafuriaumana.it/index.php/67-lfu-34/784-gilles-bastin-videogazette-ou-le-studio-magnetique-de-la-villeneuve) (article)
 
 - [Les deux vies de Videogazette](http://www.lafuriaumana.it/index.php/67-lfu-34/786-logan-le-deux-vies-de-videogazette) (table-ronde)
+
+Et une vidéo de la table-ronde ici :
+
+<iframe src="https://player.vimeo.com/video/292319997" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/292319997">Heritage/Fiction - la Villeneuve - Retroprospective</a> from <a href="https://vimeo.com/lesfilmsdelavilleneuve">LES FILMS DE LA VILLENEUVE</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
