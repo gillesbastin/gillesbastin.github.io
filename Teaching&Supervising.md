@@ -7,12 +7,14 @@ categories: teaching&supervising
 
 <h3>Enseignements | Teaching</h3>
 
-Je serai en congé sabbatique pour recherches au second semestre de l'année 2018-2019.
+À NOTER : JE SERAI EN CONGÉ SABBATIQUE POUR RECHERCHES AU SECOND SEMESTRE DE L'ANNÉE 2018-2019.
+NOTE : I WILL BE ON LEAVE FOR A SABBATICAL DURING SPRING SEMESTER 2018-2019
 
 Pendant le premier semestre je donne les cours suivants :
 
-- Sociologie contemporaine (Cours fondamental de 3ème année) : [Syllabus](/pdf/Sociologie contemporaine — CF 3A — Bastin — 2018-19.pdf), [Accès (réservé) aux documents du cours](https://drive.google.com/drive/folders/0B5jxP8422LB8WkRJWGNiX1VQYTg?usp=sharing)
-- Histoire des pratiques journalistiques (Syllabus, Accès au cours en ligne sur Chamilo)
+Sociologie contemporaine (Cours fondamental de 3ème année) : [Syllabus](/pdf/Sociologie contemporaine — CF 3A — Bastin — 2018-19.pdf), [Accès (réservé) aux documents du cours](https://drive.google.com/drive/folders/0B5jxP8422LB8WkRJWGNiX1VQYTg?usp=sharing)
+
+Histoire des pratiques journalistiques (Syllabus, Accès au cours en ligne sur Chamilo)
 
 <h3>Supervision | Supervising</h3>
 
