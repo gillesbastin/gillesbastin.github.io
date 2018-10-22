@@ -5,7 +5,7 @@ categories: publications
 tags: data&co
 ---
 
-![](img/RFS_593_L204.jpg)
+![](/img/RFS_593_L204.jpg)
 
 Le numéro spécial de la _Revue française de sociologie_ que nous avons coordonné avec (Paola Tubaro)[https://databigandsmall.com/] vient de sortir. Vous pouvez trouver le sommaire de ce numéro ici : (https://www.cairn.info/revue-francaise-de-sociologie-2018-3-page-375.htm)[https://www.cairn.info/revue-francaise-de-sociologie-2018-3-page-375.htm].
 
