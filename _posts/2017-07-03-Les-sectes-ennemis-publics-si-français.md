@@ -11,4 +11,3 @@ Le Monde des Livres, 03.07.2017
 
 Elles firent leur apparition dans le paysage social français au milieu des années 1970 et portaient des noms étranges. Leurs membres louaient l’utopie conservatrice Moon, chantaient avec dévotion le nom de ­Krishna ou vivaient dans le mélange de peur apocalyptique et de prosélytisme érotique qui était la marque des Enfants de Dieu.
 (Voir la suite sur le site du [Monde des Livres](https://lemonde.fr/livres/article/2017/07/03/les-sectes-ennemis-publics-si-francais_5154642_3260.html))
-
