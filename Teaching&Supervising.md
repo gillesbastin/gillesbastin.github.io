@@ -25,7 +25,9 @@ Histoire des pratiques journalistiques (Syllabus, Accès au cours en ligne sur C
 
 Si vous souhaitez que je sois le tuteur académique d'un stage, merci de prendre contact par e-mail. Je vous fournirai le cas échéant les informations nécessaires pour l'écriture d'un rapport de stage.
 
-
+<table style="width:100%;border:1px;">
+    <tr>
+      <td style="width:15%;border:none;">
 {% for post in site.categories[page.categories] %}
 <h3>Actualités | Updates</h3>
   <table style="width:100%;border:none;">
@@ -45,3 +47,7 @@ Si vous souhaitez que je sois le tuteur académique d'un stage, merci de prendre
     </tr>
   </table>
 {% endfor %}
+      </td>
+  </tr>
+  </table>
+  
