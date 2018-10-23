@@ -14,8 +14,8 @@ Sociologie contemporaine (Cours fondamental de 3ème année) :
 - [Accès (réservé) aux documents du cours](https://drive.google.com/drive/folders/0B5jxP8422LB8WkRJWGNiX1VQYTg?usp=sharing)
 
 Histoire des pratiques journalistiques :
-- Syllabus
-- Accès au cours en ligne sur Chamilo
+- [Syllabus](/pdf/Histoire des Pratiques Journalistiques.pdf)
+- [Accès (réservé) aux documents du cours](https://drive.google.com/drive/folders/1jhvx69UzuCIqNWo570SBm4hXYty_pnU4)
 
 <h3>Supervision de thèses | PhD Supervising</h3>
 
@@ -47,4 +47,3 @@ Si vous souhaitez que je sois le tuteur académique d'un stage, merci de prendre
     </tr>
   </table>
 {% endfor %}
-  
