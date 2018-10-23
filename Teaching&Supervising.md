@@ -9,11 +9,13 @@ categories: teaching&supervising
 
 <h3>Enseignements | Teaching</h3>
 
-Pendant le premier semestre je donne les cours suivants :
+Sociologie contemporaine (Cours fondamental de 3ème année) :
+- [Syllabus](/pdf/Sociologie contemporaine — CF 3A — Bastin — 2018-19.pdf)
+- [Accès (réservé) aux documents du cours](https://drive.google.com/drive/folders/0B5jxP8422LB8WkRJWGNiX1VQYTg?usp=sharing)
 
-Sociologie contemporaine (Cours fondamental de 3ème année) : [Syllabus](/pdf/Sociologie contemporaine — CF 3A — Bastin — 2018-19.pdf), [Accès (réservé) aux documents du cours](https://drive.google.com/drive/folders/0B5jxP8422LB8WkRJWGNiX1VQYTg?usp=sharing)
-
-Histoire des pratiques journalistiques (Syllabus, Accès au cours en ligne sur Chamilo)
+Histoire des pratiques journalistiques :
+- Syllabus
+- Accès au cours en ligne sur Chamilo
 
 <h3>Supervision de thèses | PhD Supervising</h3>
 
