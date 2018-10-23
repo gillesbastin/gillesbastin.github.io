@@ -5,7 +5,7 @@ layout: page
 categories: teaching&supervising
 ---
 
-À noter : je serai en congé pour recherches au second semestre de l'année 2018-2019 | I will be on sabbatical leave during the spring semester in 2018-2019.
+À noter : je serai en congé pour recherches au second semestre de l'année 2018-2019 | <i>I will be on sabbatical leave during the spring semester in 2018-2019.</i>
 
 <h3>Enseignements | Teaching</h3>
 
