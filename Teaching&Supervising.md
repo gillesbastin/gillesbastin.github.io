@@ -27,7 +27,7 @@ Si vous souhaitez que je sois le tuteur académique d'un stage, merci de prendre
 
 <table style="width:100%;border:1px;">
     <tr>
-      <td style="width:15%;border:none;">
+      <td>
 {% for post in site.categories[page.categories] %}
 <h3>Actualités | Updates</h3>
   <table style="width:100%;border:none;">
