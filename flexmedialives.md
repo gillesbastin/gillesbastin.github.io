@@ -1,6 +1,7 @@
 ---
 title: "FlexMediaLives"
 categories: projets
+tags: flexmedialives
 permalink: /flexmedialives/
 layout: page
 ---
