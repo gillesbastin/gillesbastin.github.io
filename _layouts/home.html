@@ -13,7 +13,7 @@ layout: default
   <br><br>
   {%- if site.posts.size > 0 -%}
   <div style="text-align:left">
-  <h2 class="post-list-heading">{{ page.list_title | default: "Derniers messages | Last posts" }}</h2>
+  <h2 class="post-list-heading">{{ page.list_title | default: "Derniers billets | Last posts" }}</h2>
   </div>
     <table style="width:100%;border:none;">
       {%- for post in site.posts limit:10 -%}
@@ -37,7 +37,7 @@ layout: default
       {%- endfor -%}
     </table>
 <br><br>
-  <div style="text-align:left"><p class="rss-subscribe">Consulter la rubrique <a href="https://gillesbastin.github.io/blog/">Blog</a> pour voir tous les messages postés sur le site. Abonnement <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p></div>
+  <div style="text-align:left"><p class="rss-subscribe">Consulter la rubrique <a href="https://gillesbastin.github.io/blog/">Blog</a> pour voir tous les billets postés sur le site. Abonnement <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p></div>
   {%- endif -%}
   <br><br>
   </div>
