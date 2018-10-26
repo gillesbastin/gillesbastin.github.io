@@ -2,7 +2,7 @@
 layout: post
 title: Who tweets ? A first encounter with Twitter data
 categories: data&co
-tags: data&co, twitter
+tags: data&co twitter
 ---
 
 On March 20th 2018 I participated to a scientific meeting conveyed by the Data Institute of Univ. Grenoble Alpes.

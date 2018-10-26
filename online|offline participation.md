@@ -1,7 +1,7 @@
 ---
 title: "Online|Offline Participation"
 categories: projets
-tags: twitter, participation, data&co
+tags: twitter participation data&co
 permalink: /online|offline/
 layout: page
 ---
