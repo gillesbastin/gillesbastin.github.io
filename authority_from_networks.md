@@ -1,7 +1,7 @@
 ---
 title: "Authority from networks"
 categories: projets
-tags: twitter journalism data&co
+tags: festivals
 permalink: /authority_from_networks/
 layout: page
 ---
