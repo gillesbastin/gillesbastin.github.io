@@ -7,17 +7,17 @@ categories: teaching&supervising
 
 À noter : je serai en congé pour recherches au second semestre de l'année 2018-2019 | <i>I will be on sabbatical leave during the spring semester in 2018-2019.</i>
 
-<h3>Enseignements | Teaching</h3>
+<h4>Enseignements | Teaching</h4>
 
-Sociologie contemporaine (Cours fondamental de 3ème année) :
+<h5>Sociologie contemporaine (Cours fondamental de 3ème année) :</h5>
 - [Syllabus](/pdf/Sociologie contemporaine — CF 3A — Bastin — 2018-19.pdf)
 - [Accès (réservé) aux documents du cours](https://drive.google.com/drive/folders/0B5jxP8422LB8WkRJWGNiX1VQYTg?usp=sharing)
 
-Histoire des pratiques journalistiques :
+<h5>Histoire des pratiques journalistiques :</h5>
 - [Syllabus](/pdf/Histoire des Pratiques Journalistiques.pdf)
 - [Accès (réservé) aux documents du cours](https://drive.google.com/drive/folders/1jhvx69UzuCIqNWo570SBm4hXYty_pnU4)
 
-<h3>Supervision de thèses | PhD Supervising</h3>
+<h4>Supervision de thèses | PhD Supervising</h4>
 
 [Antoine Machut](https://www.pacte-grenoble.fr/membres/antoine-machut) (Structure des mondes de l'information financière en France)
 
