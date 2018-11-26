@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-categories: Publications
+categories: publications
 ---
 
 Merci de consulter [le serveur HAL](https://cv.archives-ouvertes.fr/gilles-bastin) pour télécharger les PDF des publications disponibles en open access.
@@ -23,7 +23,7 @@ Merci de consulter [le serveur HAL](https://cv.archives-ouvertes.fr/gilles-basti
         </a>
       </td>
       {%- if site.show_excerpts -%}
-        {{ post.excerpt }}
+        {{ post.excerpt | strip_html | truncatewords:75 }}
       {%- endif -%}
     </tr>
   </table>
