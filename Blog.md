@@ -20,13 +20,16 @@ Tous les messages postés sur ce site sont consultables ici.
           <a href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-          {%- if post.tags.size > 0 -%}
-           | [{{ post.tags }}]
-          {%- endif -%}
         </td>
+      </tr>
+      <tr>
+        <td style="width:15%;border:none;">
+        </td>
+        <td style="border:none;">
         {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+          {{ post.excerpt | strip_html | truncatewords:75 }}
         {%- endif -%}
+        </td>
       </tr>
       {%- endfor -%}
     </table>
