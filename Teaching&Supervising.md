@@ -9,11 +9,11 @@ categories: teaching&supervising
 
 <h4>Enseignements | Teaching</h4>
 
-<h5>Sociologie contemporaine (Cours fondamental de 3ème année) :</h5>
+Sociologie contemporaine (Cours fondamental de 3ème année) :
 - [Syllabus](/pdf/Sociologie contemporaine — CF 3A — Bastin — 2018-19.pdf)
 - [Accès (réservé) aux documents du cours](https://drive.google.com/drive/folders/0B5jxP8422LB8WkRJWGNiX1VQYTg?usp=sharing)
 
-<h5>Histoire des pratiques journalistiques :</h5>
+Histoire des pratiques journalistiques :
 - [Syllabus](/pdf/Histoire des Pratiques Journalistiques.pdf)
 - [Accès (réservé) aux documents du cours](https://drive.google.com/drive/folders/1jhvx69UzuCIqNWo570SBm4hXYty_pnU4)
 
@@ -25,11 +25,10 @@ categories: teaching&supervising
 
 [Flavie Genatio](https://www.pacte-grenoble.fr/actualites/flavie-genatio-debute-une-these-a-pacte) (Réseaux et carrières dans le monde social des <i>makers</i>)
 
-Si vous souhaitez que je sois le tuteur académique d'un stage, merci de prendre contact par e-mail. Je vous fournirai le cas échéant les informations nécessaires pour l'écriture d'un rapport de stage.
-
+<br><br>
 ---
 
-<h3>Lectures utiles…</h3>
+<h4>Lectures utiles si vous participez à un de mes cours…</h4>
 <table style="width:100%;border:none;">
 {% for post in site.categories[page.categories] %}
   <tr>
