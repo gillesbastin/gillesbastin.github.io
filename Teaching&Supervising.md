@@ -24,8 +24,8 @@ Histoire des pratiques journalistiques :
 [Monia Haddad](https://www.pacte-grenoble.fr/membres/monia-haddad) (Impact des humanités numériques sur le fonctionnement des mondes académiques)
 
 [Flavie Genatio](https://www.pacte-grenoble.fr/actualites/flavie-genatio-debute-une-these-a-pacte) (Réseaux et carrières dans le monde social des <i>makers</i>)
-
 <br><br>
+
 ---
 
 <h4>Lectures utiles si vous participez à un de mes cours…</h4>
