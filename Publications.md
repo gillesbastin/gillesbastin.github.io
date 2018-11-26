@@ -2,9 +2,34 @@
 layout: page
 title: Publications
 permalink: /publications/
+categories: Publications
 ---
 
 Merci de consulter [le serveur HAL](https://cv.archives-ouvertes.fr/gilles-bastin) pour télécharger les PDF des publications disponibles en open access.
+
+---
+{% for post in site.categories[page.categories] %}
+<h3>Nouvelles publications</h3>
+  <table style="width:100%;border:none;">
+    <tr>
+      <td style="width:15%;border:none;">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <span>{{ post.date | date: date_format }}</span>
+      </td>
+      <td style="border:none;">
+        <a href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </td>
+      {%- if site.show_excerpts -%}
+        {{ post.excerpt }}
+      {%- endif -%}
+    </tr>
+  </table>
+{% endfor %}
+---
+
+### Liste des Publications
 
 #### Thèses | Academic Thesis
 
