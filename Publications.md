@@ -22,10 +22,16 @@ Merci de consulter [le serveur HAL](https://cv.archives-ouvertes.fr/gilles-basti
           {{ post.title | escape }}
         </a>
       </td>
+    </tr>
+    <tr>
+      <td style="width:15%;border:none;">
+      </td>
+      <td style="border:none;">
       {%- if site.show_excerpts -%}
         {{ post.excerpt | strip_html | truncatewords:75 }}
-      {%- endif -%}
+      </td>
     </tr>
+      {%- endif -%}
   </table>
 {% endfor %}
 
