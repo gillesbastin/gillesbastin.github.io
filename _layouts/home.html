@@ -30,9 +30,15 @@ layout: default
            | [{{ post.tags }}]
           {%- endif -%}
         </td>
+      </tr>
+      <tr>
+        <td style="width:15%;border:none;">
+        </td>
+        <td style="border:none;">
         {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+          {{ post.excerpt | strip_html | truncatewords:75 }}
         {%- endif -%}
+        </td>
       </tr>
       {%- endfor -%}
     </table>
