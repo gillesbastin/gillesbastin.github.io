@@ -5,7 +5,7 @@ categories: publications
 tags: journalisme
 ---
 
-![](/img/lexique.jpg){: .image-left }Les Presses Universitaires de Grenoble viennent de publier un petit [manuel d'études sur le journalisme](https://www.pug.fr/produit/1631/9782706142413/Petit%20lexique%20du%20journalisme) que j'ai rédigé sous la forme d'un dictionnaire de concepts utiles pour comprendre cette activité et issus des recherches menées dans les sciences sociales autant que de la réflexivite propre au monde du journalisme lui-même.
+![](/img/lexique.jpg){: .image-left }Les Presses Universitaires de Grenoble viennent de publier un [manuel d'études sur le journalisme](https://www.pug.fr/produit/1631/9782706142413/Petit%20lexique%20du%20journalisme) que j'ai rédigé sous la forme d'un dictionnaire de concepts utiles pour comprendre cette activité et issus des recherches menées dans les sciences sociales autant que de la réflexivite propre au monde du journalisme lui-même.
 
 Voici le texte de la brève introduction de ce dictionnaire :
 
