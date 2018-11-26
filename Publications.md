@@ -9,9 +9,9 @@ Merci de consulter [le serveur HAL](https://cv.archives-ouvertes.fr/gilles-basti
 
 ---
 
-{% for post in site.categories[page.categories] %}
 <h3>Nouvelles publications</h3>
   <table style="width:100%;border:none;">
+  {% for post in site.categories[page.categories] %}
     <tr>
       <td style="width:15%;border:none;">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -32,8 +32,8 @@ Merci de consulter [le serveur HAL](https://cv.archives-ouvertes.fr/gilles-basti
       {%- endif -%}
       </td>
     </tr>
+    {% endfor %}
   </table>
-{% endfor %}
 
 ---
 
