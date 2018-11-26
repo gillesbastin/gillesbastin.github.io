@@ -8,6 +8,7 @@ categories: Publications
 Merci de consulter [le serveur HAL](https://cv.archives-ouvertes.fr/gilles-bastin) pour télécharger les PDF des publications disponibles en open access.
 
 ---
+
 {% for post in site.categories[page.categories] %}
 <h3>Nouvelles publications</h3>
   <table style="width:100%;border:none;">
@@ -27,6 +28,7 @@ Merci de consulter [le serveur HAL](https://cv.archives-ouvertes.fr/gilles-basti
     </tr>
   </table>
 {% endfor %}
+
 ---
 
 ### Liste des Publications
