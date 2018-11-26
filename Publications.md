@@ -29,9 +29,9 @@ Merci de consulter [le serveur HAL](https://cv.archives-ouvertes.fr/gilles-basti
       <td style="border:none;">
       {%- if site.show_excerpts -%}
         {{ post.excerpt | strip_html | truncatewords:75 }}
+      {%- endif -%}
       </td>
     </tr>
-      {%- endif -%}
   </table>
 {% endfor %}
 
