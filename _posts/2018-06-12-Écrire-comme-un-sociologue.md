@@ -5,7 +5,7 @@ categories: teaching&supervising
 tags: tips
 ---
 
-Au printemps chaque année je me livre à un exercice intéressant (et éprouvant en même temps) de lecture prolongée et répétée des écrits d'étudiants qui suivent mon cours fondamental de « Sociologie contemporaine ». Ce faisant, je suis de plus en plus frappé par le fait que beaucoup de copies ne pèchent pas par défaut de connaissance mais plutôt par des formulations peu précises, maladroites ou même fautives.
+Au printemps chaque année je me livre à un exercice intéressant (et éprouvant en même temps) : la lecture des écrits d'étudiants qui suivent mon cours fondamental de « Sociologie contemporaine ». Je suis de plus en plus frappé par le fait que beaucoup de copies ne pèchent pas par défaut de connaissance mais plutôt par des formulations peu précises, maladroites ou même fautives.
 
 Ces problèmes de formulation relèvent pour partie de la pure correction syntaxique. Écrire que <i>« l'école comporte plusieurs fonctions »</i> ne constitue pas à proprement parler une faute de raisonnement. Cet énoncé met cependant son lecteur dans un état d'inconfort cognitif qui ne peut pas être favorable à l'auteur ! D'autres problèmes relèvent quant à eux du bon sens. Je mets dans cette catégorie toutes les copies dont l'écriture est presque illisible, sauf au prix d'efforts coûteux de concentration qui, eux-aussi, pénalisent leur auteur. Un argument de bon niveau écrit dans une graphie illisible ne vaut malheureusement… rien !
 
