@@ -28,6 +28,7 @@ Tous les messages postés sur ce site sont consultables ici.
         <td style="border:none;">
         {%- if site.show_excerpts -%}
           <i>{{ post.excerpt | strip_html | truncatewords:75 }}</i>
+          <br>
         {%- endif -%}
         </td>
       </tr>
