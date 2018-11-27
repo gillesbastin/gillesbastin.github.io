@@ -31,6 +31,8 @@ Tous les messages postés sur ce site sont consultables ici.
         {%- endif -%}
         </td>
       </tr>
+      <tr>
+      </tr>
       {%- endfor -%}
     </table>
 <br><br>
