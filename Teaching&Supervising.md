@@ -47,7 +47,7 @@ Histoire des pratiques journalistiques :
     </td>
     <td style="border:none;">
     {%- if site.show_excerpts -%}
-      {{ post.excerpt | strip_html | truncatewords:75 }}
+      <i>{{ post.excerpt | strip_html | truncatewords:75 }}</i>
     {%- endif -%}
     </td>
   </tr>
