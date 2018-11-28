@@ -36,7 +36,7 @@ layout: default
         </td>
         <td style="border:none;">
         {%- if site.show_excerpts -%}
-          {{ post.excerpt | strip_html | truncatewords:10 }}
+          {{ post.excerpt | strip_html | truncatewords:20 }}
         {%- endif -%}
         </td>
       </tr>
