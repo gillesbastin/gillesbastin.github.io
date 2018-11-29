@@ -12,7 +12,7 @@ layout: home
 <table>
   <tr>
     <td width="48%" valign="top">
-      Ce site archive des descriptions de projets de recherche en cours, des notes, des compte-rendus de lectures, des informations à destination des étudiants qui suivent mes cours ainsi que des liens vers mes publications.
+      Ce site archive des projets de recherche en cours, des notes, des compte-rendus de lectures, des informations à destination des étudiants qui suivent mes cours ainsi que des liens vers mes publications.
     </td>
     <td width="4%">
     </td>
@@ -21,4 +21,3 @@ layout: home
     </td>
   </tr>
 </table>
- 
