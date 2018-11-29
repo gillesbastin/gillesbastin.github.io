@@ -1,8 +1,8 @@
 ---
 title: "Débat sur l'éducation aux médias"
 layout: post
-categories: chronique
-tags: conference
+categories: conferences
+tags: éducation aux médias
 ---
 
 Le 6 avril 2017 j'ai participé à un débat sur l'éducation aux médias organisé par la Maison de l'image.
