@@ -6,7 +6,7 @@ permalink: /authority_from_networks/
 layout: page
 ---
 
-<b>Authority from networks ? Mapping online music criticism in France during the 2018 summer</b>
+<b>Authority from networks ? Mapping online music criticism in France</b>
 
 The ability of journalists to defend their professional authority in the public sphere has been challenged in many ways by the growing importance of social networks and various forms of « para— » or « ambiant » journalism produced by amateurs on platforms such as Twitter (Hermida, 2010). Cultural journalism is particularly subject to this issue as more and more people can be identified as « cultural intermediaries » (Maguire and Matthews, 2012) in the new media ecosystem driven by social networks.
 
