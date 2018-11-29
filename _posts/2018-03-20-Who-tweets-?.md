@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Who tweets ? A first encounter with Twitter data
-categories: data&co
+categories: conferences, data&co
 tags: 32MT
 ---
 
