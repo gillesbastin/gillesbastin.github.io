@@ -1,5 +1,5 @@
 ---
-title: "Conferences"
+title: Conferences
 categories: conferences
 tags: conferences
 permalink: /conferences/
