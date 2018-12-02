@@ -5,7 +5,6 @@ permalink: /conferences/
 layout: page
 ---
 
-<h4>Conférences récentes</h4>
 <table style="width:100%;border:none;">
 {% for post in site.categories[page.categories] %}
   <tr>
