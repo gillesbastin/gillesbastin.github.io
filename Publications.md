@@ -29,7 +29,7 @@ Merci de consulter [le serveur HAL](https://cv.archives-ouvertes.fr/gilles-basti
       </td>
       <td style="border:none;">
       {%- if site.show_excerpts -%}
-        {{ post.excerpt | strip_html | truncatewords:75 }}
+        <i>{{ post.excerpt | strip_html | truncatewords:75 }}</i>
       {%- endif -%}
       </td>
     </tr>
