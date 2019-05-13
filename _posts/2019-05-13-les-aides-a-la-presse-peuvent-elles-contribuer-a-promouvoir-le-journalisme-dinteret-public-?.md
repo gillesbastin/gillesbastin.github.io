@@ -7,8 +7,6 @@ tags: point de vue
 
 La version originale de cet article a été publiée le 22 avril 2019 sur [The Conversation](https://theconversation.com/les-aides-a-la-presse-peuvent-elles-contribuer-a-promouvoir-le-journalisme-dinteret-public-115510#comment_1911996).
 
-<span>[Gilles Bastin](https://theconversation.com/profiles/gilles-bastin-719930), _[Université Grenoble Alpes](http://theconversation.com/institutions/universite-grenoble-alpes-2279)_</span>
-
 Le débat sur les [fake news](https://theconversation.com/fr/topics/fake-news-38582) a permis de remettre à l’agenda politique depuis quelques mois la question de la qualité de l’information dont dispose le public et donc du type de médias et de journalisme dont une société a besoin. On ne peut que se réjouir de voir disparaître avec ce débat le temps des arguments simplistes consistant à blâmer les médias de manière indifférenciée à tout propos ou à entretenir le mythe selon lequel des amateurs reliés par une application en ligne pourraient un jour remplir le rôle des journalistes. Mais il est aussi nécessaire de prendre la mesure de la crise que traverse aujourd’hui le journalisme d’intérêt public, si essentiel au bon fonctionnement de la démocratie. [Comme le déclarait en 2016 Katharine Viner](https://www.theguardian.com/media/2016/jul/12/how-technology-disrupted-the-truth), la rédactrice en chef du _Guardian_ :
 
 > « De nombreuses rédactions courent le danger de perdre ce qui importe le plus en matière de journalisme : le dur labeur, précieux, civique, qui consiste, en arpentant les rues, en passant des bases de données au tamis ou en posant des questions dérangeantes, à dévoiler des choses que quelqu’un ne veut pas que vous sachiez. »
