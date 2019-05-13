@@ -7,14 +7,6 @@ tags: point de vue
 
 La version originale de cet article a été publiée le 22 avril 2019 sur [The Conversation](https://theconversation.com/les-aides-a-la-presse-peuvent-elles-contribuer-a-promouvoir-le-journalisme-dinteret-public-115510#comment_1911996).
 
-# Les aides à la presse peuvent-elles contribuer à promouvoir le journalisme d’intérêt public ?
-
-<figure>![File 20190415 147480 15ni0fn.jpg?ixlib=rb 1.1](https://images.theconversation.com/files/269340/original/file-20190415-147480-15ni0fn.jpg?ixlib=rb-1.1.0&rect=5%2C5%2C992%2C660&q=45&auto=format&w=754&fit=clip)
-
-<figcaption>Près de 6 milliards d’euros d’argent public sont investis chaque année dans les médias en France, soit près de 90 euros par habitant. <span class="attribution"><span class="source">Hadrian/Shutterstock</span></span></figcaption>
-
-</figure>
-
 <span>[Gilles Bastin](https://theconversation.com/profiles/gilles-bastin-719930), _[Université Grenoble Alpes](http://theconversation.com/institutions/universite-grenoble-alpes-2279)_</span>
 
 Le débat sur les [fake news](https://theconversation.com/fr/topics/fake-news-38582) a permis de remettre à l’agenda politique depuis quelques mois la question de la qualité de l’information dont dispose le public et donc du type de médias et de journalisme dont une société a besoin. On ne peut que se réjouir de voir disparaître avec ce débat le temps des arguments simplistes consistant à blâmer les médias de manière indifférenciée à tout propos ou à entretenir le mythe selon lequel des amateurs reliés par une application en ligne pourraient un jour remplir le rôle des journalistes. Mais il est aussi nécessaire de prendre la mesure de la crise que traverse aujourd’hui le journalisme d’intérêt public, si essentiel au bon fonctionnement de la démocratie. [Comme le déclarait en 2016 Katharine Viner](https://www.theguardian.com/media/2016/jul/12/how-technology-disrupted-the-truth), la rédactrice en chef du _Guardian_ :
@@ -24,12 +16,6 @@ Le débat sur les [fake news](https://theconversation.com/fr/topics/fake-news-38
 La première raison de cette crise est financière. Les plates-formes de partage de contenus entre pairs (comme Facebook ou YouTube) et les moteurs de recherche (comme Google) capturent aujourd’hui l’attention publique et les ressources publicitaires dont bénéficiaient jusque-là les médias traditionnels. Ce sont ces ressources qui ont longtemps permis de financer les longues enquêtes et les reportages de terrain qui ont alimenté la discussion publique sur le fonctionnement de notre société. Leur diminution a conduit toute l’industrie des médias au bord du précipice financier et a sévèrement limité les moyens disponibles pour le journalisme le plus coûteux en temps et en compétences.
 
 La question de l’emploi des journalistes illustre assez bien la situation dans laquelle nous nous trouvons. Le nombre de journalistes professionnels ne cesse de baisser depuis plusieurs années en [France](http://www.ccijp.net/article-148-statistiques-ccijp.html), comme [ailleurs dans le monde](https://www.pewresearch.org/fact-tank/2018/07/30/newsroom-employment-dropped-nearly-a-quarter-in-less-than-10-years-with-greatest-decline-at-newspapers/). Dans le même temps de nombreux médias recourent de plus en plus fréquemment à l’emploi d’amateurs, comme dans la presse locale et régionale en France, à des formes d’emploi non salarié (autoentrepreneuriat, droits d’auteur, etc.), à la multiplication de CDD d’usages, de contrats de piges ou à la sous-traitance de leurs contenus à des entreprises fabriquant à bas prix des articles à faible valeur d’information. Nombreux sont aussi ceux qui sacrifient l’enquête et le reportage au profit de formats moins coûteux comme la publication de dépêches d’agences de presse, de communiqués de presse ou les débats d’éditorialistes assis.
-
-<figure class="align-center ">![](https://images.theconversation.com/files/269342/original/file-20190415-147499-tgmqcj.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip)
-
-<figcaption><span class="caption">Les plates-formes captent aujourd’hui une partie des ressources publicitaires dont bénéficiaient jusque-là les médias traditionnels.</span> <span class="attribution"><span class="source">Cifotart/Shutterstock</span></span></figcaption>
-
-</figure>
 
 Est-il possible de changer les choses ? Dans de nombreux pays, le débat sur le financement des médias au service du pluralisme et de la qualité de l’information a déjà commencé. Des idées nouvelles émergent pour enrayer le déclin du nombre de journalistes, améliorer le contenu des médias d’information et essayer de reconstruire la relation vertueuse entre journalisme d’intérêt public et démocratie.
 
@@ -50,12 +36,6 @@ Il est aisé de comprendre les raisons qui poussent la Cour des comptes à criti
 ## Quelle réforme pour les aides à la presse ?
 
 En l’état actuel, comme le suggère la Cour, la définition restrictive de la presse dite « information politique et générale » qui reçoit une grande part des aides, constitue une barrière à l’entrée pour de nouveaux médias qui, pourtant, participent aussi à la « vie de la cité » dans un sens élargi qui pourrait à l’avenir servir de [base pour l’attribution des subventions publiques](https://www.ccomptes.fr/sites/default/files/2018-01/12-aides-presse-ecrite-Tome-2.pdf).
-
-<figure class="align-center ">![](https://images.theconversation.com/files/269344/original/file-20190415-147522-1dc0jzs.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip)
-
-<figcaption><span class="caption">Dans ses rapports, la Cour des comptes critique régulièrement le système actuel des aides à la presse.</span> <span class="attribution"><span class="source">Cour des comptes/Flickr</span>, [CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0/)</span></figcaption>
-
-</figure>
 
 Cependant, on peut aussi aller plus loin pour que le système des aides à la presse remplisse vraiment son rôle en matière de défense du pluralisme des médias et de qualité de l’information. Pour ce faire, il semble notamment inéluctable de rompre le lien direct que les aides créent entre l’État et les médias et de conditionner ces aides à l’engagement des rédactions dans les formes de journalisme les plus utiles à la société. Six grandes mesures pourraient contribuer à la réalisation de cet objectif :
 
