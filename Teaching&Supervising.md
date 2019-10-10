@@ -10,7 +10,7 @@ categories: teaching&supervising
 <h4>Enseignements | Teaching</h4>
 
 Sociologie contemporaine (Cours fondamental de 3ème année) :
-- [Syllabus](/pdf/Sociologie contemporaine — CF 3A — Bastin — 2018-19.pdf)
+- [Syllabus](/pdf/Sociologie contemporaine (Syllabus 2019-2020).pdf)
 - [Accès (réservé) aux documents du cours](https://drive.google.com/drive/folders/0B5jxP8422LB8WkRJWGNiX1VQYTg?usp=sharing)
 
 Histoire des pratiques journalistiques :
