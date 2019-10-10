@@ -5,10 +5,15 @@ layout: page
 categories: teaching&supervising
 ---
 
+Vous trouverez sur cette page des informations utiles relatives aux cours principaux que je donne à Sciences Po Grenoble.
+Certains documents sont réservés aux étudiant•es qui suivent ces cours (accès par vos identifiants étudiants sur le drive de Sciences Po).
+Vous trouverez aussi des renseignements sur les étudiant•es que j'encadre. N'hésitez pas à me contacter si vous souhaitez discuter d'un sujet de recherche, en vue d'une thèse ou d'un mémoire de Master.
+
 <h4>Enseignements | Teaching</h4>
 
 Sociologie contemporaine (Cours fondamental de 3ème année) :
 - [Syllabus](/pdf/Sociologie contemporaine (Syllabus 2019-2020).pdf)
+- Bibliographie
 - [Accès (réservé) aux documents du cours](https://drive.google.com/drive/folders/0B5jxP8422LB8WkRJWGNiX1VQYTg?usp=sharing)
 
 Histoire des pratiques journalistiques :
