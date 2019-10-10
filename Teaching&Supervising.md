@@ -5,8 +5,6 @@ layout: page
 categories: teaching&supervising
 ---
 
-À noter : je serai en congé pour recherches au second semestre de l'année 2018-2019 | <i>I will be on sabbatical leave during the spring semester in 2018-2019.</i>
-
 <h4>Enseignements | Teaching</h4>
 
 Sociologie contemporaine (Cours fondamental de 3ème année) :
