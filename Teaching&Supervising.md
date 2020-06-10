@@ -25,6 +25,8 @@ Les étudiant•es sont invité•es à participer au cours de façon active par
 
 <h4>Histoire des pratiques journalistiques :</h4>
 
+L’histoire du journalisme est souvent mal connue. L’objectif de ce cours est de contribuer à une meilleure connaissance de cette histoire à partir de l’étude de grands moments fondateurs et de figures typiques des différentes configurations de pratiques que l’on a appelées, à diverses périodes, « journalisme ». Ce cours permet aux étudiants de se familiariser, entre autres, avec l’histoire du reportage, de l’enquête, de l’objectivité ou du style littéraire en journalisme. Il se conclut par une réflexion sur les mutations contemporaines des pratiques journalistiques.
+
 - [Syllabus](/pdf/Histoire des Pratiques Journalistiques.pdf)
 - [Accès (réservé) aux documents du cours](https://drive.google.com/drive/folders/1jhvx69UzuCIqNWo570SBm4hXYty_pnU4)
 
