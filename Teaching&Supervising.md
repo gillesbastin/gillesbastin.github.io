@@ -9,16 +9,15 @@ Vous trouverez sur cette page des liens vers les pages des cours principaux que 
 
 Vous trouverez aussi des renseignements sur les étudiant•es que j'encadre. N'hésitez pas à me contacter si vous souhaitez discuter d'un sujet de recherche, en vue d'une thèse ou d'un mémoire de Master.
 
-<h4>Enseignements | Teaching</h4>
-
-<h5>Sociologie contemporaine (Cours fondamental de 3ème année) :</h5>
+<h4>Sociologie contemporaine (Cours fondamental de 3ème année) :</h4>
 
 - [Syllabus](/pdf/Sociologie contemporaine (Syllabus 2019-2020).pdf)
 - Bibliographie
 - [Accès (réservé) aux documents du cours](https://drive.google.com/drive/folders/0B5jxP8422LB8WkRJWGNiX1VQYTg?usp=sharing)
 
-<h5>Société algorithmique :</h5>
-
+<h4>Société algorithmique :</h4>
+Ce cours aborde la question de la régulation algorithmique de la société. Sur le marché du travail, sur celui des relations amoureuses, dans les tribunaux ou dans l’espace public animé par les plateformes de réseaux sociaux, des algorithmes prennent petit à petit la place des règles institutionnelles, des routines organisationnelles ou des principes professionnels pour arbitrer des situations, décider du devenir des individus ou des connaissances auxquelles ils ou elles sont exposé•es. À partir d’une démarche mêlant discussion théorique et étude de cas le cours essaiera de définir ce « tournant algorithmique » de la société et d’en étudier l’origine et les effets.
+Les étudiant•es sont invité•es à participer au cours de façon active par le biais de lectures régulières, de participation à des discussions en cours et en produisant deux « papiers » dans le cadre du cours.
 
 <h5>Histoire des pratiques journalistiques :</h5>
 
