@@ -5,28 +5,31 @@ layout: page
 categories: teaching&supervising
 ---
 
-Vous trouverez sur cette page des informations utiles relatives aux cours principaux que je donne à Sciences Po Grenoble.
-Certains documents sont réservés aux étudiant•es qui suivent ces cours (accès par vos identifiants étudiants sur le drive de Sciences Po).
+Vous trouverez sur cette page des liens vers les pages des cours principaux que je donne à Sciences Po Grenoble. Certains documents sur ces pages sont réservés aux étudiant•es qui suivent ces cours.
+
 Vous trouverez aussi des renseignements sur les étudiant•es que j'encadre. N'hésitez pas à me contacter si vous souhaitez discuter d'un sujet de recherche, en vue d'une thèse ou d'un mémoire de Master.
 
 <h4>Enseignements | Teaching</h4>
 
-Sociologie contemporaine (Cours fondamental de 3ème année) :
+<h5>Sociologie contemporaine (Cours fondamental de 3ème année) :</h5>
+
 - [Syllabus](/pdf/Sociologie contemporaine (Syllabus 2019-2020).pdf)
 - Bibliographie
 - [Accès (réservé) aux documents du cours](https://drive.google.com/drive/folders/0B5jxP8422LB8WkRJWGNiX1VQYTg?usp=sharing)
 
-Histoire des pratiques journalistiques :
+<h5>Société algorithmique :</h5>
+
+
+<h5>Histoire des pratiques journalistiques :</h5>
+
 - [Syllabus](/pdf/Histoire des Pratiques Journalistiques.pdf)
 - [Accès (réservé) aux documents du cours](https://drive.google.com/drive/folders/1jhvx69UzuCIqNWo570SBm4hXYty_pnU4)
 
 <h4>Supervision de thèses | PhD Supervising</h4>
 
-[Antoine Machut](https://www.pacte-grenoble.fr/membres/antoine-machut) (Structure des mondes de l'information financière en France)
-
-[Monia Haddad](https://www.pacte-grenoble.fr/membres/monia-haddad) (Impact des humanités numériques sur le fonctionnement des mondes académiques)
-
-[Flavie Genatio](https://www.pacte-grenoble.fr/actualites/flavie-genatio-debute-une-these-a-pacte) (Réseaux et carrières dans le monde social des <i>makers</i>)
+- [Antoine Machut](https://www.pacte-grenoble.fr/membres/antoine-machut) (Structure des mondes de l'information financière en France)
+- [Monia Haddad](https://www.pacte-grenoble.fr/membres/monia-haddad) (Impact des humanités numériques sur le fonctionnement des mondes académiques)
+- [Flavie Genatio](https://www.pacte-grenoble.fr/actualites/flavie-genatio-debute-une-these-a-pacte) (Réseaux et carrières dans le monde social des <i>makers</i>)
 <br><br>
 
 ---
