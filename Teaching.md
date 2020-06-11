@@ -1,6 +1,6 @@
 ---
-title: Teaching & Supervising
-permalink: /teaching&supervising/
+title: Teaching
+permalink: /teaching/
 layout: page
 categories: teaching&supervising
 ---
