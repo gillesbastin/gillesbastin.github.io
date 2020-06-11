@@ -1,5 +1,5 @@
 ---
-title: Students
+title: Etudiants
 permalink: /students/
 layout: page
 categories: teaching&supervising
