@@ -1,5 +1,5 @@
 ---
-title: Enseignement | Teaching
+title: Enseignement
 permalink: /teaching/
 layout: page
 categories: teaching&supervising
