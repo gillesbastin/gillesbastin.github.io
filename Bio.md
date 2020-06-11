@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Bio
+permalink: /bio/
 ---
 
 <div align="center"><img src="/img/27092013-IMG_1487-N&B-light.jpeg" width="150px"></div>
