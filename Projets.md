@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Projets
 layout: page
 permalink: /projects/
 ---
