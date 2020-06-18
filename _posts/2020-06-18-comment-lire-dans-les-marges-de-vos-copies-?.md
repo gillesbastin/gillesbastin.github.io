@@ -17,4 +17,8 @@ Abbréviation | Signification
 (src) ou (ref) | Donnez vos sources ou références
 (ill) | Illisible
 x | Il manque un mot ici
-~~~ | 
+\~~~ | Le passage souligné est problématique
+——— | Le passage souligné est très convaincant
+¢ | Argument trop complexe. Simplifiez !
+⇋ | Contradiction dans les termes
+⟷ | Quel est le lien entre les deux arguments ?
