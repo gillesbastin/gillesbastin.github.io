@@ -8,7 +8,7 @@ tags: tips
 Voici les principales abbréviations que j'utilise lorsque je corrige vos travaux :
 
 Abbréviation | Signification
---- | ---
+ --- | --- 
 (md) | Mal dit : l'expression est maladroite ou confuse.
 (…) | Il manque une partie du raisonnement
 (synt) | Syntaxe fautive
