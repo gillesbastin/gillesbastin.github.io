@@ -5,7 +5,7 @@ categories: teaching&supervising
 tags: tips
 ---
 
-Ce post complète la série consacrée à la question de [l'écriture académique](https://gillesbastin.github.io/teaching&supervising/2020/06/17/Ecrire-comme-un-sociologue-bis.html) et à l'augmentation des capacités des étudiant•es de mes cours dans ce domaine. Il est consacré à l'explicitation des remarques marginales que vous trouverez dans vos travaux après lecture et correction si vous participez à l'un de mes cours.
+Ce post complète la série consacrée à la question de l'écriture académique (voir [ici](https://gillesbastin.github.io/teaching&supervising/2020/06/17/Ecrire-comme-un-sociologue-bis.html) et [ici](https://gillesbastin.github.io/teaching&supervising/2018/06/12/Ecrire-comme-un-sociologue.html)) ainsi qu'à l'augmentation des capacités des étudiant•es de mes cours dans ce domaine. Il est consacré à l'explicitation des remarques marginales que vous trouverez dans vos travaux après lecture et correction si vous participez à l'un de mes cours.
 
 Voici donc les principales abbréviations que j'utilise :
 
