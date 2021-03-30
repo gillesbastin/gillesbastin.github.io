@@ -16,8 +16,6 @@ Vous trouverez ici des renseignements sur les étudiant•es que j'encadre. N'h�
 - [Ange Richard](https://www.pacte-grenoble.fr/membres/ange-richard) : Mesure et analyse des biais de genre dans les médias (avec [François Portet](https://lig-membres.imag.fr/portet/home.php))
 - [Guillaume Le Lay]() : Apprendre l'IA : la production sociale du savoir algorithmique.
 
-<br>
-
 <h5>Soutenues | Defended</h4>
 
 - [Antoine Machut](https://www.pacte-grenoble.fr/membres/antoine-machut) (Structure des mondes de l'information financière en France)
