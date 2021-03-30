@@ -1,5 +1,12 @@
- Qu’est-ce qui menace vraiment le débat intellectuel à l’Université ?
-17 mars 2021
+---
+layout: post
+title: Qu’est-ce qui menace vraiment le débat intellectuel à l’Université ?
+categories: chronique
+tags: point de vue
+---
+
+_Note : Cette tribune a été publiée dans le journal Le Monde le 17 mars 2021. Elle est signée par 27 enseignants et chercheurs de l'IEP de Grenoble_
+
 Depuis plusieurs jours, l'Institut d’Études politiques de Grenoble et le laboratoire Pacte sont au centre de l’attention médiatique et de campagnes haineuses et calomnieuses sur les réseaux sociaux à la suite du collage sauvage d’afFiches mettant en cause très violemment deux enseignants accusés d’islamophobie et de fascisme.
 Les enseignantes et les enseignants, les chercheur•es, les étudiant•es, les personnels et les responsables de ces deux institutions ont apporté aux deux enseignants attaqués un soutien très clair en condamnant fermement l’injure et l’intimidation dont ils ont été victimes dans un contexte particulièrement inquiétant. Ce collage, qui a fait l’objet d’une saisine du Procureur de la République par la directrice de l’Institut d’études Politiques, est odieux. Il met en danger non seulement les deux enseignants cités mais aussi l’ensemble des personnels et des étudiant•es qui forment notre communauté et sur lesquels pèse aujourd’hui un poids trop lourd à porter.
 En dépit de ce soutien, nous assistons à la propagation d’un incendie médiatique apparemment hors de contrôle dans lequel se sont associées des forces qui dépassent largement le cadre auquel aurait dû se limiter ce collage, y compris pour assurer la sécurité des personnes citées. Cet incendie est attisé depuis plus d’une semaine par les commentaires de ceux qui, tout en ignorant généralement les circonstances de cette affaire, s’en emparent pour stigmatiser la prétendue faillite de l’Université et la conversion supposée de ses enseignant•es, particulièrement dans les sciences sociales, à l’« islamo- gauchisme ».
@@ -12,6 +19,7 @@ Comment ne pas voir non plus derrière la libération généralisée d’une par
  académique. Il nous paraît aussi évident qu’en soufFlant sur les braises depuis des mois le gouvernement a inspiré l’offensive contre les sciences sociales à laquelle nous assistons aujourd’hui.
 Le sentiment qui nous envahit aujourd’hui est un mélange de colère et de tristesse. La tristesse de voir triompher ceux qui pratiquent la censure et piétinent la tradition d’ouverture et d’argumentation rationnelle du débat intellectuel, préférant manier l’outrance, le mépris et l’ironie. La tristesse de les voir préférer le soutien des défenseurs les plus extrêmes de la pensée réactionnaire à la critique de leurs pairs. La colère de constater les ravages causés par leurs propos sur tous nos étudiant•es et sur notre communauté. La colère encore de voir le nom de Samuel Paty entraîné dans une polémique idéologique à laquelle il est étranger et instrumentalisé pour organiser des campagnes haineuses à l'encontre d’enseignant•es, de chercheur•e•s en sciences sociales, d'étudiant•e•s et de membres du personnel administratif des Universités.
 Il nous reste heureusement la possibilité de retourner à notre travail. Celui que nous faisons toutes et tous depuis des années en délivrant des cours et en animant des débats argumentés sur des enjeux non moins sensibles que l’islam, comme la colonisation, les génocides et les crimes contre l'humanité, le terrorisme, la place de la science dans la société, les pratiques policières, les politiques migratoires, le populisme, le racisme, la domination masculine, le genre et la sexualité, les crises écologiques ou encore les inégalités. Pour combien de temps encore ?
+
 Les signataires de ce texte enseignent tous à Sciences Po Grenoble :
 Stéphanie Abrial, Ingénieure de recherche en science politique Marie-Charlotte Allam, Enseignante-chercheure en science politique Chloë Alexandre, Enseignante-chercheure en science politique Amélie Artis, Maîtresse de conférences en économie
 Gilles Bastin, Professeur de sociologie
