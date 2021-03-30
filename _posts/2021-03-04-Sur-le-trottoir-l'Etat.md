@@ -1,6 +1,6 @@
 ---
 layout: post
-title: « Sur le trottoir, l’Etat », de Gwénaëlle Mainsant : policier du sexe, un travail « émotionnel »
+title: Sur le trottoir, l’Etat, de Gwénaëlle Mainsant : policier du sexe, un travail « émotionnel »
 categories: chronique
 tags: bookreview
 ---
