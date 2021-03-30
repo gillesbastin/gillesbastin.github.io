@@ -5,7 +5,7 @@ categories: chronique
 tags: point de vue
 ---
 
-_Note : Cette tribune a été publiée dans le journal Le Monde le 17 mars 2021. Elle est signée par 27 enseignants et chercheurs de l'IEP de Grenoble_
+_Note : Cette tribune a été publiée dans le journal Le Monde le 17 mars 2021 (journal daté du 18 mars). Elle est signée par 27 enseignants et chercheurs de l'IEP de Grenoble_
 
 Depuis plusieurs jours, l'Institut d’Études politiques de Grenoble et le laboratoire Pacte sont au centre de l’attention médiatique et de campagnes haineuses et calomnieuses sur les réseaux sociaux à la suite du collage sauvage d’afFiches mettant en cause très violemment deux enseignants accusés d’islamophobie et de fascisme.
 
