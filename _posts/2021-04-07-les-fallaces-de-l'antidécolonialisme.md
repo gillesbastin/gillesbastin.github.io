@@ -5,8 +5,6 @@ categories: chronique
 tags: point de vue
 ---
 
-<h1>Les fallaces de l’anti-décolonialisme</h1>
-
 > fallace<br>
 > (fal-la-s') <i>s. f.</i><br>
 > Action de tromper en quelque mauvaise intention.<br>
