@@ -14,7 +14,7 @@ Le cours est aussi motivé par les questionnements qui se sont récemment empar�
 
 - [Syllabus](/pdf/Sociologie_contemporaine_(2021-2022)_Syllabus.pdf)
 - [Bibliographie de rattrapage]()
-- [Accès (réservé) aux documents du cours](https://drive.google.com/drive/folders/0B5jxP8422LB8WkRJWGNiX1VQYTg?usp=sharing)
+- [Accès aux diaporamas du cours](https://drive.google.com/drive/folders/0B5jxP8422LB8WkRJWGNiX1VQYTg?usp=sharing)
 
 <h4>Société algorithmique (Cours spécialisé) :</h4>
 
