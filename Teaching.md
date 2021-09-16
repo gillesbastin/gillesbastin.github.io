@@ -13,7 +13,7 @@ L’objectif de ce cours est d’aborder l’étude de la sociologie contemporai
 Le cours est aussi motivé par les questionnements qui se sont récemment emparés des sciences sociales dans un monde marqué par la résurgence de formes radicales de critiques de la société, notamment par le terrorisme. La sociologie, qui est née au moment de la grande vague des attentats anarchistes en Europe à la fin du XIXème siècle, a-t-elle quelque chose à dire sur la crise traversée aujourd’hui par la société ? Si oui, pourquoi est-elle si peu audible ? Ces questions serviront de fil conducteur au cours et permettront d’avancer petit à petit vers la formulation du grand secret des sociétés contemporaines : l’existence, le maintien et la reproduction des inégalités.
 
 - [Syllabus](/pdf/Sociologie_contemporaine_(2021-2022)_Syllabus.pdf)
-- [Bibliographie de rattrapage](/pdf/Bibliographie_rattrapage.pdf)
+- [Bibliographie de rattrapage](/pdf/Sociologie_contemporaine_biblio_rattrapage.pdf)
 - [Accès aux diaporamas du cours](https://drive.google.com/drive/folders/0B5jxP8422LB8WkRJWGNiX1VQYTg?usp=sharing)
 
 <h4>Société algorithmique (Cours spécialisé) :</h4>
