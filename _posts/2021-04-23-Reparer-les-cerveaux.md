@@ -1,6 +1,6 @@
 ---
 layout: post
-title: cerveaux soignés et cerveaux soignants
+title: Cerveaux soignés et cerveaux soignants
 categories: chronique
 tags: bookreview
 ---
