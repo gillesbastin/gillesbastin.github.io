@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gisèle Sapiro met tous les Bourdieu en un
+title: Le sale boulot des nettoyeurs du web
 categories: chronique
 tags: bookreview
 ---
