@@ -16,6 +16,13 @@ Le cours est aussi motivé par les questionnements qui se sont récemment empar�
 - [Bibliographie de rattrapage](/pdf/Sociologie_contemporaine_biblio_rattrapage.pdf)
 - [Accès aux diaporamas du cours](https://drive.google.com/drive/folders/0B5jxP8422LB8WkRJWGNiX1VQYTg?usp=sharing)
 
+<h4>Histoire des pratiques journalistiques (Master de Journalisme) :</h4>
+
+L’histoire du journalisme est souvent mal connue. L’objectif de ce cours est de contribuer à une meilleure connaissance de cette histoire à partir de l’étude de grands moments fondateurs et de figures typiques des différentes configurations de pratiques que l’on a appelées, à diverses périodes, « journalisme ». Ce cours permet aux étudiants de se familiariser, entre autres, avec l’histoire du reportage, de l’enquête, de l’objectivité ou du style littéraire en journalisme. Il se conclut par une réflexion sur les mutations contemporaines des pratiques journalistiques.
+
+- [Syllabus](/pdf/Histoire des Pratiques Journalistiques 2021-2022.pdf)
+- [Accès aux diaporamas du cours](https://drive.google.com/drive/folders/12xlQFG9I-qd79txMpL_LjPP5-qRt1Aw1?usp=sharing)
+
 <h4>Société algorithmique (Cours spécialisé) :</h4>
 
 Ce cours aborde la question de la régulation algorithmique de la société. Sur le marché du travail, sur celui des relations amoureuses, dans les tribunaux ou dans l’espace public animé par les plateformes de réseaux sociaux, des algorithmes prennent petit à petit la place des règles institutionnelles, des routines organisationnelles ou des principes professionnels pour arbitrer des situations, décider du devenir des individus ou des connaissances auxquelles ils ou elles sont exposé•es. À partir d’une démarche mêlant discussion théorique et étude de cas le cours essaiera de définir ce « tournant algorithmique » de la société et d’en étudier l’origine et les effets.
@@ -23,13 +30,6 @@ Les étudiant•es sont invité•es à participer au cours de façon active par
 
 - [Syllabus](/pdf/Societe-Algorithmique-Syllabus.pdf)
 - [Accès (réservé) aux documents du cours](https://drive.google.com/drive/folders/16P7jJnqoW85xtka--PfebQiOwAvZx5UQ?usp=sharing)
-
-<h4>Histoire des pratiques journalistiques (Master de Journalisme) :</h4>
-
-L’histoire du journalisme est souvent mal connue. L’objectif de ce cours est de contribuer à une meilleure connaissance de cette histoire à partir de l’étude de grands moments fondateurs et de figures typiques des différentes configurations de pratiques que l’on a appelées, à diverses périodes, « journalisme ». Ce cours permet aux étudiants de se familiariser, entre autres, avec l’histoire du reportage, de l’enquête, de l’objectivité ou du style littéraire en journalisme. Il se conclut par une réflexion sur les mutations contemporaines des pratiques journalistiques.
-
-- [Syllabus](/pdf/Histoire des Pratiques Journalistiques 2021-2022.pdf)
-- [Accès aux diaporamas du cours](https://drive.google.com/drive/folders/12xlQFG9I-qd79txMpL_LjPP5-qRt1Aw1?usp=sharing)
 
 <br><br>
 
