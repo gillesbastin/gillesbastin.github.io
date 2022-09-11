@@ -55,6 +55,8 @@ Gilles Bastin, _Grands débats des sciences économiques et sociales_, Presses U
 
 #### Articles dans des revues scientifiques | Articles
 
+[24] Gilles Bastin, Laure Bonnaud, Olivier Le Noé, Ashveen Peerbaye, Pierre-Paul Zalio, « Une protohistoire de terrains & travaux (1995-2005) », Terrains & travaux, 2020/1-2 (N° 36-37), pp. 9-28 ([https://www-cairn-info.iepnomade-2.grenet.fr/revue-terrains-et-travaux-2020-1-page-9.htm](https://www-cairn-info.iepnomade-2.grenet.fr/revue-terrains-et-travaux-2020-1-page-9.htm)). 
+
 [23] Gilles Bastin et Paola Tubaro, « Le moment big data des sciences sociales ». _Revue française de sociologie_, Centre National de la Recherche Scientifique, 2018, Big data, sociétés et sciences sociales, 59 (3), pp.375-394 ([hal-01885416](https://hal.archives-ouvertes.fr/hal-01885416/)).
 
 [22] Gilles Bastin, « Le journalisme et les sciences sociales : trouble ou problème ? », _Sur le Journalisme / On Journalism / Sobre Jornalismo_, 5(2), 2016, p. 44-63 ([http://surlejournalisme.com/rev/index.php/slj/article/view/256](http://surlejournalisme.com/rev/index.php/slj/article/view/256)).
@@ -129,8 +131,9 @@ Gilles Bastin, _Grands débats des sciences économiques et sociales_, Presses U
 
 #### Articles dans des revues sans comité de lecture | Other articles
 
-[3] Gilles Bastin, « Vidéogazette ou le studio magnétique de la Villeneuve », _La furia humana_, 34 (http://www.lafuriaumana.it/index.php/67-archive/lfu-34/784-gilles-bastin-videogazette-ou-le-studio-magnetique-de-la-villeneuve)
+[4] Ange Richard, Gilles Bastin, François Portet, « GenderedNews: Une approche computationnelle des écarts de représentation des genres dans la presse française », arXiv preprint arXiv:2202.05682, 2022 ([https://arxiv.org/pdf/2202.05682](https://arxiv.org/pdf/2202.05682))
 
+[3] Gilles Bastin, « Vidéogazette ou le studio magnétique de la Villeneuve », _La furia humana_, 34 (http://www.lafuriaumana.it/index.php/67-archive/lfu-34/784-gilles-bastin-videogazette-ou-le-studio-magnetique-de-la-villeneuve)
 
 [2] Gilles Bastin, « Les deux visages du journalisme européen. Quelques remarques depuis le monde de l'information européenne à Bruxelles », _Médiamorphoses_, 12, 2004.
 
