@@ -135,7 +135,7 @@ Gilles Bastin, _Grands débats des sciences économiques et sociales_, Presses U
 
 [4] Ange Richard, Gilles Bastin, François Portet, « GenderedNews: Une approche computationnelle des écarts de représentation des genres dans la presse française », arXiv preprint arXiv:2202.05682, 2022 ([hal-03604628](https://halshs.archives-ouvertes.fr/halshs-03604628) ; [https://arxiv.org/pdf/2202.05682](https://arxiv.org/pdf/2202.05682))
 
-[3] Gilles Bastin, « Vidéogazette ou le studio magnétique de la Villeneuve », _La furia humana_, 34 (http://www.lafuriaumana.it/index.php/67-archive/lfu-34/784-gilles-bastin-videogazette-ou-le-studio-magnetique-de-la-villeneuve)
+[3] Gilles Bastin, « Vidéogazette ou le studio magnétique de la Villeneuve », _La furia humana_, 34 ([http://www.lafuriaumana.it/index.php/67-archive/lfu-34/784-gilles-bastin-videogazette-ou-le-studio-magnetique-de-la-villeneuve](http://www.lafuriaumana.it/index.php/67-archive/lfu-34/784-gilles-bastin-videogazette-ou-le-studio-magnetique-de-la-villeneuve))
 
 [2] Gilles Bastin, « Les deux visages du journalisme européen. Quelques remarques depuis le monde de l'information européenne à Bruxelles », _Médiamorphoses_, 12, 2004.
 
