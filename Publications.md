@@ -105,6 +105,8 @@ Gilles Bastin, _Grands débats des sciences économiques et sociales_, Presses U
 
 #### Contributions | Book chapters
 
+[13] Gilles Bastin, « Le démon wébérien du journalisme. Ordre de vie, anonymat et personnalité dans le siècle de la presse », in Jean-Pierre Grossein & Béatrice Hibou (dir.), _Travailler avec Max Weber_, Éditions de la Maison des sciences de l'homme, Paris, 2022.
+
 [12] Gilles Bastin, « Gravitation, aléa, séquence. Variations sociologiques autour du concept de carrière », in D. Demazière et M. Jouvenet (dir.), _La sociologie d’Andrew Abbott_, Presses de l’EHESS, 2016, vol. 2, pp. 195-216 ([hal-01385699](https://hal.archives-ouvertes.fr/hal-01385699v1)).
 
 [11] Gilles Bastin, « Analyser les carrières de journalistes dans les mondes de l’information : propositions pour une enquête indirecte sur le réseau LinkedIn », in Christine Leteinturier et Cégolène Frisque (dir.), _Les espaces professionnels des journalistes. Des corpus quantitatifs aux analyses qualitatives_, Editions Panthéon-Assas, 2015, pp. 203-228 ([hal-01386990](https://hal.archives-ouvertes.fr/hal-01386990v1)).
@@ -131,7 +133,7 @@ Gilles Bastin, _Grands débats des sciences économiques et sociales_, Presses U
 
 #### Articles dans des revues sans comité de lecture | Other articles
 
-[4] Ange Richard, Gilles Bastin, François Portet, « GenderedNews: Une approche computationnelle des écarts de représentation des genres dans la presse française », arXiv preprint arXiv:2202.05682, 2022 ([https://arxiv.org/pdf/2202.05682](https://arxiv.org/pdf/2202.05682))
+[4] Ange Richard, Gilles Bastin, François Portet, « GenderedNews: Une approche computationnelle des écarts de représentation des genres dans la presse française », arXiv preprint arXiv:2202.05682, 2022 ([hal-03604628](https://halshs.archives-ouvertes.fr/halshs-03604628) ; [https://arxiv.org/pdf/2202.05682](https://arxiv.org/pdf/2202.05682))
 
 [3] Gilles Bastin, « Vidéogazette ou le studio magnétique de la Villeneuve », _La furia humana_, 34 (http://www.lafuriaumana.it/index.php/67-archive/lfu-34/784-gilles-bastin-videogazette-ou-le-studio-magnetique-de-la-villeneuve)
 
