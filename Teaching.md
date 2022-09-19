@@ -5,7 +5,7 @@ layout: page
 categories: teaching&supervising
 ---
 
-Vous trouverez sur cette page des liens vers les pages des cours principaux que je donne à Sciences Po Grenoble. Certains documents sur ces pages sont réservés aux étudiant•es qui suivent ces cours.
+Vous trouverez sur cette page des liens vers les pages des cours principaux que je donne. Certains documents sur ces pages sont réservés aux étudiant•es qui suivent ces cours.
 
 <h4>Sociologie contemporaine (Cours fondamental de 3ème année) :</h4>
 
@@ -15,7 +15,7 @@ Le cours est aussi motivé par les questionnements qui se sont récemment empar�
 - [Syllabus](/pdf/Sociologie_contemporaine_2022-2023_Syllabus.pdf)
 - [Accès au Moodle du cours](https://cours.univ-grenoble-alpes.fr/course/view.php?id=16967)
 
-<h4>Design de recherche (Cours du label recherche de l'Institut d'Études Politiques) :</h4>
+<h4>Design de la recherche (Cours du label recherche) :</h4>
 
 Le séminaire de design de recherche vise avant tout à aider les étudiant•es à entreprendre ce qui constitue souvent leur premier travail de recherche. Il s’agit donc de proposer une réflexion autour de la démarche de recherche et d’offrir les outils épistémologiques et méthodologiques pour leur permettre de développer cette démarche avec succès. L’enseignement est dispensé via l’invitation à des lectures portant sur la démarche de recherche et un suivi régulier et personnalisé des étudiant•es. Ce suivi permet aux étudiant•es de construire l’objet de leur future recherche dans toutes ses composantes (recherche dans la littérature pertinente, rédaction d’hypothèses, choix des données utilisées et d’une approche méthodologique, rédaction d’un projet de thèse, évaluation des enjeux éthiques et déontologiques du projet…).
 
