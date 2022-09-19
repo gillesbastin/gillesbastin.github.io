@@ -15,6 +15,13 @@ Le cours est aussi motivé par les questionnements qui se sont récemment empar�
 - [Syllabus](/pdf/Sociologie contemporaine 2022-2023 (Syllabus).pdf)
 - [Accès au Moodle du cours](https://cours.univ-grenoble-alpes.fr/course/view.php?id=16967)
 
+<h4>Design de recherche (Cours du label recherche de l'Institut d'Études Politiques) :</h4>
+
+Le séminaire de design de recherche vise avant tout à aider les étudiant•es à entreprendre ce qui constitue souvent leur premier travail de recherche. Il s’agit donc de proposer une réflexion autour de la démarche de recherche et d’offrir les outils épistémologiques et méthodologiques pour leur permettre de développer cette démarche avec succès. L’enseignement est dispensé via l’invitation à des lectures portant sur la démarche de recherche et un suivi régulier et personnalisé des étudiant•es. Ce suivi permet aux étudiant•es de construire l’objet de leur future recherche dans toutes ses composantes (recherche dans la littérature pertinente, rédaction d’hypothèses, choix des données utilisées et d’une approche méthodologique, rédaction d’un projet de thèse, évaluation des enjeux éthiques et déontologiques du projet…).
+
+- [Syllabus]()
+- [Accès au Moodle du cours](https://cours.univ-grenoble-alpes.fr/course/view.php?id=18277)
+
 <h4>Histoire des pratiques journalistiques (Master de Journalisme) :</h4>
 
 L’histoire du journalisme est souvent mal connue. L’objectif de ce cours est de contribuer à une meilleure connaissance de cette histoire à partir de l’étude de grands moments fondateurs et de figures typiques des différentes configurations de pratiques que l’on a appelées, à diverses périodes, « journalisme ». Ce cours permet aux étudiants de se familiariser, entre autres, avec l’histoire du reportage, de l’enquête, de l’objectivité ou du style littéraire en journalisme. Il se conclut par une réflexion sur les mutations contemporaines des pratiques journalistiques.
