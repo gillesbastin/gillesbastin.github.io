@@ -41,19 +41,11 @@ Merci de consulter [le serveur HAL](https://cv.archives-ouvertes.fr/gilles-basti
 
 ### Liste des Publications
 
-#### Thèses | Academic Thesis
 
-Gilles Bastin, _Le paradoxe du paria Morphologie des mondes de l’information et _persona_ des journalistes_, Habilitation à Diriger des Recherches, garant : Pierre-Michel Menger, Ecole des Hautes Etudes en Sciences Sociales, novembre 2015.
-
-Gilles Bastin, _Les professionnels de l’information européenne à Bruxelles. Sociologie d’un monde de l’information (territoires, carrières, dispositifs)_, Thèse de doctorat en sociologie, dir. : Catherine Paradeise, Ecole Normale Supérieure de Cachan, novembre 2003 ([tel-01385480](https://hal.archives-ouvertes.fr/tel-01385480)).
-
-#### Livres | Books
-
-Gilles Bastin, _Petit lexique du journalisme_, Presses Universitaires de Grenoble, 2018.
-
-Gilles Bastin, _Grands débats des sciences économiques et sociales_, Presses Universitaires de France, 1998.
 
 #### Articles dans des revues scientifiques | Articles
+
+[25] Gilles Bastin, « Gender Imbalance in the Media : Time Lag or Hysteresis ? French Newspapers, Gender Parity Shocks, and the Long and Winding Road to the Demasculinization of Political Reporting (1990–2020) », International Journal of Press and Politics, 2022 [https://doi.org/10.1177/19401612221143074](https://doi.org/10.1177/19401612221143074).
 
 [24] Gilles Bastin, Laure Bonnaud, Olivier Le Noé, Ashveen Peerbaye, Pierre-Paul Zalio, « Une protohistoire de terrains & travaux (1995-2005) », Terrains & travaux, 2020/1-2 (N° 36-37), pp. 9-28 ([https://www-cairn-info.iepnomade-2.grenet.fr/revue-terrains-et-travaux-2020-1-page-9.htm](https://www-cairn-info.iepnomade-2.grenet.fr/revue-terrains-et-travaux-2020-1-page-9.htm)). 
 
@@ -131,7 +123,21 @@ Gilles Bastin, _Grands débats des sciences économiques et sociales_, Presses U
 
 [1] Gilles Bastin, « Bruxelles, correspondance. Géographie économique de l’information européenne à Bruxelles », in M. Dumoulin (dir.), _Bruxelles l’européenne, regards croisés sur une région capitale_, UCL-Tempora, Bruxelles, 2001.
 
-#### Articles dans des revues sans comité de lecture | Other articles
+#### Thèses | Academic Thesis
+
+Gilles Bastin, _Le paradoxe du paria Morphologie des mondes de l’information et _persona_ des journalistes_, Habilitation à Diriger des Recherches, garant : Pierre-Michel Menger, Ecole des Hautes Etudes en Sciences Sociales, novembre 2015.
+
+Gilles Bastin, _Les professionnels de l’information européenne à Bruxelles. Sociologie d’un monde de l’information (territoires, carrières, dispositifs)_, Thèse de doctorat en sociologie, dir. : Catherine Paradeise, Ecole Normale Supérieure de Cachan, novembre 2003 ([tel-01385480](https://hal.archives-ouvertes.fr/tel-01385480)).
+
+#### Livres | Books
+
+Gilles Bastin, _Petit lexique du journalisme_, Presses Universitaires de Grenoble, 2018.
+
+Gilles Bastin, _Grands débats des sciences économiques et sociales_, Presses Universitaires de France, 1998.
+
+#### Autres Articles | Other articles
+
+[5] Gilles Bastin et Anastasia Magat, « Les quartiers prioritaires de la politique de la ville sur Twitter : une visibilité croissante, mais inégale et très irrégulière dans le temps », ONPV - Observatoire national de la politique de la ville, 2022, 22 p. [halshs-03803917](https://shs.hal.science/halshs-03803917)
 
 [4] Ange Richard, Gilles Bastin, François Portet, « GenderedNews: Une approche computationnelle des écarts de représentation des genres dans la presse française », arXiv preprint arXiv:2202.05682, 2022 ([hal-03604628](https://halshs.archives-ouvertes.fr/halshs-03604628) ; [https://arxiv.org/pdf/2202.05682](https://arxiv.org/pdf/2202.05682))
 
