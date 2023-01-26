@@ -1,6 +1,6 @@
 ---
 layout : post
-title : Gender Imbalance in the Media: Time Lag or Hysteresis? French Newspapers, Gender Parity Shocks, and the Long and Winding Road to the Demasculinization of Political Reporting (1990–2020)
+title : Gender Imbalance in the Media, Time Lag or Hysteresis? French Newspapers, Gender Parity Shocks, and the Long and Winding Road to the Demasculinization of Political Reporting (1990–2020)
 categories : publications
 ---
 
