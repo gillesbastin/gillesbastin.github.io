@@ -2,6 +2,7 @@
 layout : post
 title : 'Le public et ses algorithmes'
 categories : publications
+tags: bookreview
 ---
 
 À propos de : Angèle Christin, Metrics at Work. Journalism and the contested meaning of algorithms, Princeton University Press.
