@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Qu’est-ce que l’actualité politique ? Événements et opinions au XXIe siècle
+title: "Qu’est-ce que l’actualité politique ? Événements et opinions au XXIe siècle"
 categories: chronique
 tags: bookreview
 ---
