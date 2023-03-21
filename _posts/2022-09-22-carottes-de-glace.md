@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La bouillante science des carottes de glace
+title: "La bouillante science des carottes de glace"
 categories: chronique
 tags: bookreview
 ---
