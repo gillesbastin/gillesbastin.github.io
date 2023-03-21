@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Est-il encore possible d’imaginer le possible ? »categories: chronique
+title: "Est-il encore possible d’imaginer le possible ?"
+categories: chronique
 tags: bookreview
 ---
 
