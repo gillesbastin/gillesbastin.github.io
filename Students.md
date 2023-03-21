@@ -11,8 +11,6 @@ Vous trouverez ici des renseignements sur les étudiant•es que j'encadre. N'h�
 
 <h5>En cours | Ongoing</h5>
 
-- [Monia Haddad](https://www.pacte-grenoble.fr/membres/monia-haddad) : Impact des humanités numériques sur le fonctionnement des mondes académiques
-- [Flavie Genatio](https://www.pacte-grenoble.fr/actualites/flavie-genatio-debute-une-these-a-pacte) : Réseaux et carrières dans le monde social des <i>makers</i>(avec [Sidonie Naulin](https://www.pacte-grenoble.fr/membres/sidonie-naulin))
 - [Anastasia Magat](https://www.pacte-grenoble.fr/membres/anastasia-magat) : La participation des habitants des quartiers sensibles dans la production et la réception de l’image de leur quartier sur les réseaux sociaux
 - [Ange Richard](https://www.pacte-grenoble.fr/membres/ange-richard) : Mesure et analyse des biais de genre dans les médias (avec [François Portet](https://lig-membres.imag.fr/portet/home.php))
 - [Guillaume Le Lay]() : Apprendre l'IA : la production sociale du savoir algorithmique (avec [Séverine Louvel](https://www.pacte-grenoble.fr/membres/severine-louvel))
