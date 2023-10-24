@@ -2,6 +2,7 @@
 layout : post
 title : Emploi flexible, tournois à l’entrée et probabilité de durer dans le monde du journalisme
 categories : publications
+tags: Article
 ---
 
 Avec Antoine Machut, nous venons de faire paraître dans Sociologie du travail un article sur l'emploi et les carrières des journalistes. Le sujet de l'article ne surprendra pas celles et ceux qui travaillent sur le journalisme ou les mondes de l'information : l'augmentation de la flexibilité de l'emploi dans ces mondes et celle des sorties de plus en plus précoces de celles et ceux qui y entrent.
