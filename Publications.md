@@ -46,6 +46,7 @@ Merci de consulter [le serveur HAL](https://cv.archives-ouvertes.fr/gilles-basti
 #### Articles dans des revues scientifiques | Articles
 
 [26] Antoine Machut et Gilles Bastin, « Emploi flexible, tournois à l’entrée et probabilité de durer dans le monde du journalisme », Sociologie du travail, 65(3), 2023 ([https://journals.openedition.org/sdt/44138#quotation](https://journals.openedition.org/sdt/44138#quotation)).
+
 [25] Gilles Bastin, « Gender Imbalance in the Media : Time Lag or Hysteresis ? French Newspapers, Gender Parity Shocks, and the Long and Winding Road to the Demasculinization of Political Reporting (1990–2020) », International Journal of Press and Politics, 2022 [https://doi.org/10.1177/19401612221143074](https://doi.org/10.1177/19401612221143074).
 
 [24] Gilles Bastin, Laure Bonnaud, Olivier Le Noé, Ashveen Peerbaye, Pierre-Paul Zalio, « Une protohistoire de terrains & travaux (1995-2005) », Terrains & travaux, 2020/1-2 (N° 36-37), pp. 9-28 ([https://www-cairn-info.iepnomade-2.grenet.fr/revue-terrains-et-travaux-2020-1-page-9.htm](https://www-cairn-info.iepnomade-2.grenet.fr/revue-terrains-et-travaux-2020-1-page-9.htm)). 
