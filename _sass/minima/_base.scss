@@ -186,6 +186,7 @@ pre {
   padding-right: $spacing-unit;
   padding-left: $spacing-unit;
   align-items: center;
+  vertical-align: bottom;
   @extend %clearfix;
 
   @include media-query($on-laptop) {
