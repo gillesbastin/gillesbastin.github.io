@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Tribune Colloque Sorbonne
+title: L’universalisme républicain ne se décrète pas, il se construit
 categories: chronique
 tags: 
 ---
+
+# L’universalisme républicain ne se décrète pas, il se construit
 
 Tribune parue dans Le Monde le 5 janvier 2022
 
