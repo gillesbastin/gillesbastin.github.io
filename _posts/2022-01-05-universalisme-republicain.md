@@ -2,7 +2,7 @@
 layout: post
 title: L’universalisme républicain ne se décrète pas, il se construit
 categories: chronique
-tags: 
+tags: Point de vue
 ---
 
 # L’universalisme républicain ne se décrète pas, il se construit
