@@ -1,11 +1,11 @@
 ---
 layout: post
-title: So long Howie
+title: So long, Howie
 categories: chronique
 tags: portrait
 ---
 
-Ce texte a paru dans le [Monde des livres](https://www.lemonde.fr/disparitions/article/2023/08/22/la-mort-du-sociologue-howard-becker_6186183_3382.html) le 22 août 2023.
+> Ce texte a paru dans le [Monde des livres](https://www.lemonde.fr/disparitions/article/2023/08/22/la-mort-du-sociologue-howard-becker_6186183_3382.html) le 22 août 2023, quelques jours après l'annonce de la mort d'Howard Becker. J'ai rencontré Howard Becker à trois reprises au début des années 2000. La première de ces rencontres a eu lieu au printemps 2014. Elle était je pense typique du genre d'activité qu'il menait en France tous les ans comme je le rappelle plus bas. Il s'agissait d'une réunion de doctorantes et doctorants présentant chacun un texte. Becker écoutait les présentations et en faisait un commentaire. Je me souviens qu'il avait peu goûté un parallèle que j'avais essayé de faire entre la notion d'engagement et de carrière dans les mondes sociaux et les idées d'Halbwachs dans *Matière et société* (1920). Becker était dans sa période tardienne, sans doute sous l'influence de Bruno Latour, et mon idée de le rapprocher d'un durkheimien lui avait paru assez baroque (il avait sans doute raison d'ailleurs). La seconde fois, la même année, je lui avais demandé de participer au jury du concours de sociologie visuelle que j'avais organisé à l'ENS de Cachan. Bruno Latour était aussi invité et nous avions passé une demi-journée très studieuse dans une salle à discuter des images que nous avions reçues. La dernière fois je l'avais écouté lors d'une conférence organisée par Alain Pessin à Grenoble à l'issue de laquelle il avait aimablement joué du piano pour l'assistance.
 
 Le sociologue américain Howard Becker est mort le 16 août 2023 à l’âge de 95 ans dans sa maison de San Francisco. Figure centrale de la sociologie au XXème siècle, Howard Becker était le dernier représentant de l’« école de Chicago » et a particulièrement contribué à l’étude de la déviance et à celle de la musique. Monument vivant de la sociologie, « Howie », comme il souhaitait qu’on l’appelle, avait su rester une source d’inspiration bienveillante pour tous ceux qui se demandent, ainsi qu’il le faisait dans un de ses derniers livres, comment « raconter la société ».
 
