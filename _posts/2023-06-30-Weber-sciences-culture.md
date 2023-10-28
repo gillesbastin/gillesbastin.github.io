@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sociologie des boîtes de nuit
+title: Max Weber et l'épistémologie des sciences sociales
 categories: chronique
 tags: bookreview
 ---
