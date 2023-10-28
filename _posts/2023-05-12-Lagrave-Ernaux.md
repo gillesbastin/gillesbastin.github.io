@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rose-Marie Lagrave et Annie Ernaux : se reconnaître
+title: Rose-Marie Lagrave et Annie Ernaux se reconnaissent
 categories: chronique
 tags: bookreview
 ---
