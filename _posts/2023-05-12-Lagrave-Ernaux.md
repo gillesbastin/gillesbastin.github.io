@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Une rencontre entre Rose-Marie Lagrave et Annie Ernaux
+title: Rose-Marie Lagrave et Annie Ernaux : se reconnaître
 categories: chronique
 tags: bookreview
 ---
 
 > À propos de Annie Ernaux et Rose-Marie Lagrave, Une conversation, Audiographie, Éditions de l’EHESS, 140 p. Cet article a été publié dans une version légèrement différente par le [Monde des Livres](https://www.lemonde.fr/livres/article/2023/05/14/une-conversation-annie-ernaux-et-rose-marie-lagrave-une-reconnaissance-mutuelle_6173321_3260.html) le 12 mai 2023.
-
 
 Annie Ernaux et Rose-Marie Lagrave ne se rencontrèrent que tardivement, dans un colloque consacré aux liens entre littérature et sciences sociales à Paris au début des années 2000. La première, écrivaine et future Prix Nobel de littérature, avait fait de la condition féminine un objet de littérature reconnu depuis la parution des Armoires vides chez Gallimard en 1974. La seconde, sociologue et directrice d’études à l’Ecole des Hautes Etudes en Sciences Sociales, s’apprêtait à fonder un des premiers masters consacrés aux études de genre en France. Elles n’étaient sans doute pas faites pour se rencontrer, tant leurs deux mondes sont éloignés, mais plutôt, comme le dit Annie Ernaux dans une étrange formule s’agissant d’un premier échange, pour se « reconnaître » mutuellement.
 
