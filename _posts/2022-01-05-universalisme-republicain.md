@@ -13,7 +13,7 @@ Il s’agit, est-il précisé, de « favoriser la construction, chez les élève
 
 On pourrait s’étonner de la participation annoncée du président de l’agence gouvernementale chargée d’évaluer la recherche dans l’enseignement supérieur, le Haut Conseil de l’évaluation de la recherche et de l’enseignement supérieur (HCERES), dont dépend l’avenir des laboratoires de sciences humaines et sociales. On sait toutefois que la dénonciation du wokisme, ou d’autres chimères comme l’« islamo-gauchisme », est un cheval de bataille du ministre de l’éducation nationale comme de la ministre de l’enseignement supérieur et de la recherche.
 
-Une police de la pensée
+*Une police de la pensée*
 
 La caution quasi officielle apportée par le président du HCERES à l’Observatoire du décolonialisme laisse-t-elle présager l’apparition d’une police de la pensée qui sanctionnerait toute recherche suspectée d’être contaminée par le prétendu wokisme ? Admettons, bien qu’il soit infondé, le postulat de réduction du décolonialisme à l’idéologie woke et à la cancel culture.
 
@@ -21,7 +21,7 @@ De quoi est-il donc question ? On sait que l’expression « being woke » s’e
 
 C’est ainsi que s’impose wokisme, lequel suggère l’existence d’un mouvement politique homogène chargé de propager l’idéologie woke. Il est d’ailleurs assez cocasse que la dénonciation de l’américanisation du débat s’accommode de l’importation (fautive) de mots américains.
 
-Les nouveaux inquisiteurs
+*Les nouveaux inquisiteurs*
 
 Désormais, le wokisme désigne péjorativement ceux qui sont engagés dans les luttes antiracistes, féministes, LGBT, etc. Sous couvert d’alerter sur le nouveau danger qui menacerait l’école républicaine, il s’agit de réprouver ceux qui dénoncent les discriminations fondées sur la couleur et qui font un lien entre celles-ci et notre passé colonial et/ou esclavagiste.
 
@@ -29,7 +29,7 @@ Dans la rhétorique réactionnaire des nouveaux inquisiteurs, on pratique une st
 
 En effet, cette dernière fut avant tout, aux Etats-Unis, l’occasion d’une offensive des conservateurs et de l’extrême droite contre le pouvoir supposé des minorités. En France, le terme désigne, dans la méconnaissance du contexte américain, un ensemble hétérogène composé de marxistes, de multiculturalistes, de féministes, de postmodernistes, etc., tous accusés, entre autres vices, de puritanisme, de censure, de dictature des minorités.
 
-Le cyberharcèlement moralisateur
+*Le cyberharcèlement moralisateur*
 
 A l’inverse, celui qui se veut politiquement incorrect fonde ses jugements sur la liberté de penser, la rationalité, le courage intellectuel. Qui ne s’en réclamerait ? Quelle est donc la valeur d’une position qui rassemble tout le monde et chasse des fantômes ? La « wokeness » doit en réalité être comprise comme une dynamique inhérente à la démocratie et, au-delà, l’indice des manquements de celle-ci à ses principes fondamentaux.
 
@@ -37,7 +37,7 @@ Le sort réservé à la cancel culture (culture de l’annulation) illustre ce p
 
 Il convient plutôt de l’interpréter comme une modalité de la protestation à l’usage de ceux qui disposent du seul pouvoir de marquer leur indignation en dénonçant certains dysfonctionnements dont la société s’accommode si souvent. Peut-on réellement penser que la cancel culture exprime, comme l’écrivent sans vergogne l’Observatoire du décolonialisme et le Collège de philosophie, la tentation de faire « table rase du passé, de l’histoire, de l’art, de la littérature, et de l’ensemble de l’héritage civilisationnel occidental » ? Nuance, disent-ils ?
 
-Les choses commencent à changer
+*Les choses commencent à changer*
 
 Plutôt que des effets de la cancel culture, ne faudrait-il pas s’inquiéter de la culture de l’impunité, laquelle préfère la disqualification à la dispute argumentée ? Que les choses commencent à changer, nous ne pouvons que nous en réjouir et non redouter la « dictature des minorités ». C’est, au contraire, des droits de ces dernières que nous devrions nous soucier si nous voulons combattre la dérive droitière à laquelle les organisateurs, en invitant Mathieu Bock-Côté à s’exprimer, sont coupablement inattentifs.
 
