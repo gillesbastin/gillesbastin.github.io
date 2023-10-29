@@ -5,11 +5,9 @@ categories: chronique
 tags: Point de vue
 ---
 
-Tribune parue dans Le Monde le 5 janvier 2022
+> Tribune parue dans Le Monde le 5 janvier 2022. [Voir en ligne](https://www.lemonde.fr/idees/article/2022/01/05/universite-l-universalisme-republicain-ne-se-decrete-pas-il-se-construit_6108260_3232.html)
 
-https://www.lemonde.fr/idees/article/2022/01/05/universite-l-universalisme-republicain-ne-se-decrete-pas-il-se-construit_6108260_3232.html
-
-L’Observatoire du décolonialisme et le Collège de philosophie organisent les 7 et 8 janvier, avec l’aval de Jean-Michel Blanquer, un colloque à la Sorbonne, intitulé « Après la déconstruction : reconstruire les sciences et la culture » dont l’objectif affiché est de dénoncer l’« ordre moral » que la « “pensée” décoloniale », également nommée « woke » ou « cancel culture », introduit dans le domaine éducatif en contradiction avec « l’esprit d’ouverture, de pluralisme et de laïcité qui en constitue l’essence ».
+L’Observatoire du décolonialisme et le Collège de philosophie organisent les 7 et 8 janvier, avec l’aval de Jean-Michel Blanquer, un colloque à la Sorbonne, intitulé « Après la déconstruction : reconstruire les sciences et la culture » dont l’objectif affiché est de dénoncer l’« ordre moral » que la « “pensée” décoloniale », également nommée « woke » ou « cancel culture », introduit dans le domaine éducatif en contradiction avec « l’esprit d’ouverture, de pluralisme et de laïcité qui en constitue l’essence ».
 
 Il s’agit, est-il précisé, de « favoriser la construction, chez les élèves et les étudiants, des repères culturels fondamentaux » et de « faire un état des lieux, aussi nuancé que possible ». Cette recommandation laisse perplexe lorsque l’on constate que les animateurs des tables rondes sont les intervenants et vice-versa, et la quasi-totalité d’entre eux membres de l’Observatoire. Il serait vain dès lors d’attendre débat contradictoire ou mise en perspective.
 
