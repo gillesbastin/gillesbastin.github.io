@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La pauvreté : subjective et "projective"
+title: La pauvreté : subjective et projective
 categories: chronique
 tags: bookreview
 ---
