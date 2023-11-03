@@ -15,7 +15,6 @@ layout: home
       Ce site personnel me sert à archive différents documents comme des notes, des compte-rendus de lectures, des présentations d'articles que j'ai publiés ou de cours que je donne. Vous trouverez aussi sur ce site des informations sur mon activité, sur les étudiant•es que j'encadre en thèse et sur les projets de recherche que je mène actuellement.
       <br>
       <hr size = 1>
-      <br>
       <i>This personal website is used to archive various documents such as notes, reading summaries, presentations of articles I have published, or courses I teach. You will also find information on my activities, the PhD students I supervise, and the research projects I am currently working on.</i>
     
     </td>
