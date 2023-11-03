@@ -1,6 +1,6 @@
 ---
 layout : post
-title : Une protohistoire de Terrains & Travaux (1995-2005)
+title : Une protohistoire de terrains & travaux (1995-2005)
 categories : publications
 tags : article
 ---
