@@ -12,9 +12,9 @@ layout: home
 <table>
   <tr>
     <td width="48%" valign="top">
-      Ce site personnel archive des notes, des compte-rendus de lectures, des informations à destination des étudiants qui suivent mes cours ainsi que des liens vers mes publications ou vers des projets de recherche.
-      <hr>
-      <i>This website is a depository that I use for various notes, book reviews, course details or advice for my students, links to my own publications and ongoing research projects descriptions.</i>
+      Ce site personnel me sert à archive différents documents comme des notes, des compte-rendus de lectures, des présentations d'articles que j'ai publiés ou de cours que je donne. Vous trouverez aussi sur ce site des informations sur mon activité, sur les étudiant•es que j'encadre en thèse et sur les projets de recherche que je mène actuellement.
+      <hr size = 1>
+      <i>This personal website is used to archive various documents such as notes, reading summaries, presentations of articles I have published, or courses I teach. You will also find information on my activities, the PhD students I supervise, and the research projects I am currently working on.</i>
     
     </td>
     <td width="4%">
