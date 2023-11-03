@@ -20,7 +20,7 @@ layout: home
     <td width="4%">
     </td>
     <td width="48%" valign="top">
-    
+    <img src="/img/DSCF4580_01.jpg">
     </td>  
   </tr>
 </table>
