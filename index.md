@@ -14,7 +14,7 @@ layout: home
     <td width="48%" valign="top">
       Ce site personnel archive des notes, des compte-rendus de lectures, des informations à destination des étudiants qui suivent mes cours ainsi que des liens vers mes publications ou vers des projets de recherche.
       <br>
-      ---
+      <hr>
       <br>
       <i>This website is a depository that I use for various notes, book reviews, course details or advice for my students, links to my own publications and ongoing research projects descriptions.</i>
     
