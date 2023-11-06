@@ -15,5 +15,4 @@ Dans cet article co-écrit avec Laure Bonnaud, Olivier Le Noé, Pierre-Paul Zali
 
 [Version post-print en accès libre](https://shs.hal.science/halshs-03952813)
 
-<object data="https://shs.hal.science/halshs-04198004v1/file/SDT653-03-A22021-postprint.pdf" height = "1200" width = "900" type='application/pdf'></object>
-javascript:void(0);
+<object data="/img/TT_036_0009.pdf" height = "1200" width = "900" type='application/pdf'></object>
