@@ -15,4 +15,4 @@ Dans cet article co-écrit avec Laure Bonnaud, Olivier Le Noé, Pierre-Paul Zali
 
 [Version post-print en accès libre](https://shs.hal.science/halshs-03952813) :
 
-<object src="/img/TT_036_0009.pdf" height = "1200" width = "900" type='application/pdf'></object>
+<object data="/pdf/TT_036_0009.pdf" height = "1200" width = "900" type='application/pdf'></object>
