@@ -15,4 +15,5 @@ Dans cet article co-écrit avec Laure Bonnaud, Olivier Le Noé, Pierre-Paul Zali
 
 [Version post-print en accès libre](https://shs.hal.science/halshs-03952813)
 
-https://shs.hal.science/halshs-03885693v1/file/Demasc_polit_reporting_main_revised_post-print.pdf
+<object data="https://shs.hal.science/halshs-04198004v1/file/SDT653-03-A22021-postprint.pdf" height = "1200" width = "900" type='application/pdf'></object>
+javascript:void(0);
