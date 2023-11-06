@@ -12,3 +12,5 @@ Pour décrire les carrières professionnelles des journalistes depuis les année
 Dans l'article nous proposons une interprétation de ce phénomène inspirée par les travaux des interactionnistes sur les carrières et par la riche littérature consacrée aux carrières dans les mondes de l'art notamment. Nous concluons sur un paradoxe : le fait d'avoir une formation en journalisme reconnue fait certes augmenter la "probabilité de durer" dans ce monde, mais elle ne fait pas baisser la flexibilité de l'emploi ni augmenter la probabilité d'exercer des responsabilités éditoriales. Le système de formation des journalistes contribue donc à faire peser lourdement sur les individus — et pas sur les employeurs — les risques liés à l'entrée dans un monde d'emploi flexible.
 
 [Lire l'article sur le site de la revue (accès libre)](https://journals.openedition.org/sdt/44138) • [Accès au dépôt sur Hal](https://shs.hal.science/halshs-04198004)
+
+<object data="https://shs.hal.science/halshs-04198004v1/file/SDT653-03-A22021-postprint.pdf" height = "1200" width = "900" type='application/pdf'></object>
