@@ -14,6 +14,8 @@ Vous pouvez retrouver ces deux articles ici :
 
 - [Les deux vies de Videogazette](http://www.lafuriaumana.it/index.php/67-lfu-34/786-logan-le-deux-vies-de-videogazette) (table-ronde)
 
+
+
 Et une vidéo de la table-ronde ici :
 
 <iframe src="https://player.vimeo.com/video/292319997" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
