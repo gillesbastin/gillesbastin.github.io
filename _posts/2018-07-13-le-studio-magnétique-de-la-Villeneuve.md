@@ -10,7 +10,7 @@ Cet article est accompagné du <i>verbatim</i> d'une table-ronde organisée dans
 
 Vous pouvez retrouver l'article ici :
 
-[Vidéogazette ou le studio magnétique de la Villeneuve]((https://shs.hal.science/halshs-04086254) (article) :
+[Vidéogazette ou le studio magnétique de la Villeneuve](https://shs.hal.science/halshs-04086254) (article) :
 
 <object data="https://shs.hal.science/halshs-04086254v1/file/Furia_Umana_Videogazette_1.pdf" height = "1200" width = "900" type='application/pdf'></object>
 
