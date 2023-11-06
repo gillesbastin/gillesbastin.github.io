@@ -13,6 +13,6 @@ Dans cet article co-écrit avec Laure Bonnaud, Olivier Le Noé, Pierre-Paul Zali
 
 [L'article sur le site de terrains & travaux](https://www.cairn.info/revue-terrains-et-travaux-2020-1-page-9.htm)
 
-[Version post-print en accès libre](https://shs.hal.science/halshs-03952813)
+[Version post-print en accès libre](https://shs.hal.science/halshs-03952813) :
 
 <object data="/img/TT_036_0009.pdf" height = "1200" width = "900" type='application/pdf'></object>
