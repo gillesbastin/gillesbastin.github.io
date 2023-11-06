@@ -11,4 +11,4 @@ Le livre collectif sur le site de l'éditeur : [http://www.editions-msh.fr/livre
 
 Version post-print en accès libre : [https://shs.hal.science/halshs-03799461](https://shs.hal.science/halshs-03799461) :
 
-<object data="https://shs.hal.science/halshs-03799461v1/file/Bastin_Papier_demon_journalisme_postprint.pdf" height = "1273" width = "900" type='application/pdf'></object>
+<object data="https://shs.hal.science/halshs-03799461v1/file/Bastin_Papier_demon_journalisme_postprint.pdf" height = "1200" width = "900" type='application/pdf'></object>
