@@ -12,5 +12,5 @@ Le livre sur le site de l'éditeur : [http://www.editions-msh.fr/livre/?GCOI=273
 Version post-print en accès libre : [https://shs.hal.science/halshs-03799461](https://shs.hal.science/halshs-03799461)
 
 
-<object data="https://shs.hal.science/halshs-03799461v1/file/Bastin_Papier_demon_journalisme_postprint.pdf" type='application/pdf'>
+<object data="https://shs.hal.science/halshs-03799461v1/file/Bastin_Papier_demon_journalisme_postprint.pdf" width = 100% type='application/pdf'>
 </object>
