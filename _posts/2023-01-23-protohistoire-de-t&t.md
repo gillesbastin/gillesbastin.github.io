@@ -11,4 +11,8 @@ Cette revue a depuis fait du chemin. Le cahier photocopié dans lequel nous publ
 
 Dans cet article co-écrit avec Laure Bonnaud, Olivier Le Noé, Pierre-Paul Zalio et Ashveen Peerbaye, nous avons essayé de raconter la naissance de cette revue.
 
-[L'article sur le site de terrains & travaux](https://www.cairn.info/revue-terrains-et-travaux-2020-1-page-9.htm) • [Version post-print en accès libre](https://shs.hal.science/halshs-03952813)
+[L'article sur le site de terrains & travaux](https://www.cairn.info/revue-terrains-et-travaux-2020-1-page-9.htm)
+
+[Version post-print en accès libre](https://shs.hal.science/halshs-03952813)
+
+https://shs.hal.science/halshs-03885693v1/file/Demasc_polit_reporting_main_revised_post-print.pdf
