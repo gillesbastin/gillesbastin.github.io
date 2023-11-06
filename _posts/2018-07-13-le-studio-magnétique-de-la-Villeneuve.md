@@ -10,11 +10,11 @@ Cet article est accompagné du <i>verbatim</i> d'une table-ronde organisée dans
 
 Vous pouvez retrouver ces deux articles ici :
 
-- [Vidéogazette ou le studio magnétique de la Villeneuve](http://www.lafuriaumana.it/index.php/67-lfu-34/784-gilles-bastin-videogazette-ou-le-studio-magnetique-de-la-villeneuve) (article)
+- [Vidéogazette ou le studio magnétique de la Villeneuve]((https://shs.hal.science/halshs-04086254) (article) :
+
+<object data="https://shs.hal.science/halshs-04086254v1/file/Furia_Umana_Videogazette_1.pdf" height = "1200" width = "900" type='application/pdf'></object>
 
 - [Les deux vies de Videogazette](http://www.lafuriaumana.it/index.php/67-lfu-34/786-logan-le-deux-vies-de-videogazette) (table-ronde)
-
-
 
 Et une vidéo de la table-ronde ici :
 
