@@ -11,4 +11,4 @@ L'article sur le site du journal : [https://journals.sagepub.com/doi/abs/10.1177
 
 Version post-print en accès libre : [https://shs.hal.science/halshs-03885693](https://shs.hal.science/halshs-03885693)
 
-<object data="https://shs.hal.science/halshs-04198004v1/file/SDT653-03-A22021-postprint.pdf" height = "1200" width = "900" type='application/pdf'></object>
+<object data="https://shs.hal.science/halshs-03885693v1/file/Demasc_polit_reporting_main_revised_post-print.pdf" height = "1200" width = "900" type='application/pdf'></object>
