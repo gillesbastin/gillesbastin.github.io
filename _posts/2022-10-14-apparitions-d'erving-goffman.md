@@ -6,7 +6,7 @@ tags: bookreview
 ---
 
 > À propos de Yves Winkin, *D’Erving à Goffman. Une oeuvre performée ?*, MKF Editions, 189 p. 20€.
-> Cet article a été publié dans une version légèrement différente par le Monde des Livres le 14 octobre 2022.
+> Cet article a été publié dans une version légèrement différente et plus courte par le Monde des Livres le 14 octobre 2022.
 
 **Yves Winkin s'appuie sur sa connaissance intime et approfondie de l'œuvre de Goffman pour comprendre la relation que le sociologue a entretenu pendant toute sa vie avec la biographie et la photographie.**
 
