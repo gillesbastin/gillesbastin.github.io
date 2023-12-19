@@ -12,7 +12,7 @@ Vous trouverez ici des renseignements sur les étudiant•es que j'encadre. N'h�
 - [Anastasia Magat](https://www.pacte-grenoble.fr/membres/anastasia-magat) : La participation des habitants des quartiers sensibles dans la production et la réception de l’image de leur quartier sur les réseaux sociaux.
 - [Ange Richard](https://www.pacte-grenoble.fr/membres/ange-richard) : Mesure et analyse des biais de genre dans les médias (avec [François Portet](https://lig-membres.imag.fr/portet/home.php)).
 - [Guillaume Le Lay](https://www.pacte-grenoble.fr/fr/guillaume-lay) : Apprendre l'IA : la production sociale du savoir algorithmique (avec [Séverine Louvel](https://www.pacte-grenoble.fr/membres/severine-louvel)).
-- [Guillaume Collain](): Dynamiques conflictuelles dans la production collaborative de l’information sur Wikipédia.
+- Guillaume Collain: Dynamiques conflictuelles dans la production collaborative de l’information sur Wikipédia.
 
 <h4>Thèses Soutenues | Defended PhD</h4>
 
