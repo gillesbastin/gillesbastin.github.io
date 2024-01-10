@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Les fallaces de l'anti-décolonialisme
-categories: chronique
-tags: point de vue
+categories: debat
+tags: debat
 ---
 
 > fallace<br>
