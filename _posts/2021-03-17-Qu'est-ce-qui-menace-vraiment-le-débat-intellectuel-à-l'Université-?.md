@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Qu’est-ce qui menace vraiment le débat intellectuel à l’Université ?
-categories: chronique
-tags: point de vue
+categories: debat
+tags: debat
 ---
 
 _Note : Cette tribune a été publiée dans le journal Le Monde le 17 mars 2021 (journal daté du 18 mars). Elle est signée par 27 enseignants et chercheurs de l'IEP de Grenoble_
