@@ -5,7 +5,7 @@ categories: debat
 tags: debat
 ---
 
-> Entretien paru dans Telerama le 17 mai 2022. Voir la version en ligne [à cette adresse](https://www.telerama.fr/debats-reportages/gendered-news-le-site-qui-mesure-l-effacement-des-femmes-dans-les-medias-7010389.php).
+> Entretien avec Pauline Demange-Dilasser paru dans Telerama le 17 mai 2022. Voir la version en ligne [à cette adresse](https://www.telerama.fr/debats-reportages/gendered-news-le-site-qui-mesure-l-effacement-des-femmes-dans-les-medias-7010389.php).
 
 **Les hommes occupent les trois quarts des citations dans la presse quotidienne nationale française. C’est le constat hebdomadaire d’une équipe de chercheurs grenobloise qui analyse la presse à l’aide d’une intelligence artificielle.**
 
