@@ -42,7 +42,7 @@ header_pages:
  - Conferences.md
  - Students.md
  - Debat.md
- - Blog.md
+ - Archive.md
 
 # Build settings
 theme: minima
