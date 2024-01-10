@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Les aides a la presse peuvent-elles contribuer à promouvoir le journalisme d'interêt public ?
-categories: chronique
-tags: point de vue
+categories: debat
+tags: debat
 ---
 
 > Note : La version originale de cet article a été publiée le 22 avril 2019 sur [The Conversation](https://theconversation.com/les-aides-a-la-presse-peuvent-elles-contribuer-a-promouvoir-le-journalisme-dinteret-public-115510#comment_1911996) sous licence Creative Commons.
