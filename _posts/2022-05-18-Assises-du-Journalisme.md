@@ -1,5 +1,5 @@
 ---
-title: "Ecarts de représentation et stréréotypes genrés dans les médias : où en sommes nous ?"
+title: "Ecarts de représentation et stéréotypes genrés dans les médias : où en sommes nous ?"
 layout: post
 categories: conferences, debat
 tags: genderednews
