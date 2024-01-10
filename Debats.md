@@ -1,3 +1,11 @@
+---
+title: Débat Public
+permalink: /debat/
+layout: page
+categories: debat
+---
+
+
 <h3>Débat public</h3>
   <table style="width:100%;border:none;">
   {% for post in site.categories[page.categories] limit:5 %}
