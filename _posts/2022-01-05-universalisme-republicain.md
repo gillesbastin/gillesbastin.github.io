@@ -5,7 +5,7 @@ categories: debat
 tags: debat
 ---
 
-> Tribune parue dans Le Monde le 5 janvier 2022. [Voir en ligne](https://www.lemonde.fr/idees/article/2022/01/05/universite-l-universalisme-republicain-ne-se-decrete-pas-il-se-construit_6108260_3232.html)
+> Tribune collective parue dans Le Monde le 5 janvier 2022. [Voir en ligne](https://www.lemonde.fr/idees/article/2022/01/05/universite-l-universalisme-republicain-ne-se-decrete-pas-il-se-construit_6108260_3232.html)
 
 L’Observatoire du décolonialisme et le Collège de philosophie organisent les 7 et 8 janvier, avec l’aval de Jean-Michel Blanquer, un colloque à la Sorbonne, intitulé « Après la déconstruction : reconstruire les sciences et la culture » dont l’objectif affiché est de dénoncer l’« ordre moral » que la « “pensée” décoloniale », également nommée « woke » ou « cancel culture », introduit dans le domaine éducatif en contradiction avec « l’esprit d’ouverture, de pluralisme et de laïcité qui en constitue l’essence ».
 
