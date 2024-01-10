@@ -22,7 +22,6 @@ Tous les messages postés sur ce site sont consultables ici.
           </a>
         </td>
       </tr>
-
       {%- endfor -%}
     </table>
 <br><br>
