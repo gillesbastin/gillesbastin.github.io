@@ -1,5 +1,9 @@
 « La société reflétée par les médias n’est pas du tout paritaire »
 
+> Entretien avec Pauline Demange-Dilasser paru dans Telerama le 17 mai 2022. Voir la version en ligne [à cette adresse](https://www.telerama.fr/debats-reportages/gendered-news-le-site-qui-mesure-l-effacement-des-femmes-dans-les-medias-7010389.php).
+
+
+
 Trois chercheurs de l’université Grenoble-Alpes analysent depuis plusieurs mois le « taux de masculinité » de la presse quotidienne française. Un travail inédit qui démontre un déséquilibre spectaculaire dans le nombre d’hommes et de femmes citées dans les articles, et des stéréotypes très ancrés. 
 
 LeLe chiffre est édifiant et constant. Chaque jour, une équipe de chercheur·es de Grenoble mesure le taux de masculinité de la presse écrite française. Diffusé en temps réel sur un site internet dédié, il s’affiche autour de 75 % – au cours de la semaine écoulée, c’est même entre 77 % et 78 %. Dans nos articles, les personnes citées sont donc en moyenne aux trois quarts des hommes. Les femmes sont en partie effacées de l’actualité quotidienne. Et quand elles sont présentes, elles le sont bien souvent dans des rôles stéréotypés.
