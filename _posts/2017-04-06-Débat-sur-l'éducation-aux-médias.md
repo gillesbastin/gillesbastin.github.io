@@ -1,7 +1,7 @@
 ---
 title: "Débat sur l'éducation aux médias"
 layout: post
-categories: conferences
+categories: conferences, debat
 tags: éducation aux médias
 ---
 
