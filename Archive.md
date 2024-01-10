@@ -1,6 +1,6 @@
 ---
-title: Blog
-permalink: /a/
+title: Archive
+permalink: /archive/
 layout: page
 ---
 
