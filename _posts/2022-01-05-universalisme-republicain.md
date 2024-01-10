@@ -1,8 +1,8 @@
 ---
 layout: post
 title: L’universalisme républicain ne se décrète pas, il se construit
-categories: chronique
-tags: Point de vue
+categories: debat
+tags: debat
 ---
 
 > Tribune parue dans Le Monde le 5 janvier 2022. [Voir en ligne](https://www.lemonde.fr/idees/article/2022/01/05/universite-l-universalisme-republicain-ne-se-decrete-pas-il-se-construit_6108260_3232.html)
