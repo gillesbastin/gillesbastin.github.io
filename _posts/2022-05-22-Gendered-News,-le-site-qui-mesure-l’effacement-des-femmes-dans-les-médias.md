@@ -2,7 +2,7 @@
 layout: post
 title: Gendered News, le site qui mesure l’effacement des femmes dans les médias
 categories: debat
-tags: debat
+tags: genderednews
 ---
 
 > Entretien avec Pauline Demange-Dilasser paru dans Telerama le 17 mai 2022. Voir la version en ligne [à cette adresse](https://www.telerama.fr/debats-reportages/gendered-news-le-site-qui-mesure-l-effacement-des-femmes-dans-les-medias-7010389.php).
