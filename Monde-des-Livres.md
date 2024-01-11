@@ -2,7 +2,7 @@
 title: Le Monde des Livres
 permalink: /livres/
 layout: page
-categories: bookreview
+categories: chronique
 ---
 
 
