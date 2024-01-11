@@ -49,7 +49,7 @@ Merci de consulter [le serveur HAL](https://cv.archives-ouvertes.fr/gilles-basti
 
 [25] Gilles Bastin, « Gender Imbalance in the Media : Time Lag or Hysteresis ? French Newspapers, Gender Parity Shocks, and the Long and Winding Road to the Demasculinization of Political Reporting (1990–2020) », International Journal of Press and Politics, 2022 [https://doi.org/10.1177/19401612221143074](https://doi.org/10.1177/19401612221143074).
 
-[24] Gilles Bastin, Laure Bonnaud, Olivier Le Noé, Ashveen Peerbaye, Pierre-Paul Zalio, « Une protohistoire de terrains & travaux (1995-2005) », Terrains & travaux, 2020/1-2 (N° 36-37), pp. 9-28 ([https://www-cairn-info.iepnomade-2.grenet.fr/revue-terrains-et-travaux-2020-1-page-9.htm](https://www-cairn-info.iepnomade-2.grenet.fr/revue-terrains-et-travaux-2020-1-page-9.htm)). 
+[24] Gilles Bastin, Laure Bonnaud, Olivier Le Noé, Ashveen Peerbaye, Pierre-Paul Zalio, [« Une protohistoire de terrains & travaux (1995-2005) »](https://gillesbastin.github.io/publications/2023/01/23/protohistoire-de-t&t.html), Terrains & travaux, 2020/1-2 (N° 36-37), pp. 9-28 ([https://www-cairn-info.iepnomade-2.grenet.fr/revue-terrains-et-travaux-2020-1-page-9.htm](https://www-cairn-info.iepnomade-2.grenet.fr/revue-terrains-et-travaux-2020-1-page-9.htm)). 
 
 [23] Gilles Bastin et Paola Tubaro, « Le moment big data des sciences sociales ». _Revue française de sociologie_, Centre National de la Recherche Scientifique, 2018, Big data, sociétés et sciences sociales, 59 (3), pp.375-394 ([hal-01885416](https://hal.archives-ouvertes.fr/hal-01885416/)).
 
