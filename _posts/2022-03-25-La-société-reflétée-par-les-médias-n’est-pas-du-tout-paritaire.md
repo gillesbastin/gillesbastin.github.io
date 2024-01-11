@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La société reflétée par les médias n’est pas du tout paritaire
+title: La société reflétée par les médias n’est pas du tout paritaire (Mediapart)
 categories: debat
 tags: genderednews
 ---
