@@ -24,7 +24,7 @@ categories: debat
       </td>
       <td style="border:none;">
       {%- if site.show_excerpts -%}
-        <i>{{ post.excerpt | strip_html | truncatewords:150 }}</i>
+        <i>{{ post.excerpt | strip_html | truncatewords:0 }}</i>
       {%- endif -%}
       </td>
     </tr>
