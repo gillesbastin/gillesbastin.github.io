@@ -7,7 +7,7 @@ tags: genderednews
 
 > Entretien avec Lénaïg Bredoux paru dans Mediapart le 25 mars 2022. Voir la version en ligne [à cette adresse](https://www.mediapart.fr/journal/france/250322/la-societe-refletee-par-les-medias-n-est-pas-du-tout-paritaire).
 
-<object data="https://shs.hal.science/halshs-04198004v1/file/SDT653-03-A22021-postprint.pdf" height = "1200" width = "900" type='application/pdf'></object>
+<object data="pdf/GenderedNews_Mediapart.pdf" height = "1200" width = "900" type='application/pdf'></object>
 
 
 **Trois chercheurs de l’université Grenoble-Alpes analysent depuis plusieurs mois le « taux de masculinité » de la presse quotidienne française. Un travail inédit qui démontre un déséquilibre spectaculaire dans le nombre d’hommes et de femmes citées dans les articles, et des stéréotypes très ancrés.**
