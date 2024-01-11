@@ -12,7 +12,7 @@ layout: home
 <table>
   <tr>
     <td width="48%" valign="top">
-      Je suis Professeur de sociologie à l’Institut d’Études Politiques de l’Université Grenoble Alpes. Mes recherches portent principalement sur la sociologie de la culture et des médias, sur la théorie sociologique et l’histoire des sciences sociales, ainsi que sur les aspects méthodologiques, politiques et éthiques de l’usage des données dans les sciences sociales. Vous trouverez sur ce site des informations sur mes enseignements, les projets de recherche que je mène actuellement, mes publications, les étudiant•es que j'encadre et des interventions diverses dans l'espace public. 
+      Je suis Professeur de sociologie à l’Institut d’Études Politiques de l’Université Grenoble Alpes. Mes recherches portent principalement sur la sociologie de la culture et des médias, sur la théorie sociologique et l’histoire des sciences sociales, ainsi que sur les aspects méthodologiques, politiques et éthiques de l’usage des données dans les sciences sociales. Vous trouverez sur ce site des informations sur mes enseignements, les projets de recherche que je mène, mes publications, les étudiant•es que j'encadre et des interventions diverses dans l'espace public. 
       <br><br>
       <hr size = 1>
       <br>
