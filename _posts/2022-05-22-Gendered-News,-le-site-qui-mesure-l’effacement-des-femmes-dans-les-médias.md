@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gendered News, le site qui mesure l’effacement des femmes dans les médias
+title: Gendered News, le site qui mesure l’effacement des femmes dans les médias (Télérama)
 categories: debat
 tags: genderednews
 ---
