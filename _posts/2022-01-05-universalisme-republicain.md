@@ -1,6 +1,6 @@
 ---
 layout: post
-title: L’universalisme républicain ne se décrète pas, il se construit
+title: L’universalisme républicain ne se décrète pas, il se construit (Le Monde)
 categories: debat
 tags: debat
 ---
