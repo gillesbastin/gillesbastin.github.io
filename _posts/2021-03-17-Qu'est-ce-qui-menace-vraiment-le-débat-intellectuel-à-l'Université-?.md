@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Qu’est-ce qui menace vraiment le débat intellectuel à l’Université ?
+title: Qu’est-ce qui menace vraiment le débat intellectuel à l’Université ? (Le Monde)
 categories: debat
 tags: debat
 ---
