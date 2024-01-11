@@ -19,15 +19,6 @@ categories: debat
         </a>
       </td>
     </tr>
-    <tr>
-      <td style="width:15%;border:none;">
-      </td>
-      <td style="border:none;">
-      {%- if site.show_excerpts -%}
-        <i>{{ post.excerpt | strip_html | truncatewords:0 }}</i>
-      {%- endif -%}
-      </td>
-    </tr>
     {% endfor %}
   </table>
 <br>
