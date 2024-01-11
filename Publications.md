@@ -99,7 +99,7 @@ Merci de consulter [le serveur HAL](https://cv.archives-ouvertes.fr/gilles-basti
 
 #### Contributions | Book chapters
 
-[13] Gilles Bastin, « Le démon wébérien du journalisme. Ordre de vie, anonymat et personnalité dans le siècle de la presse », in Jean-Pierre Grossein & Béatrice Hibou (dir.), _Travailler avec Max Weber_, Éditions de la Maison des sciences de l'homme, Paris, 2022.
+[13] Gilles Bastin, [« Le démon wébérien du journalisme. Ordre de vie, anonymat et personnalité dans le siècle de la presse »](https://gillesbastin.github.io/publications/2022/12/01/Demon-du-journalisme.html), in Jean-Pierre Grossein & Béatrice Hibou (dir.), _Travailler avec Max Weber_, Éditions de la Maison des sciences de l'homme, Paris, 2022.
 
 [12] Gilles Bastin, « Gravitation, aléa, séquence. Variations sociologiques autour du concept de carrière », in D. Demazière et M. Jouvenet (dir.), _La sociologie d’Andrew Abbott_, Presses de l’EHESS, 2016, vol. 2, pp. 195-216 ([hal-01385699](https://hal.archives-ouvertes.fr/hal-01385699v1)).
 
