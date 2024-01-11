@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Les aides a la presse peuvent-elles contribuer à promouvoir le journalisme d'interêt public ?
+title: Les aides a la presse peuvent-elles contribuer à promouvoir le journalisme d'interêt public ? (The Conversation)
 categories: debat
 tags: debat
 ---
