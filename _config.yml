@@ -26,6 +26,7 @@ rss: rss
 
 
 show_excerpts: true # set to true to show excerpts on the homepage
+page_excerpts: true # les pages ont aussi un excerpt
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
