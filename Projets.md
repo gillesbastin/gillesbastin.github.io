@@ -10,7 +10,7 @@ Projets de recherche en cours.
 {% for page in site.pages %}
   {% if page.categories contains 'projets' %}
   <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
-  <br>{{ page.excerpt | strip_html | truncatewords:75}}
+  <br>{{ page.excerpt}}
   {% endif %}
 {% endfor %}
 
