@@ -25,8 +25,6 @@ Projets de recherche en cours.
       </td>
     </tr>
     <tr>
-      <td style="width:15%;border:none;">
-      </td>
       <td style="border:none;">
       {%- if site.show_excerpts -%}
         <i>{{ page.excerpt | strip_html | truncatewords:75}}</i>
