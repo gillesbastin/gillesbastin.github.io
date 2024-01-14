@@ -2,6 +2,7 @@
 title: Projets
 layout: page
 permalink: /projects/
+categories: projets
 ---
 
 {% for page in site.pages %}
