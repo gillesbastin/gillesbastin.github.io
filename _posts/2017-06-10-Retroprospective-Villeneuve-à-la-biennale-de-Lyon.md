@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Retroprospective Villeneuve à la biennale de Lyon"
+title: Retroprospective Villeneuve à la biennale de Lyon
 categories: debat
 tags: videogazette
 ---
