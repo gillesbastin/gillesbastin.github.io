@@ -7,7 +7,11 @@ categories: projets
 
 <h2>Arpenteurs</h2>
 
+Le projet « Les arpenteurs » a pris naissance dans le cadre d'un cours d'Histoire des pratiques journalistiques à l' École de journalisme de Grenoble (Université Grenoble Alpes / Sciences Po Grenoble) à partir de l'année 2017-2018. L'objectif de ce projet est de documenter et de cartographier de la manière la plus exhaustive possible la façon dont les premières générations de reporters de la presse française ont parcouru le monde qui s'ouvrait de plus en plus à eux, avec le perfectionnement des moyens de transport, l'intensification de la curiosité du lectorat pour les récits de leurs voyages et l'augmentation des moyens des journaux qui les envoyaient en reportage. 
+
 <h2>FeedingBias</h2>
+
+Le projet FeedingBias vise à fournir des données et des outils analytiques pour une meilleure compréhension de l’exposition à l’information sur les réseaux sociaux et des interactions des individus avec ces informations. Il est fondé sur le recrutement d’un large échantillon d’utilisateurs des médias sociaux répondant à une enquête par questionnaire et nous donnant accès, de manière très contrôlée, à des informations sur leurs comptes sur Twitter, Instagram et Facebook ainsi que sur leur activité sur YouTube. Ce projet a été financé dans le cadre de l'appel à projets 2022 de l'Agence Nationale de la Recherche.
 
 <h2>GenderedNews</h2>
 
