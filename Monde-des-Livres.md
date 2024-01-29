@@ -1,5 +1,5 @@
 ---
-title: Le Monde des Livres
+title: Lectures
 permalink: /livres/
 layout: page
 categories: chronique
