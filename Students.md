@@ -16,6 +16,6 @@ Vous trouverez ici des renseignements sur les étudiant•es que j'encadre. N'h�
 
 <h4>Thèses Soutenues | Defended PhD</h4>
 
-- [Antoine Machut](https://www.pacte-grenoble.fr/membres/antoine-machut) : Structure des mondes de l'information financière en France (Antoine Machut est actuellement post-doctorant au Medialab de Sciences Po. Avant cela, il a été post-doctorant au Data Institute de l’Université Grenoble Alpes puis post-doctorant sur l’ANR VICO (Pacte, dir. P. Mercklé) et sur l’ANR ProVirCap (IRISSO, dir. L. Bereni)).
+- [Antoine Machut](https://www.pacte-grenoble.fr/fr/antoine-machut) : Structure des mondes de l'information financière en France (Antoine Machut est actuellement post-doctorant au Medialab de Sciences Po. Avant cela, il a été post-doctorant au Data Institute de l’Université Grenoble Alpes puis post-doctorant sur l’ANR VICO (Pacte, dir. P. Mercklé) et sur l’ANR ProVirCap (IRISSO, dir. L. Bereni)).
 
 <br><br>
