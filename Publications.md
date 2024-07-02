@@ -45,6 +45,10 @@ Merci de consulter [le serveur HAL](https://cv.archives-ouvertes.fr/gilles-basti
 
 #### Articles dans des revues scientifiques | Articles
 
+[28] Jérôme Pacouret, Gilles Bastin et Emmanuel Marty. « L’espace social des réseaux sociaux. Une approche relationnelle de l’usage des plateformes numériques en France », Sociologie, vol. 15, no. 2, 2024, pp. 119-146 ([https://www.cairn.info/revue-sociologie-2024-2-page-119.htm](https://www.cairn.info/revue-sociologie-2024-2-page-119.htm)). 
+
+[27] Gilles Bastin et Clément Bert-Erboul, « Journalists’ authority and its bounded trade. Twitter, Journalists, and Boundary Work in Contemporary France's Music Scene », _Journalism_, online, 2024 ([https://doi.org/10.1177/14648849241255941](https://doi.org/10.1177/14648849241255941)).
+
 [26] Antoine Machut et Gilles Bastin, [« Emploi flexible, tournois à l’entrée et probabilité de durer dans le monde du journalisme »](https://gillesbastin.github.io/publications/2023/08/25/tournois-entree-sociologie-du-travail.html), Sociologie du travail, 65(3), 2023 ([https://journals.openedition.org/sdt/44138](https://journals.openedition.org/sdt/44138#quotation)).
 
 [25] Gilles Bastin, [« Gender Imbalance in the Media : Time Lag or Hysteresis ? French Newspapers, Gender Parity Shocks, and the Long and Winding Road to the Demasculinization of Political Reporting (1990–2020) »](https://gillesbastin.github.io/publications/2022/12/01/Gender-Imbalance-in-the-Media.html), International Journal of Press and Politics, 2022 [https://doi.org/10.1177/19401612221143074](https://doi.org/10.1177/19401612221143074).
