@@ -14,15 +14,13 @@ categories: projets
       <hr size = 1>
       <br>
 <h3>FeedingBias</h3>
-
 Le projet FeedingBias vise à fournir des données et des outils analytiques pour une meilleure compréhension de l’exposition à l’information sur les réseaux sociaux et des interactions des individus avec ces informations. Il est fondé sur le recrutement d’un large échantillon d’utilisateurs des médias sociaux répondant à une enquête par questionnaire et nous donnant accès, de manière très contrôlée, à des informations sur leurs comptes sur Twitter, Instagram et Facebook ainsi que sur leur activité sur YouTube. Ce projet a été financé dans le cadre de l'appel à projets 2022 de l'Agence Nationale de la Recherche.
-      
-      
-     
+    
     </td>
     <td width="4%">
     </td>
     <td width="48%" valign="top">
+    
     <h3>GenderedNews</h3>
 
 Le projet GenderedNews est une contribution interdisciplinaire (sociologie / informatique) à la mesure les inégalités de mention et de citation des hommes et des femmes dans les articles publiés par les principaux journaux français. L'approche privilégiée dans GenderedNews est fondée sur le Traitement Automatique du Langage Naturel permettant notamment la comparaison de résultats sur une très longue durée sans échantillonnage ; un gain de temps et une garantie d’homogénéité méthodologique ; ainsi que la production de résultats très détaillés dans des temps très brefs qui permettent d’envisager une appropriation possible par les acteurs souhaitant faire évoluer leurs pratiques. GenderedNews est un projet de recherche de l’Université Grenoble Alpes. Il associe la chaire Société algorithmique et la chaire Intelligence Artificielle & Language de l'Institut Interdisciplinaire en Intelligence Artificielle (MIAI), ainsi que l'AFP, Mediapart, le Ministère de la Culture et l'association Prenons la Une. ([Voir la page du projet](/genderednews.md))
