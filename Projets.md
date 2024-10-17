@@ -4,7 +4,7 @@ layout: page
 permalink: /projects/
 categories: projets
 ---
-
+<html>
 <table>
   <tr>
     <td width="48%" valign="top">
@@ -36,5 +36,5 @@ Entre 1972 et 1976, des habitants du nouveau quartier de la Villeneuve à Grenob
   </tr>
 </table>
 
-
+</html>
 
