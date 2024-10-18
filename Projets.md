@@ -14,7 +14,7 @@ categories: projets
       de cartographier de la manière la plus exhaustive possible la façon dont les premières générations de reporters de la presse française ont
       parcouru le monde qui s'ouvrait de plus en plus à eux, avec le perfectionnement des moyens de transport, l'intensification de la curiosité
       du lectorat pour les récits de leurs voyages et l'augmentation des moyens des journaux qui les envoyaient en reportage.
-      <br>
+      <br><br>
       <hr size = 1>
       <br>
       <h3>FeedingBias</h3>
