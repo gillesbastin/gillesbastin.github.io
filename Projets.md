@@ -47,5 +47,4 @@ categories: projets
       ([Voir la page du projet](/videogazette.md))
     </td>  
   </tr>
- <t/able> 
 </table>
