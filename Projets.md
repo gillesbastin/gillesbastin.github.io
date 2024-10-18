@@ -8,7 +8,7 @@ categories: projets
 <table>
   <tr>
     <td width="48%" valign="top">
-      <b></b><h3>Arpenteurs</h3></b>
+      <b><h3>Arpenteurs</h3></b>
       Le projet « Les arpenteurs » a pris naissance dans le cadre d'un cours d'Histoire des pratiques journalistiques à l' École de journalisme
       de Grenoble (Université Grenoble Alpes / Sciences Po Grenoble) à partir de l'année 2017-2018. L'objectif de ce projet est de documenter et
       de cartographier de la manière la plus exhaustive possible la façon dont les premières générations de reporters de la presse française ont
