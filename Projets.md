@@ -35,7 +35,9 @@ categories: projets
       dans des temps très brefs qui permettent d’envisager une appropriation possible par les acteurs souhaitant faire évoluer leurs pratiques.
       GenderedNews est un projet de recherche de l’Université Grenoble Alpes. Il associe la chaire Société algorithmique et la chaire
       Intelligence Artificielle & Language de l'Institut Interdisciplinaire en Intelligence Artificielle (MIAI), ainsi que l'AFP, Mediapart, le
-      Ministère de la Culture et l'association Prenons la Une. ([Voir la page du projet](/genderednews.md))
+      Ministère de la Culture et l'association Prenons la Une.
+      <br>
+      <a href="https://gillesbastin.github.io/genderednews/">Voir la page du projet</a>
       <br><br>
       <hr size = 1>
       <br>
@@ -44,8 +46,6 @@ categories: projets
       avec les moyens qu'offrait le développement de la vidéo portative. Cette expérience, qui prit le nom de Vidéogazette, est pionnière en
       France. Elle prit fin en 1976. Le projet Videogazette.net est né quarante ans plus tard pour mettre les images produites par les habitants
       de la Villeneuve de Grenoble à nouveau en circulation dans l'espace public et documenter le contexte dans lequel elles furent produites.
-      <br>
-      <a href="https://gillesbastin.github.io/genderednews/">Voir la page du projet</a>
     </td>  
   </tr>
 </table>
