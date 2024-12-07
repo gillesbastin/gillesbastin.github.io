@@ -43,8 +43,8 @@ Vous trouverez sur cette page des liens vers les pages des cours principaux que 
       L’histoire du journalisme est souvent mal connue. L’objectif de ce cours du Master de Journalisme est de contribuer à une meilleure connaissance de cette histoire à partir de l’étude de grands moments fondateurs et de figures typiques des différentes 
       configurations de pratiques que l’on a appelées, à diverses périodes, « journalisme ». Ce cours permet aux étudiants de se familiariser, entre autres, avec l’histoire du reportage, de l’enquête, de l’objectivité ou du style littéraire en journalisme. 
       Il se conclut par une réflexion sur les mutations contemporaines des pratiques journalistiques.
-      - [Syllabus](/pdf/Histoire des Pratiques Journalistiques 2021-2022.pdf)
-      - [Accès au Moodle du cours](https://cours.univ-grenoble-alpes.fr/course/view.php?id=18108)
+      [Syllabus](/pdf/Histoire des Pratiques Journalistiques 2021-2022.pdf)
+      [Accès au Moodle du cours](https://cours.univ-grenoble-alpes.fr/course/view.php?id=18108)
       <br><br>
       <hr size = 1>
       <br>
@@ -53,8 +53,8 @@ Vous trouverez sur cette page des liens vers les pages des cours principaux que 
       prennent petit à petit la place des règles institutionnelles, des routines organisationnelles ou des principes professionnels pour arbitrer des situations, décider du devenir des individus ou des connaissances auxquelles ils ou elles sont exposé•es. 
       À partir d’une démarche mêlant discussion théorique et étude de cas le cours essaiera de définir ce « tournant algorithmique » de la société et d’en étudier l’origine et les effets.
       Les étudiant•es sont invité•es à participer au cours de façon active par le biais de lectures régulières, de participation à des discussions en cours et en produisant deux « papiers » dans le cadre du cours.
-      - [Syllabus](/pdf/Societe-Algorithmique-Syllabus.pdf)
-      - [Accès (réservé) aux documents du cours](https://drive.google.com/drive/folders/16P7jJnqoW85xtka--PfebQiOwAvZx5UQ?usp=sharing)
+      [Syllabus](/pdf/Societe-Algorithmique-Syllabus.pdf)
+      [Accès (réservé) aux documents du cours](https://drive.google.com/drive/folders/16P7jJnqoW85xtka--PfebQiOwAvZx5UQ?usp=sharing)
       </td>
    </tr>
 </table>
