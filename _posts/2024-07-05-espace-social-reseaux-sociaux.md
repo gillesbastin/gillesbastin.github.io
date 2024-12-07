@@ -1,6 +1,6 @@
 ---
 layout : post
-title : 'L’espace social des réseaux sociaux. Une approche relationnelle de l’usage des plateformes numériques en France'
+title : 'L’espace social des réseaux sociaux'
 categories : publications
 tags: Article
 ---
