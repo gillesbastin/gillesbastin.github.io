@@ -16,7 +16,7 @@ Tous les messages postés sur ce site sont consultables ici.
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span>{{ post.date | date: date_format }}</span>
         </td>
-        <td style="width:5%;border:none;">
+        <td style="width:2%;border:none;">
         </td>
         <td style="border:none;">
           <a href="{{ post.url | relative_url }}">
