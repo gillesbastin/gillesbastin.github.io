@@ -33,12 +33,12 @@ Vous trouverez sur cette page des liens vers les pages des cours principaux que 
       <br>
       [Syllabus]()
       [Accès au Moodle du cours](https://cours.univ-grenoble-alpes.fr/course/view.php?id=18277)
-      </td>
+    </td>
       
-      <td width="4%">
-      </td>
+    <td width="4%">
+    </td>
       
-      <td width="48%" valign="top">
+    <td width="48%" valign="top">
       <h3>Histoire des pratiques journalistiques</h3>
       L’histoire du journalisme est souvent mal connue. L’objectif de ce cours du Master de Journalisme est de contribuer à une meilleure connaissance de cette histoire à partir de l’étude de grands moments fondateurs et de figures typiques des différentes 
       configurations de pratiques que l’on a appelées, à diverses périodes, « journalisme ». Ce cours permet aux étudiants de se familiariser, entre autres, avec l’histoire du reportage, de l’enquête, de l’objectivité ou du style littéraire en journalisme. 
@@ -55,8 +55,8 @@ Vous trouverez sur cette page des liens vers les pages des cours principaux que 
       Les étudiant•es sont invité•es à participer au cours de façon active par le biais de lectures régulières, de participation à des discussions en cours et en produisant deux « papiers » dans le cadre du cours.
       [Syllabus](/pdf/Societe-Algorithmique-Syllabus.pdf)
       [Accès (réservé) aux documents du cours](https://drive.google.com/drive/folders/16P7jJnqoW85xtka--PfebQiOwAvZx5UQ?usp=sharing)
-      </td>
-   </tr>
+    </td>
+  </tr>
 </table>
 
 <br><br>
