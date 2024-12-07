@@ -1,6 +1,7 @@
 ---
 layout : post
 title : Journalists’ authority and its bounded trade. Twitter, Journalists, and Boundary Work in Contemporary France’s Music Scene
+subtitle : sous-titre
 categories : publications
 tags: Article
 ---
