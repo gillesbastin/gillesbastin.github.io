@@ -60,8 +60,10 @@ Vous trouverez sur cette page des liens vers les pages des cours principaux que 
       - [Syllabus](/pdf/Societe-Algorithmique-Syllabus.pdf)
       - [Accès (réservé) aux documents du cours](https://drive.google.com/drive/folders/16P7jJnqoW85xtka--PfebQiOwAvZx5UQ?usp=sharing)
       </td>
-  </tr>
+   </tr>
 </table>
+
+<br><br>
 
 ---
 
