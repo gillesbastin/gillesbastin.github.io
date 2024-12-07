@@ -21,7 +21,7 @@ Vous trouverez sur cette page des liens vers les pages des cours principaux que 
       <br>
       <a href="https://gillesbastin.github.io/pdf/Sociologie_contemporaine_2022-2023_Syllabus.pdf">Syllabus</a>
       <br>
-      <a href="[https://gillesbastin.github.io/pdf/Sociologie_contemporaine_2022-2023_Syllabus.pdf](https://cours.univ-grenoble-alpes.fr/course/view.php?id=16967)">Moodle du cours</a>
+      <a href="https://cours.univ-grenoble-alpes.fr/course/view.php?id=16967">Moodle du cours</a>
       
       <br><br>
       <hr size = 1>
