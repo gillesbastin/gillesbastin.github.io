@@ -1,5 +1,5 @@
 ---
-title: Ecarts de représentation et stéréotypes genrés dans les médias. Où en sommes nous ? (Assises du Journalisme, Tours)
+title: Ecarts de représentation et stéréotypes genrés dans les médias. Où en sommes nous ?
 layout: post
 categories: conferences, debat
 tags: genderednews
