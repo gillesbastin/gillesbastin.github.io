@@ -5,7 +5,8 @@ description: > # this means to ignore newlines until "twitter_username:"
   Projets de recherche, notes, lectures, informations à destination des étudiants, publications | Research projects, notes, readings, course details for students, publications and contact informations.
 
 # social links
-twitter_username: gillesbastin
+# twitter_username: gillesbastin
+bluesky_username: gillesbastin
 github_username:  gillesbastin
 rss: rss
 # dribbble_username: jekyll
