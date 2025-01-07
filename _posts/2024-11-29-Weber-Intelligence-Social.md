@@ -13,4 +13,4 @@ La réception de l’œuvre du sociologue allemand Max Weber (1864-1920) a longt
 
 Si l’on ajoute à ce paysage désolé le fait que les textes de Weber ne sont toujours pas disponibles de manière exhaustive en français, on ne peut que se réjouir de voir paraître aujourd’hui Max Weber et l’intelligence du social. Jean-Pierre Grossein, l’auteur de cet essai érudit et lumineux, a consacré comme traducteur plus de trente ans à la clarification des idées wébériennes en français. Dans ce livre, il en dégage petit à petit une interprétation d’une clarté fascinante.
 
-(Lire la suite sur le site du [Monde des Livres](https://www.lemonde.fr/livres/article/2024/12/01/max-weber-et-l-intelligence-du-social-prolegomenes-de-jean-pierre-grossein-max-weber-plus-vivant-que-jamais_6423530_3260.html?random=1711314654)
+(Lire la suite sur le site du [Monde des Livres](https://www.lemonde.fr/livres/article/2024/12/01/max-weber-et-l-intelligence-du-social-prolegomenes-de-jean-pierre-grossein-max-weber-plus-vivant-que-jamais_6423530_3260.html?random=1711314654))
