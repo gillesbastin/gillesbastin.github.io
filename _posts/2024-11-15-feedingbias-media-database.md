@@ -1,6 +1,6 @@
 ---
 layout : post
-title : 'FeedingBias_media : une base de données en accès libre de 894 médias français d’information générale actifs sur les réseaux socio-numériques'.
+title : 'FeedingBias_media : une base de données en accès libre de 894 médias français actifs sur les réseaux socio-numériques'.
 categories : publications
 tags: Article
 ---
