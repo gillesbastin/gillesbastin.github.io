@@ -11,6 +11,6 @@ Cette étude se concentre sur les festivals de musique comme étude de cas pour 
 
 Nos résultats remettent en question la prénotion dominante faisant des journalistes les arbitres principaux de l'autorité sur les plateformes de médias sociaux. Malgré leur présence visible lors des festivals de musique sur Twitter, les journalistes apparaissent comme des participants relativement passifs par rapport aux autres parties prenantes de la scène musicale. De plus, leur capacité à affirmer ou à recevoir de l'autorité de la part de la sphère publique plus large est limitée. Cette étude met donc en lumière la nature limitée du travail de délimitation des journalistes sur les plateformes de médias sociaux, en soulignant les dynamiques évolutives de l'autorité au sein des écosystèmes d'information numérique..
 
-[Lire l'article sur le site de la revue (accès libre)](https://doi.org/10.1177/14648849241255941) • [Accès au dépôt sur Hal](https://hal.science/hal-04637367)
+[Lire l'article sur le site de la revue](https://doi.org/10.1177/14648849241255941) • [Accès au dépôt sur Hal](https://hal.science/hal-04637367)
 
 <object data="https://hal.science/hal-04637367v1/file/Social_networks_and_the_trading_of_journalistic_authority_post-print.pdf" height = "1200" width = "900" type='application/pdf'></object>
