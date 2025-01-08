@@ -15,3 +15,5 @@ We not only analyzed the gendered distribution of mentions and quotes in Le Mond
 Last but not least, we uncovered fascinating insights into how gender inequality has evolved over the long term and continues to change today. Check out the preprint, and stay tuned for more updates (hopefully) soon 👀 !
 
 [Read the preprint on SocArXiv](https://osf.io/preprints/socarxiv/j7ydu)
+
+<object data="https://osf.io/j7ydu/download/" height = "1200" width = "900" type='application/pdf'></object>
