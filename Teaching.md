@@ -49,15 +49,12 @@ Vous trouverez sur cette page des liens vers les pages des cours principaux que 
       <br><br>
       <hr size = 1>
       <br>
-      <h3>Société algorithmique</h3>
-      Ce cours aborde la question de la régulation algorithmique de la société. Sur le marché du travail, sur celui des relations amoureuses, dans les tribunaux ou dans l’espace public animé par les plateformes de réseaux sociaux, des algorithmes 
+      <h3>Données, algorithmes et société</h3>
+      Ce cours de niveau Master aborde la question de la régulation algorithmique de la société. Sur le marché du travail, sur celui des relations amoureuses, dans les tribunaux ou dans l’espace public animé par les plateformes de réseaux sociaux, des algorithmes 
       prennent petit à petit la place des règles institutionnelles, des routines organisationnelles ou des principes professionnels pour arbitrer des situations, décider du devenir des individus ou des connaissances auxquelles ils ou elles sont exposé•es. 
       À partir d’une démarche mêlant discussion théorique et étude de cas le cours essaiera de définir ce « tournant algorithmique » de la société et d’en étudier l’origine et les effets.
-      Les étudiant•es sont invité•es à participer au cours de façon active par le biais de lectures régulières, de participation à des discussions en cours et en produisant deux « papiers » dans le cadre du cours.
       <br>
-      <a href="https://gillesbastin.github.io/pdf/Societe-Algorithmique-Syllabus.pdf">Syllabus</a>
-      <br>
-      <a href="https://cours.univ-grenoble-alpes.fr/course/view.php?id=18108">Moodle du cours</a>
+      <a href="https://cours.univ-grenoble-alpes.fr/course/view.php?id=19711">Moodle du cours</a>
     </td>
   </tr>
 </table>
