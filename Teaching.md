@@ -24,7 +24,6 @@ Vous trouverez sur cette page des liens vers les pages des cours principaux que 
       <a href="https://cours.univ-grenoble-alpes.fr/course/view.php?id=16967">Moodle du cours</a>
       <br><br>
       <hr size = 1>
-      <br>
       <h3>Design de la recherche</h3>
       Le séminaire de design de recherche vise à aider les étudiant•es du Label Recherche (niveau Master) à entreprendre ce qui constitue souvent leur premier travail de recherche. Il s’agit donc de proposer une réflexion autour de la démarche de recherche 
       et d’offrir les outils épistémologiques et méthodologiques pour leur permettre de développer cette démarche avec succès. L’enseignement est dispensé via l’invitation à des lectures portant sur la démarche de recherche et un suivi régulier et personnalisé 
@@ -48,7 +47,6 @@ Vous trouverez sur cette page des liens vers les pages des cours principaux que 
       <a href="https://cours.univ-grenoble-alpes.fr/course/view.php?id=18108">Moodle du cours</a>
       <br><br>
       <hr size = 1>
-      <br>
       <h3>Données, algorithmes et société</h3>
       Ce cours de niveau Master aborde la question de la régulation algorithmique de la société. Sur le marché du travail, sur celui des relations amoureuses, dans les tribunaux ou dans l’espace public animé par les plateformes de réseaux sociaux, des algorithmes 
       prennent petit à petit la place des règles institutionnelles, des routines organisationnelles ou des principes professionnels pour arbitrer des situations, décider du devenir des individus ou des connaissances auxquelles ils ou elles sont exposé•es. 
@@ -57,7 +55,6 @@ Vous trouverez sur cette page des liens vers les pages des cours principaux que 
       <a href="https://cours.univ-grenoble-alpes.fr/course/view.php?id=19711">Moodle du cours</a>
       <br><br>
       <hr size = 1>
-      <br>
       <h3>Méthodes de collecte et d’analyse des données du Web et des réseaux sociaux numériques</h3>
       L’objectif du cours du Label Recherche est d’aider les étudiants à mieux comprendre le tournant numérique des sciences sociales depuis une dizaine d’années : du point de vue des nouvelles sources de données mises à disposition des chercheurs 
       par la numérisation de pans croissants de l’activité sociale (web, réseaux sociaux, numérisation du patrimoine culturel, quantified self…), des nouvelles méthodes utilisées pour les collecter (crawling, usage d’API, scraping, ethnographie en ligne, 
