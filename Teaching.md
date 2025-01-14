@@ -55,6 +55,18 @@ Vous trouverez sur cette page des liens vers les pages des cours principaux que 
       À partir d’une démarche mêlant discussion théorique et étude de cas le cours essaiera de définir ce « tournant algorithmique » de la société et d’en étudier l’origine et les effets.
       <br>
       <a href="https://cours.univ-grenoble-alpes.fr/course/view.php?id=19711">Moodle du cours</a>
+      <br><br>
+      <hr size = 1>
+      <br>
+      <h3>Méthodes de collecte et d’analyse des données du Web et des réseaux sociaux numériques</h3>
+      L’objectif du cours du Label Recherche est d’aider les étudiants à mieux comprendre le tournant numérique des sciences sociales depuis une dizaine d’années : du point de vue des nouvelles sources de données mises à disposition des chercheurs 
+      par la numérisation de pans croissants de l’activité sociale (web, réseaux sociaux, numérisation du patrimoine culturel, quantified self…), des nouvelles méthodes utilisées pour les collecter (crawling, usage d’API, scraping, ethnographie en ligne, 
+      expérimentations…) et de celles utiles pour les analyser (analyse structurale des réseaux et text mining notamment).
+      Le cours aborde aussi les enjeux éthiques, méthodologiques et politiques de l’usage des données du web dans les sciences sociales.
+      Des applications et tutoriels sont proposées dans plusieurs domaines : collecte de données sur Twitter ou Instagram, usage des moteurs de recherche comme Google pour constituer des corpus de pages web, analyse de textes numérisés dans les bibliothèques 
+      en ligne, analyse de données tirées de plateformes comme Airbnb ou LinkedIn, analyse des réseaux de relations sur Twitter ou dans des mailing lists, etc.
+      <br>
+      <a href="https://cours.univ-grenoble-alpes.fr/course/view.php?id=18125">Moodle du cours</a>
     </td>
   </tr>
 </table>
