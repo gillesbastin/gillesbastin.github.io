@@ -34,11 +34,9 @@ Vous trouverez sur cette page des liens vers les pages des cours principaux que 
       <a href="https://gillesbastin.github.io/pdf/Sociologie_contemporaine_2022-2023_Syllabus.pdf">Syllabus</a>
       <br>
       <a href="https://cours.univ-grenoble-alpes.fr/course/view.php?id=18277">Moodle du cours</a>
-    </td>
-      
+    </td>  
     <td width="4%">
     </td>
-      
     <td width="48%" valign="top">
       <h3>Histoire des pratiques journalistiques</h3>
       L’histoire du journalisme est souvent mal connue. L’objectif de ce cours du Master de Journalisme est de contribuer à une meilleure connaissance de cette histoire à partir de l’étude de grands moments fondateurs et de figures typiques des différentes 
