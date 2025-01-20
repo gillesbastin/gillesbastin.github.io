@@ -5,4 +5,4 @@ layout: page
 categories: photos
 ---
 
-{% include image-gallery.html folder="/uploads/album" %}
+{% include image-gallery.html folder="/photos/japan" %}
