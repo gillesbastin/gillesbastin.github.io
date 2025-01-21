@@ -5,9 +5,9 @@ tags: photos
 permalink: /photos/
 layout: post
 galleries:
-  - title: Link to homepage
+  - title: Japon
     image: /photos/japan/20230927_0058.jpg
-    url: /
+    url: /photos/japan/
   - title: Link to image gallery
     image: /uploads/album/2.jpg
     url: /without-plugin/image-gallery
