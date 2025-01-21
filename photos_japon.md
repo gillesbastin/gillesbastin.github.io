@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: page
 title: Japon 2023
 categories: gallery
 tags: photos
