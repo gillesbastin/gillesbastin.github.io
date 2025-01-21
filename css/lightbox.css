@@ -14,7 +14,7 @@
 }
 #lightbox .img img {opacity: 0;
                     pointer-events: none;
-                    width: 100%; /* Adjusted to fill the container */
+                    width: auto; /* Adjusted to fill the container */
                     height: auto;
                    }
 @media screen and (min-width: 1200px) {
