@@ -3,7 +3,7 @@ title: "Photos"
 categories: gallery_index
 tags: photos
 permalink: /photos/
-layout: page
+layout: post
 galleries:
   - title: Link to homepage
     image: /photos/japan/20230927_0058.jpg
@@ -12,3 +12,5 @@ galleries:
     image: /uploads/album/2.jpg
     url: /without-plugin/image-gallery
 ---
+
+{% if page.galleries %}{% include image-gallery-index.html %}{% endif %}
