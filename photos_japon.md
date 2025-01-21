@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Japon 2023"
-categories: gallery
+categories: image-gallery
 tags: photos
 ---
 
-{% include image-gallery.html folder="/photos/japan" %}
+{% include image-gallery.html folder="/photos/japan/" %}
