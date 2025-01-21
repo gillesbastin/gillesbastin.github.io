@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Japon 2023"
 categories: gallery
 tags: photos
