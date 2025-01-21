@@ -1,4 +1,9 @@
 ---
+title: "Photos"
+categories: gallery_index
+tags: photos
+permalink: /photos/
+layout: page
 galleries:
   - title: Link to homepage
     image: /photos/japan/20230927_0058.jpg
