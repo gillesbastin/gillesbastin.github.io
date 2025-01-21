@@ -5,4 +5,4 @@ categories: gallery
 tags: photos
 ---
 
-{% include image-gallery.html folder="/photos/japan/" %}
+{% include image-gallery.html folder="/photos/japan" %}
