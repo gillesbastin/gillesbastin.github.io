@@ -18,7 +18,7 @@
     -ms-transform: translateX(-50%) translateY(-50%);
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    padding: 20px; /* White margin around the image */
+    padding: 20%; /* White margin around the image */
     background-color: white; /* White background for the margin area */
     box-sizing: border-box;
     max-width: 80%; /* Adjust if necessary */
@@ -26,7 +26,7 @@
 }
 
 #lightbox .img img {
-    opacity: 1; /* Ensure the image is visible */
+    opacity: .5; /* Ensure the image is visible */
     pointer-events: auto; /* Enable interactions with the image */
     width: 100%; /* Ensure the image fills its container */
     height: auto; /* Maintain the aspect ratio */
@@ -45,6 +45,7 @@
         max-height: 1200px;
     }
 }
+
 #lightbox span {display: block;
                 position: fixed;
                 bottom: 13px;
