@@ -1,35 +1,32 @@
-#lightbox {
-    width: 100%;
-    height: 100%;
-    position: fixed;
-    top: 0;
-    left: 0;
-    background: rgba(0, 0, 0, 0.85); /* Dark background overlay */
-    z-index: 9999999;
-    line-height: 0;
-    cursor: pointer;
-    display: none; /* Hidden by default */
-}
+#lightbox {width: 100%;
+           height: 100%;
+           position: fixed;
+           top: 0;
+           left: 0;
+           background: rgba(0,0,0,0.85);
+           z-index: 9999999;
+           line-height: 0;
+           cursor: pointer;
+           display: none;}
 
 #lightbox .img {
-    position: absolute; /* Use absolute positioning */
+    position: relative; 
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    max-width: 100%;
+    max-height: 100%;
     padding: 20px; /* White margin around the image */
-    background-color: white; /* White background for the margin area */
     box-sizing: border-box;
-    max-width: 80%; /* Adjust if necessary */
-    max-height: 80%; /* Adjust if necessary */
-    overflow: hidden; /* Prevents overflow if the image is too large */
-    display: block; /* Makes sure the container is displayed */
+    background-color: white; /* White background for the margin area */
 }
 
-#lightbox .img img {
-    opacity: 1; /* Ensure the image is visible */
-    pointer-events: auto; /* Enable interactions with the image */
-    width: 100%; /* Ensure the image fills its container */
-    height: auto; /* Maintain the aspect ratio */
-    display: block; /* Prevent any unwanted space below the image */
-    max-width: 100%; /* Ensure image doesn't overflow the container */
-}
+#lightbox .img img {opacity: 0;
+                    pointer-events: none;
+                    width: 100%;  /* Ensure the image fills its container */
+    height: auto;  /* Maintain the aspect ratio */
+    display: block;  /* Prevent any unwanted space below the image */
+    max-width: 100%;  /* Ensure image doesn't overflow the container */
+                   }
