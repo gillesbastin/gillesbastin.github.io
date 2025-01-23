@@ -27,6 +27,7 @@
   opacity: 0;
   pointer-events: none;
   width: auto;
+  border: 20px solid white;
 }
 
 @media screen and (min-width: 1200px) {
