@@ -19,8 +19,9 @@
     -ms-transform: translateX(-50%) translateY(-50%);
     -webkit-transform: translate(-50%,-50%);
     transform: translate(-50%,-50%);
-    max-width: 80%; /* Taille du container */
+    max-width: auto; /* Taille du container */
     max-height: 80%;/* Taille du container */
+  ratio:
 }
 
 #lightbox .img img { /* Image dans le container */
