@@ -4,7 +4,7 @@
     position: fixed;
     top: 0;
     left: 0;
-    background: rgba(0, 0, 0, 0.85);
+    background: rgba(0, 0, 0, 0.85); /* Dark background for the overlay */
     z-index: 9999999;
     line-height: 0;
     cursor: pointer;
@@ -15,14 +15,13 @@
     position: relative;
     top: 50%;
     left: 50%;
-    -ms-transform: translateX(-50%) translateY(-50%);
-    -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    padding: 40px; /* White margin around the image */
-    background-color: white; /* White background for the margin area */
+    max-width: 80%; /* Limit the max size of the image container */
+    max-height: 80%; /* Limit the max height of the image container */
+    background-color: white; /* White background for the margin */
+    padding: 20px; /* Padding creates space around the image inside the container */
+    margin: auto; /* Center the image container */
     box-sizing: border-box;
-    max-width: 80%; /* Adjust if necessary */
-    max-height: 80%; /* Adjust if necessary */
 }
 
 #lightbox .img img {
@@ -33,6 +32,7 @@
     display: block; /* Prevent any unwanted space below the image */
     max-width: 100%; /* Ensure image doesn't overflow the container */
 }
+
 
 @media screen and (min-width: 1200px) {
     #lightbox .img {
