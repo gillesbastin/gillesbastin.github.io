@@ -28,6 +28,9 @@
   opacity: 1;
   pointer-events: none;
   width: auto;
+  background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
   border: 30px solid white;
 }
 
