@@ -21,7 +21,6 @@
     max-height: 80%;/* Taille du container */
     max-width: 80%; /* Taille du container */
     background: rgba(0,0,0,0.85);
-    display: none; /* Hidden by default */
 }
 
 #lightbox .img img { /* Image dans le container */
