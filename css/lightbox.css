@@ -20,7 +20,7 @@
     -webkit-transform: translate(-50%,-50%);
     transform: translate(-50%,-50%);
     max-height: 80%;/* Taille du container */
-    max-width: auto; /* Taille du container */
+    max-width: 80%; /* Taille du container */
 }
 
 #lightbox .img img { /* Image dans le container */
