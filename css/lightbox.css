@@ -12,7 +12,8 @@
 }
 
 #lightbox .img { /* Container de l'image */  
-    position: relative; 
+    position: relative;
+  display: flex;
     top: 50%;
     left: 50%;
     -ms-transform: translateX(-50%) translateY(-50%);
@@ -23,6 +24,7 @@
 }
 
 #lightbox .img img { /* Image dans le container */
+  max-height: 100%; /* Taille du container */
   opacity: 1;
   pointer-events: none;
   width: auto;
