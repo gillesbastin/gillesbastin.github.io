@@ -18,7 +18,7 @@
     -ms-transform: translateX(-50%) translateY(-50%);
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    padding: 20px; /* White margin around the image */
+    padding: 40px; /* White margin around the image */
     background-color: white; /* White background for the margin area */
     box-sizing: border-box;
     max-width: 80%; /* Adjust if necessary */
