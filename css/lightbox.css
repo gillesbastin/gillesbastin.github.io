@@ -20,11 +20,10 @@
     transform: translate(-50%,-50%);
     max-width: 80%; /* Taille du container */
     max-height: 80%;/* Taille du container */
-    border: 20px solid white;
 }
 
 #lightbox .img img { /* Image dans le container */
-  opacity: 0;
+  opacity: 1;
   pointer-events: none;
   width: auto;
   border: 20px solid white;
