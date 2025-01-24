@@ -51,6 +51,8 @@
     right: 20px;
     width: 30px;
     height: 30px;
+    text-decoration: none; 
+    z-index: 99; 
     cursor: pointer;
 }
 #lightbox #close:before,
