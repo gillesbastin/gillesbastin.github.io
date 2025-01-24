@@ -57,12 +57,24 @@
 }
 #lightbox #close:before,
 #lightbox #close:after {
-    position: fixed;
+    position: absolute;
     left: 15px;
     content: '';
     height: 3px;
     width: 20px;
     background-color: white;
+    -webkit-transform-origin: 50% 50%;
+  -moz-transform-origin: 50% 50%;
+  -o-transform-origin: 50% 50%;
+  transform-origin: 50% 50%;
+  /* Safari */
+  -webkit-transform: rotate(-45deg);
+  /* Firefox */
+  -moz-transform: rotate(-45deg);
+  /* IE */
+  -ms-transform: rotate(-45deg);
+  /* Opera */
+  -o-transform: rotate(-45deg);
 }
 #lightbox #close:before {
     transform: rotate(45deg);
