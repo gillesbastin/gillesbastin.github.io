@@ -76,9 +76,8 @@ document.getElementById('lightbox').addEventListener("click", function(event) {
 });
 
   document.getElementById('lightbox').innerHTML = 
-    '<a id="close"></a>' +  // Ensure this is added
-    '<a id="next">&rsaquo;</a>' + 
-    '<a id="prev">&lsaquo;</a>' + 
+    `<a id="close" style="display:block; position:absolute; top:20px; right:20px; width:30px; height:30px; background:red;"></a>` +
+    '<a id="next">&rsaquo;</a><a id="prev">&lsaquo;</a>' + 
     '<div class="img" style="background: url(\''+this.getAttribute('href')+'\') center center / contain no-repeat;" title="'+this.getAttribute('title')+'" >' +
     '<img src="'+this.getAttribute('href')+'" alt="'+this.getAttribute('title')+'" />' +
     '</div>' +
