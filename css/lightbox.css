@@ -46,7 +46,7 @@
 #lightbox #prev {left: 0;}
 #lightbox #next {right: 0;}
 #lightbox #close {
-    position: absolute;
+    position: fixed;
     top: 20px;
     right: 20px;
     width: 30px;
@@ -55,7 +55,7 @@
 }
 #lightbox #close:before,
 #lightbox #close:after {
-    position: absolute;
+    position: fixed;
     left: 15px;
     content: '';
     height: 3px;
