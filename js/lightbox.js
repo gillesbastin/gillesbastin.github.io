@@ -69,13 +69,11 @@ document.addEventListener("DOMContentLoaded", function() {
         }
     });
 
-    // Existing lightbox click handlers remain the same...
-    document.getElementById('lightbox').addEventListener("click", function(event) {
-        if(event.target.id != 'next' && event.target.id != 'prev'){
-            this.innerHTML = '';
-            this.style.display = 'none';
-        }
-    });
+document.getElementById('lightbox').addEventListener("click", function(event) {
+    // Close lightbox on any click, not just when not on next/prev
+    this.innerHTML = '';
+    this.style.display = 'none';
+});
     
     //add the youtube lightbox on click
     var youtubeElements = document.querySelectorAll('a.lightbox-youtube');
