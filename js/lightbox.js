@@ -77,49 +77,46 @@ function setGallery(el) {
 }
 
 document.addEventListener("DOMContentLoaded", function() {
-
     //create lightbox div in the footer
     var newdiv = document.createElement("div");
     newdiv.setAttribute('id',"lightbox");
     document.body.appendChild(newdiv);
 
     //add classes to links to be able to initiate lightboxes
-    var elements = document.querySelectorAll('a');
+    var elements = document.querySelectorAll('a.lightbox, a[data-lightbox]');
     elements.forEach(element => {
         var url = element.getAttribute('href');
         if(url) {
-            if(url.indexOf('vimeo') !== -1 && !element.classList.contains('no-lightbox')) {
+            if(url.indexOf('vimeo') !== -1) {
                 is_vimeolink(url,element);
             }
-            if(is_youtubelink(url) && !element.classList.contains('no-lightbox')) {
+            if(is_youtubelink(url)) {
                 element.classList.add('lightbox-youtube');
                 element.setAttribute('data-id',is_youtubelink(url));
             }
-            if(is_imagelink(url) && !element.classList.contains('no-lightbox')) {
+            if(is_imagelink(url)) {
                 element.classList.add('lightbox-image');
-                var href = element.getAttribute('href');
-                var filename = href.split('/').pop();
-                var split = filename.split(".");
-                var name = split[0];
+                var filename = url.split('/').pop();
+                var name = filename.split(".")[0];
                 element.setAttribute('title',name);
             }
         }
     });
 
-    //remove the clicked lightbox
+    // Existing lightbox click handlers remain the same...
     document.getElementById('lightbox').addEventListener("click", function(event) {
         if(event.target.id != 'next' && event.target.id != 'prev'){
             this.innerHTML = '';
-            document.getElementById('lightbox').style.display = 'none';
+            this.style.display = 'none';
         }
     });
     
     //add the youtube lightbox on click
-    var elements = document.querySelectorAll('a.lightbox-youtube');
-    elements.forEach(element => {
+    var youtubeElements = document.querySelectorAll('a.lightbox-youtube');
+    youtubeElements.forEach(element => {
         element.addEventListener("click", function(event) {
             event.preventDefault();
-            document.getElementById('lightbox').innerHTML = '<a id="close"></a><a id="next">&rsaquo;</a><a id="prev">&lsaquo;</a><div class="videoWrapperContainer"><div class="videoWrapper"><iframe src="https://www.youtube.com/embed/'+this.getAttribute('data-id')+'?autoplay=1&showinfo=0&rel=0"></iframe></div>';
+            document.getElementById('lightbox').innerHTML = '<a id="close"></a><a id="next">&rsaquo;</a><a id="prev">&lsaquo;</a><div class="videoWrapperContainer"><div class="videoWrapper"><iframe src="https://www.youtube.com/embed/'+this.getAttribute('data-id')+'?autoplay=1&showinfo=0&rel=0"></iframe></div></div>';
             document.getElementById('lightbox').style.display = 'block';
 
             setGallery(this);
@@ -127,8 +124,8 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 
     //add the image lightbox on click
-    var elements = document.querySelectorAll('a.lightbox-image');
-    elements.forEach(element => {
+    var imageElements = document.querySelectorAll('a.lightbox-image');
+    imageElements.forEach(element => {
         element.addEventListener("click", function(event) {
             event.preventDefault();
             document.getElementById('lightbox').innerHTML = '<a id="close"></a><a id="next">&rsaquo;</a><a id="prev">&lsaquo;</a><div class="img" style="background: url(\''+this.getAttribute('href')+'\') center center / contain no-repeat;" title="'+this.getAttribute('title')+'" ><img src="'+this.getAttribute('href')+'" alt="'+this.getAttribute('title')+'" /></div><span>'+this.getAttribute('title')+'</span>';
@@ -137,5 +134,4 @@ document.addEventListener("DOMContentLoaded", function() {
             setGallery(this);
         });
     });
-
 });
