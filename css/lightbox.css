@@ -42,7 +42,7 @@
   color: white; 
   font-size: 60px;
 }
-#lightbox.gallery #prev, #lightbox.gallery #next {display: block;}
+#lightbox.gallery #prev, #lightbox.gallery #next {display: none;}
 #lightbox #prev {left: 0;}
 #lightbox #next {right: 0;}
 #lightbox #close {
