@@ -8,7 +8,7 @@
   z-index: 9999999; 
   line-height: 0; 
   cursor: pointer; 
-  display: none;}
+  display: block;}
 
 #lightbox .img {
     position: relative; 
