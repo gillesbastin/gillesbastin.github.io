@@ -64,7 +64,14 @@
   right: 20px; 
   top: 20px;}
 
-#lightbox #close:after, #lightbox #close:before {position: absolute; margin-top: 22px; margin-left: 14px; content: ""; height: 3px; background: white; width: 23px;
+#lightbox #close:after, #lightbox #close:before {
+  position: absolute;
+  margin-top: 22px;
+  margin-left: 14px; 
+  content: ""; 
+  height: 3px; 
+  background: white; 
+  width: 23px;
 -webkit-transform-origin: 50% 50%;
 -moz-transform-origin: 50% 50%;
 -o-transform-origin: 50% 50%;
@@ -78,6 +85,7 @@ transform-origin: 50% 50%;
 /* Opera */
 -o-transform: rotate(-45deg);
 }
+  
 #lightbox #close:after {
 /* Safari */
 -webkit-transform: rotate(45deg);
@@ -88,6 +96,7 @@ transform-origin: 50% 50%;
 /* Opera */
 -o-transform: rotate(45deg);
 }
+  
 #lightbox, #lightbox * {
     -webkit-user-select: none;  
     -moz-user-select: none;    
